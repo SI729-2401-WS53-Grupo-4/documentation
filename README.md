@@ -475,6 +475,12 @@ Convenciones:
 
 ### 5.1.4. Software Deployment Configuration
 
+Para despliegar el landing page, usamos las siguientes herraminetas.
+
+- Git: Para realizar el manejo de las versiones del proyecto.
+- GitHub: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- GitFlow: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
+
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1
