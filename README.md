@@ -403,6 +403,8 @@ Resumen de la entrevista:
 
 ### 2.3.3. User Journey Mapping
 
+
+
 ### 2.3.4. Empathy Mapping
 
 <td><img src="Images/EmpathyMap1.png" alt="Imagen1 empathy"></td>
@@ -425,10 +427,10 @@ Resumen de la entrevista:
 
 ## 3.1. To-Be Scenario Mapping
 
-<td><img src="Images/as-is1.png" alt="Imagen1 as-is"></td>
+<td><img src="Images/tobe1.png" alt="Imagen1 "></td>
     <td>
 
-<td><img src="Images/as-is2.png" alt="Imagen2 as-is"></td>
+<td><img src="Images/tobe2.png" alt="Imagen2 "></td>
     <td>
 
 ## 3.2. User Stories
