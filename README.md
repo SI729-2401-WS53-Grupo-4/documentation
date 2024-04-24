@@ -355,9 +355,21 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<td><img src="Images/Contenedores.png" alt="Imagen del context diagram" width="1500"></td>
+<td><img src="Images/Contenedores.png" alt="Imagen del container diagram" width="1500"></td>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+## Bounded context component Users
+
+<td><img src="Images/ComponentesUsers.png" alt="Imagen del components user diagram" width="1500"></td>
+
+## Bounded context component Tours
+
+<td><img src="Images/ComponentesTours.png" alt="Imagen del components tours diagram" width="1500"></td>
+
+## Bounded context component Security
+
+<td><img src="Images/ComponentesSecurity.png" alt="Imagen del components security diagram" width="1500"></td>
 
 ## 4.7. Software Object-Oriented Design
 
