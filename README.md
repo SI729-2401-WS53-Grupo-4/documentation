@@ -173,8 +173,26 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td>TB1<br>
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las partes importantes como el diagrama de clases, diagrama de base de datos, el Domain-Driven Sotfware Arquitecture, parte del Lean UX, user stories y aporté ideas para el trabajo.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
+    <br>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    <br>
+    <b>Jimena Alessandra Cossio Jimenez</b>
+    <br>
+    <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>    
+    <br>
     <td>TB1
     <br>
+    Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow
     </td>
 
 </tr>
@@ -182,9 +200,29 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <td><b>
 Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
 <td> TB1<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
+        -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
+        -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+    <br>
+<b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    <br>
+<b>Jimena Alessandra, Cossio Jimenez</b>
+    <br>
+    <br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>    
+    <br>
+
 </td>
     <td>TB1
     <br>
+    Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
     </td>
 </tr>
 </table>
