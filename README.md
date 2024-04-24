@@ -337,6 +337,35 @@ En resumen, Adrián busca soluciones para enfrentar los desafíos fiscales, expa
 
 <br/>
 
+<b>Entrevista 2</b><br/>
+
+- Nombre: Fabian de Jesus
+- Apellidos: Solis Perez
+- Edad: 22 años
+- Distrito: Lima - Callao
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpTreatment%2Eview">Entrevista</a>
+- Minuto donde empieza: 17:09
+- Duración: 11:20 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabián Solís Pérez comparte su experiencia gastronómica, destacando su interés en probar nuevas comidas y explorar diferentes culturas culinarias, aunque reconoce que no es una práctica frecuente en su vida cotidiana. Valora la singularidad de la cocina peruana y su deseo de experimentar platos auténticos durante sus viajes.
+
+Destaca la dificultad de encontrar productos específicos de ciertas regiones durante sus viajes, lo que a veces limita su capacidad para cocinar platos locales en ubicaciones remotas. Aprecia la oportunidad de interactuar con chefs y obtener explicaciones detalladas sobre los platos que prueba durante sus experiencias gastronómicas.
+
+Fabián expresa interés en los beneficios que podría obtener al optar por un servicio premium de una agencia de viajes gastronómicos, como clases de cocina personalizadas y atención especializada durante las experiencias gastronómicas. Además, menciona actividades adicionales que le gustaría incluir en un paquete de viajes, como visitas a mercados locales, degustaciones de pisco y cenas con vistas panorámicas.
+
+En resumen, Fabián busca enriquecer su experiencia gastronómica durante sus viajes, valorando la autenticidad de los platos locales y la oportunidad de aprender sobre la cultura culinaria peruana. Está interesado en servicios turísticos que le brinden experiencias personalizadas y actividades únicas que complementen su pasión por la comida y los viajes.
+
+<br/>
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
