@@ -407,6 +407,12 @@ Resumen de la entrevista:
 
 ### 2.3.5. As-is Scenario Mapping
 
+<td><img src="Images/as-is1.png" alt="Imagen1 as-is"></td>
+    <td>
+
+<td><img src="Images/as-is2.png" alt="Imagen2 as-is"></td>
+    <td>
+
 ### 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
