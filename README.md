@@ -403,7 +403,8 @@ Resumen de la entrevista:
 
 ### 2.3.3. User Journey Mapping
 
-
+<td><img src="Images/userjourney.png" alt="Imagen Journey"></td>
+    <td>
 
 ### 2.3.4. Empathy Mapping
 
