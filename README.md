@@ -363,6 +363,387 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.7.2. Class Dictionary
 
+<table>
+    <td colspan= "3" align="center">Usuario</td>
+<tr>
+    <td>int</td>
+    <td>idClient</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Cumpleaños del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>escribirReseña()</td>
+    <td>Reseña que hará el usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>reservarTour()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>reservarClase()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour, a su vez si desea reservar por una clase de cocina, se reservará dicha clase</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>misReservas()</td>
+    <td>Se guardarán todas las reservas del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPreferencias()</td>
+    <td>Pantalla de las preferencias del usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Premium</td>
+<tr>
+    <td>double</td>
+    <td>descuento</td>
+    <td>Descuento que recibirá el usuario premium</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>tourAdicional</td>
+    <td>El usuario premium tendrá la posibilidad de obtener un tour adicional en su paquete de preferencia</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario premium obtendrá un permiso la cual le permitirá realizar consultas con el instructor de la clase</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Gratis</td>
+  <tr>
+    <td>bool</td>
+    <td>limiteTour</td>
+    <td>El usuario gratuito obtendrá un limite de reserva de tours</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario gratuito solo podrá observar la clase más no podrá realizar sus consultas al instructor</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">PlanSuscripción</td>
+  <tr>
+    <td>void</td>
+    <td>metodopago()</td>
+    <td>Metodo de pago que realizará el usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Administrador</td>
+<tr>
+    <td>int</td>
+    <td>idAdmin</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del admin</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del admin</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>password</td>
+    <td>Contraseña del admin</td>
+  </tr>
+
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TarjetaDebito</td>
+<tr>
+    <td>int</td>
+    <td>numTarjeta</td>
+    <td>Número de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de expiración de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del dueño de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>pago()</td>
+    <td>Realizar el pago con la tarjeta de debito</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Reseña</td>
+<tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Calificación del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>comentario</td>
+    <td>Comentario del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Tour</td>
+  <tr>
+    <td>string</td>
+    <td>tituloTour</td>
+    <td>Nombre del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>instructor</td>
+    <td>Nombre del instructor del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>descripción</td>
+    <td>Descripción del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Valoración del tour hecha por los usuarios</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>capacidad</td>
+    <td>Capacidad maxima de personas </td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Duración del tour</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de inicio del tour</td>
+  </tr>
+  <tr>
+    <td>float</td>
+    <td>precio</td>
+    <td>Precio de la reserva del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Dueño</td>
+<tr>
+    <td>int</td>
+    <td>idDueño</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del dueño</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del dueño</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del dueño</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del dueño</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del dueño</td>
+  </tr>
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TastyTourSystem</td>
+<tr>
+    <td>void</td>
+    <td>vistaInicioSesion()</td>
+    <td>Pantalla de inicio de sesión</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>vistaPerfilUsuario()</td>
+    <td>Pantalla del perfil del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaTours()</td>
+    <td>Pantalla de la lista de tours disponibles</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPlanSuscripcion</td>
+    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaSoporte()</td>
+    <td>Pantalla de el el soporte de nuestra plataforma</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaGuía()</td>
+    <td>Pantalla de la guía</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaNovedades()</td>
+    <td>Pantalla de las novedades de la plataforma</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurante</td>
+  <tr>
+    <td>string</td>
+    <td>nombre_restauraunte</td>
+    <td>Nombre del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>ubicación_restau</td>
+    <td>Ubicación del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>horario_restau</td>
+    <td>Horario de atención del restaurante</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">VisitaMercado</td>
+  <tr>
+    <td>int</td>
+    <td>idMercado</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurantes</td>
+  <tr>
+    <td>int</td>
+    <td>idRestaurant</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Clases</td>
+  <tr>
+    <td>int</td>
+    <td>idClass</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Soporte</td>
+<tr>
+    <td>string</td>
+    <td>titulo</td>
+    <td>Nombre del asunto</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>mensaje</td>
+    <td>Mensaje del usuario</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>phoneEmpresa</td>
+    <td>Vista del número telefonico de la empresa</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>emailEmpresa</td>
+    <td>vista del email de la empresa</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>enviarEmail()</td>
+    <td>Función que hará el usuario al enviar su correo a TasteTeam</td>
+  </tr><tr>
+    <td>void</td>
+    <td>contactos()</td>
+    <td>Lista de contactos de TasteTeam</td>
+  </tr>
+
+  </table>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
