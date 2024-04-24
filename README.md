@@ -202,9 +202,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <td> TB1<br>
 <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
-        -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.
-        -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.
-        -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.
+        -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
+        -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
+        -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
