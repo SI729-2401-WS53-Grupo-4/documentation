@@ -303,8 +303,6 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ## 3.2. User Stories
 
-esto es un user story
-
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
