@@ -393,6 +393,12 @@ Resumen de la entrevista:
 
 ### 2.3.1. User Personas
 
+<td><img src="Images/Userp1.png" alt="Imagen1 UserP"></td>
+    <td>
+
+<td><img src="Images/Userp2.png" alt="Imagen2 UserP"></td>
+    <td>
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
