@@ -551,6 +551,12 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ## 3.3. Impact Mapping
 
+<td><img src="Images/ImpactmapA.png" alt="Imagen1 ImpactM"></td>
+    <td>
+
+<td><img src="Images/ImpactmapB.png" alt="Imagen2 ImpactM"></td>
+    <td>
+
 ## 3.4. Product Backlog
 
 # Capítulo IV: Product Design
