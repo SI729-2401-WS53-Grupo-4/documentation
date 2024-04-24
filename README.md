@@ -274,6 +274,8 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 #### 1.2.2.4. Lean UX Canvas
 
+<td><img src="Images/LeanUXcanvas.png" alt="Imagen del canvas" width="1500"></td>
+
 # 1.3. Segmentos Objetivo
 
 # Capítulo II: Requirements Elicitation & Analysis
