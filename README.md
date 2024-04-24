@@ -351,6 +351,8 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<td><img src="Images/Contexto.png" alt="Imagen del context diagram" width="1500"></td>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
 ### 4.6.3. Software Architecture Components Diagrams
