@@ -183,7 +183,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
        - Realicé mis tareas asignadas en el horario correspondiente<br/>
         - Realicé la parte de Problem Statements, Lean UX assumptions, User Personas, User Journey Mapping, Empathy Mapping,  As-Is-Scenario Mapping, To-Be Scenario Mapping e Impact Mapping, como tambien aporté con ideas para el trabajo.<br/>
     <br>
-
     <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
     <br>
@@ -211,7 +210,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
-    <br>
+    - Realicé la parte de Problem Statements, Lean UX assumptions, y los esquemas de User Personas, User Journey Mapping, Empathy Mapping,  As-Is-Scenario Mapping, To-Be Scenario Mapping e Impact Mapping, de acuerdo a la información de obtenida con las entrevistas realizadas.
+    <br><br>
 <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
     <br>
