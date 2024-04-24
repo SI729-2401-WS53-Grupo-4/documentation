@@ -356,27 +356,196 @@ Nuestra plataforma "TasteTour" busca abordar la crisis de inseguridad alimentari
 
 ### 2.2.1. Diseño de entrevistas
 
+Se establecieron preguntas dirigidas a nuestro publico objetivo, con el fin de obtener información, como opiniones o descripciones. Toda la información que nos darán será bastante útil en la creación de nuestra solución.
+
+**Para los amantes de la cocina peruana:**
+
+- ¿Con qué frecuencia exploras nuevas experiencias gastronómicas o pruebas platos de diferentes culturas?
+- ¿Qué es lo que más te atrae de la cocina peruana?
+- ¿Has participado anteriormente en tours gastronómicos o experiencias culinarias durante tus viajes?
+- ¿Qué tipo de actividades relacionadas con la gastronomía te gustaría experimentar en un tour o viaje?
+- ¿Has tenido dificultades para encontrar opciones de calidad para experimentar la cocina peruana durante tus viajes anteriores?
+- ¿Qué te motiva a elegir un restaurante o experiencia gastronómica en particular durante tus viajes?
+- ¿Te parece importante seleccionar un tour gastronómico o una agencia de viajes especializada en turismo culinario?
+- ¿Estarías interesado en utilizar una plataforma en línea especializada en turismo gastronómico peruano, que además ofrezca clases de cocina peruana como parte de sus servicios?
+- ¿Qué beneficios esperarías obtener al optar por un servicio premium de una agencia de viajes gastronómicos?
+- ¿Qué otras actividades relacionadas con la gastronomía y la cultura peruana te gustarían incluir en un paquete de viaje?
+
+**Para los restaurantes peruanos:**
+
+- ¿Cuáles crees que son los principales desafíos a los que se enfrenta tu restaurante en la actualidad?
+- ¿Qué piensas sobre la idea de promover tu restaurante a través de experiencias gastronómicas únicas?
+- ¿Has considerado la posibilidad de asociarte con una plataforma de turismo gastronómico para atraer a nuevos clientes a tu restaurante?
+- ¿Te parece atractivo la propuesta de incluir tu restaurante en recorridos gastronómicos y tours culinarios dirigidos por guías especializados?
+- ¿Qué aspectos consideras más importantes al decidir asociarte con una agencia de viajes especializada en turismo gastronómico?
+- ¿Qué aspectos valoras más al colaborar con una plataforma de turismo gastronómico, como la posibilidad de llegar a un nuevo público o la generación de ingresos adicionales?
+- ¿Te interesaría formar parte de una plataforma especializada en turismo gastronómico peruano como TasteTour para promocionar tu restaurante y atraer más clientes?
+- ¿Te gustaría ofrecer clases de cocina peruana o degustaciones en tu restaurante como parte de la experiencia para los usuarios de la plataforma? 
+- ¿Considerarías ofrecer descuentos especiales o promociones exclusivas para los usuarios de TasteTour como una estrategia para atraer más clientes a tu restaurante?
+- ¿Tienes alguna otra sugerencia o comentario sobre cómo una plataforma como TasteTour podría ser más útil para promocionar y potenciar tu restaurante peruano?
+
 ### 2.2.2. Registro de entrevistas
 
+<b>Entrevista 1</b><br/>
+
+- Nombre: Adrian
+- Apellidos: Zapata Mongrut
+- Edad: 21 años
+- Distrito: Lima - Carabayllo
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
+- Minuto donde empieza: 0:00
+- Duración: 17:10 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Adrián Zapata expresa preocupación por los desafíos fiscales que enfrenta su negocio gastronómico debido a la formalización, lo que ha llevado a un aumento en los impuestos y una reducción en las ganancias. Reconoce la importancia de mantener precios competitivos para atraer clientes, pero también señala la dificultad de mantener la rentabilidad en medio de los aumentos de costos.
+
+Muestra interés en asociarse con un servicio turístico para ampliar su negocio y atraer más clientes, lo que considera vital para mantener la rentabilidad y el crecimiento. Destaca la importancia de la reputación y la imagen de su empresa al asociarse con servicios turísticos.
+
+Adrián valora la experiencia gastronómica única y reconoce la importancia de los clientes en el éxito de su negocio. Se muestra dispuesto a explorar opciones que le brinden más clientes y mayor reconocimiento.
+
+En resumen, Adrián busca soluciones para enfrentar los desafíos fiscales, expandir su negocio y mejorar la experiencia gastronómica para sus clientes. Reconoce la importancia de la asociación con servicios turísticos para aumentar la visibilidad de su empresa y atraer más clientes.
+
+<br/>
+
+<b>Entrevista 2</b><br/>
+
+- Nombre: Fabian de Jesus
+- Apellidos: Solis Perez
+- Edad: 22 años
+- Distrito: Lima - Callao
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpTreatment%2Eview">Entrevista</a>
+- Minuto donde empieza: 17:09
+- Duración: 11:20 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Fabián Solís Pérez comparte su experiencia gastronómica, destacando su interés en probar nuevas comidas y explorar diferentes culturas culinarias, aunque reconoce que no es una práctica frecuente en su vida cotidiana. Valora la singularidad de la cocina peruana y su deseo de experimentar platos auténticos durante sus viajes.
+
+Destaca la dificultad de encontrar productos específicos de ciertas regiones durante sus viajes, lo que a veces limita su capacidad para cocinar platos locales en ubicaciones remotas. Aprecia la oportunidad de interactuar con chefs y obtener explicaciones detalladas sobre los platos que prueba durante sus experiencias gastronómicas.
+
+Fabián expresa interés en los beneficios que podría obtener al optar por un servicio premium de una agencia de viajes gastronómicos, como clases de cocina personalizadas y atención especializada durante las experiencias gastronómicas. Además, menciona actividades adicionales que le gustaría incluir en un paquete de viajes, como visitas a mercados locales, degustaciones de pisco y cenas con vistas panorámicas.
+
+En resumen, Fabián busca enriquecer su experiencia gastronómica durante sus viajes, valorando la autenticidad de los platos locales y la oportunidad de aprender sobre la cultura culinaria peruana. Está interesado en servicios turísticos que le brinden experiencias personalizadas y actividades únicas que complementen su pasión por la comida y los viajes.
+
+<br/>
+
+<b>Entrevista 3</b><br/>
+
+- Nombre: Ana
+- Apellidos: Mendoza
+- Edad: 30 años
+- Distrito: Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
+- Minuto donde empieza: 28:29
+- Duración: 05:03 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+<br/>
+
+**Link de las entrevistas**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
+
 ### 2.2.3. Análisis de entrevistas
+
+<h3> Primer entrevistado: Adrian Zapata </h3> 
+
+<b>Desafíos Fiscales y Rentabilidad del Negocio Gastronómico:</b>
+Adrián muestra preocupación por los desafíos fiscales que enfrenta su negocio gastronómico debido a la formalización, lo que ha resultado en un aumento en los impuestos y una reducción en las ganancias. Esta preocupación refleja su compromiso con la rentabilidad de su negocio y su comprensión de los desafíos financieros que enfrenta en el mercado actual.
+
+<b>Interés en Asociarse con un Servicio Turístico:</b>
+Adrián muestra interés en asociarse con un servicio turístico para ampliar su negocio y atraer más clientes. Reconoce la importancia de la reputación y la imagen de su empresa al asociarse con servicios turísticos, lo que indica una búsqueda activa de soluciones para mejorar la visibilidad de su negocio y atraer una base de clientes más amplia.
+
+<b>Valoración de la Experiencia Gastronómica Única:</b>
+Adrián valora la experiencia gastronómica única y reconoce la importancia de los clientes en el éxito de su negocio. Su interés en mejorar la experiencia gastronómica para sus clientes demuestra su compromiso con la satisfacción del cliente y su disposición a explorar nuevas oportunidades para ofrecer un servicio excepcional.
+
+<b>Búsqueda de Soluciones y Mejora Continua:</b>
+En resumen, Adrián está buscando soluciones para enfrentar los desafíos fiscales, expandir su negocio y mejorar la experiencia gastronómica para sus clientes. Su disposición para asociarse con servicios turísticos y su enfoque en la reputación y la imagen de su empresa sugieren una mentalidad empresarial proactiva y una búsqueda constante de mejora y crecimiento.
+
+Basándonos en el análisis de la entrevista, Adrián parece ser un potencial cliente para la aplicación de TasteTour. Su compromiso con la rentabilidad del negocio, su interés en asociarse con servicios turísticos para atraer más clientes y mejorar la experiencia gastronómica, y su búsqueda de soluciones para enfrentar desafíos financieros sugieren que podría beneficiarse de las soluciones y servicios que ofrece TasteTour.
+
+
+<h3> Segundo entrevistado: Fabian Solis Pérez </h3> 
+
+<b>Exploración de Nuevas Experiencias Gastronómicas:</b>
+Fabian menciona que aunque no es muy frecuente, le gusta explorar nuevas experiencias gastronómicas cuando tiene la oportunidad. Su disposición para probar comida local durante sus viajes sugiere un interés en la gastronomía y la cultura culinaria, lo que podría hacerlo receptivo a las ofertas de TasteTour para descubrir nuevas experiencias culinarias.
+
+<b>Atracción por la Cocina Peruana y su Unicidad:</b>
+Fabian expresa su atracción por la cocina peruana y destaca su unicidad en comparación con otras cocinas internacionales. Su interés en la autenticidad y la singularidad de la cocina peruana sugiere que podría estar interesado en experiencias gastronómicas que le permitan explorar y disfrutar plenamente de la diversidad culinaria del país.
+
+<b>Interés en Tours Gastronómicos y Experiencias Únicas:</b>
+Fabian muestra interés en participar en tours gastronómicos y experiencias culinarias únicas durante sus viajes. Su curiosidad por probar platos auténticos y experiencias gastronómicas locales indica una disposición a sumergirse en la cultura culinaria de un destino, lo que podría hacerlo un cliente potencial para las ofertas de tours gastronómicos de TasteTour.
+
+<b>Valoración de la Experiencia Personalizada y Auténtica:</b>
+Fabian valora la experiencia personalizada y auténtica durante sus viajes gastronómicos, destacando la importancia de la textura y la calidad de los platos. Su búsqueda de experiencias auténticas y personalizadas sugiere que podría estar interesado en ofertas de TasteTour que ofrezcan experiencias gastronómicas únicas y adaptadas a sus preferencias individuales.
+
+<b>Interés en Actividades Complementarias y Culturales:</b>
+Fabian menciona su interés en actividades complementarias durante sus viajes, como visitas a mercados locales, degustaciones de pisco y cenas con vistas panorámicas. Su deseo de explorar actividades culturales y gastronómicas adicionales indica una disposición a participar en experiencias más allá de la comida, lo que podría hacerlo receptivo a las ofertas de TasteTour que incluyan actividades complementarias.
+
+Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cliente para la aplicación de TasteTour. Su interés en explorar nuevas experiencias gastronómicas, su valoración de la autenticidad y la unicidad de la cocina peruana, su disposición a participar en tours gastronómicos y experiencias personalizadas, y su interés en actividades complementarias y culturales sugieren que podría estar abierto a las ofertas de TasteTour que ofrecen una amplia gama de experiencias culinarias y culturales en el Perú.
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+<td><img src="Images/Userp1.png" alt="Imagen1 UserP"></td>
+    <td>
+
+<td><img src="Images/Userp2.png" alt="Imagen2 UserP"></td>
+    <td>
+
 ### 2.3.2. User Task Matrix
 
 ### 2.3.3. User Journey Mapping
 
+<td><img src="Images/userjourney.png" alt="Imagen Journey"></td>
+    <td>
+
 ### 2.3.4. Empathy Mapping
 
+<td><img src="Images/EmpathyMap1.png" alt="Imagen1 empathy"></td>
+    <td>
+
+<td><img src="Images/EmpathyMap2.png" alt="Imagen2 empathy"></td>
+    <td>
+
 ### 2.3.5. As-is Scenario Mapping
+
+<td><img src="Images/as-is1.png" alt="Imagen1 as-is"></td>
+    <td>
+
+<td><img src="Images/as-is2.png" alt="Imagen2 as-is"></td>
+    <td>
 
 ### 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+<td><img src="Images/tobe1.png" alt="Imagen1 "></td>
+    <td>
+
+<td><img src="Images/tobe2.png" alt="Imagen2 "></td>
+    <td>
 
 ## 3.2. User Stories
 
