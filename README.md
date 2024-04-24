@@ -365,6 +365,25 @@ En resumen, Fabián busca enriquecer su experiencia gastronómica durante sus vi
 
 <br/>
 
+<b>Entrevista 3</b><br/>
+
+- Nombre: Ana
+- Apellidos: Mendoza
+- Edad: 30 años
+- Distrito: Lima
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
+- Minuto donde empieza: 28:29
+- Duración: 05:03 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+<br/>
 
 ### 2.2.3. Análisis de entrevistas
 
