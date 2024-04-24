@@ -309,6 +309,34 @@ Se establecieron preguntas dirigidas a nuestro publico objetivo, con el fin de o
 
 ### 2.2.2. Registro de entrevistas
 
+<b>Entrevista 1</b><br/>
+
+- Nombre: Adrian
+- Apellidos: Zapata Mongrut
+- Edad: 21 años
+- Distrito: Lima - Carabayllo
+- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
+- Minuto donde empieza: 0:00
+- Duración: 17:10 minutos
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/Entrevista 1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+Resumen de la entrevista:
+
+Adrián Zapata expresa preocupación por los desafíos fiscales que enfrenta su negocio gastronómico debido a la formalización, lo que ha llevado a un aumento en los impuestos y una reducción en las ganancias. Reconoce la importancia de mantener precios competitivos para atraer clientes, pero también señala la dificultad de mantener la rentabilidad en medio de los aumentos de costos.
+
+Muestra interés en asociarse con un servicio turístico para ampliar su negocio y atraer más clientes, lo que considera vital para mantener la rentabilidad y el crecimiento. Destaca la importancia de la reputación y la imagen de su empresa al asociarse con servicios turísticos.
+
+Adrián valora la experiencia gastronómica única y reconoce la importancia de los clientes en el éxito de su negocio. Se muestra dispuesto a explorar opciones que le brinden más clientes y mayor reconocimiento.
+
+En resumen, Adrián busca soluciones para enfrentar los desafíos fiscales, expandir su negocio y mejorar la experiencia gastronómica para sus clientes. Reconoce la importancia de la asociación con servicios turísticos para aumentar la visibilidad de su empresa y atraer más clientes.
+
+<br/>
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
