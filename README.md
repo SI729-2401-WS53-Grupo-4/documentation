@@ -449,6 +449,12 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 5.1.2. Source Code Management
 
+gitflow
+
+URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
+
+URL del repositorio del Landing Page en GitHub: https://github.com/TasteTeam-Projects/Landing-Page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration
