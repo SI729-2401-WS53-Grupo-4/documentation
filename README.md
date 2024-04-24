@@ -355,8 +355,6 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<td><img src="Images/Contenedores.png" alt="Imagen del context diagram" width="1500"></td>
-
 ### 4.6.3. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
