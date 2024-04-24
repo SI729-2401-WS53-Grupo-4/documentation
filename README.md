@@ -359,11 +359,15 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.7.1. Class Diagrams
 
+<td><img src="Images/DiagramaClases.png" alt="Imagen del diagrama de clases" width="900"></td>
+
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+<br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
