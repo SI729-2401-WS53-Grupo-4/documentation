@@ -259,6 +259,10 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+Nuestra plataforma "TasteTour" busca abordar la crisis de inseguridad alimentaria en el Perú al conectar a los amantes de la cocina peruana con restaurantes locales y promover una mayor apreciación de la gastronomía peruana. Reconocemos que existe una reducción del consumo de alimentos peruanos debido a la inflación y la falta de una cultura gastronómica arraigada. Esta situación impacta negativamente tanto a los aficionados a la cocina peruana como a los trabajadores de restaurantes peruanos, especialmente en momentos de inflación y pérdida de empleo.
+
+¿Cómo podemos facilitar el acceso a una amplia variedad de alimentos peruanos y fomentar una mayor apreciación de la gastronomía del país? Al comprender las barreras que enfrentan los usuarios para explorar la gastronomía peruana, buscamos encontrar formas de superar estos obstáculos y promover una mayor diversidad en la elección de alimentos peruanos. Nuestra meta es cerrar la brecha entre los amantes de la cocina peruana y los restaurantes locales, ofreciendo una plataforma que facilite la exploración y celebración de la rica diversidad culinaria del Perú.
+
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
