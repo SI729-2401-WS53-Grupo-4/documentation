@@ -263,6 +263,15 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+<ol>
+<li> <b>Creemos que</b> los usuarios de 17 años a más estarán satisfechos con las diferentes opciones que hay dentro de la plataforma. <b>Sabremos que</b> esta afirmación sea cierta <b>cuando</b> observemos que la cantidad de personas que hay en la plataforma sea muy alta.
+</li>
+<li> <b>Creemos que</b> nuestra plataforma solucionará la problematica de la crisis de inseguridad alimentaria en el perú <b>Sabremos que</b> nuestra suposición sea cierta <b>cuando</b> se reduzca la cantidad de perdidas de empleo y cierres de restaurantes peruanos..
+</li>
+<li> <b>Creemos que</b> el recorrido por los restaurantes será una oportunidad para que los usuarios disfruten de la diversidad gastronómica que ofrecen, mientras que las clases de cocina peruana les proporcionarán habilidades prácticas. <b>Sabremos que</b> esta afirmación es cierta <b>cuando</b> notemos que nuestros usuarios eligen tanto el servicio gratuito como el servicio premium.
+</li>
+</ol>
+
 #### 1.2.2.4. Lean UX Canvas
 
 # 1.3. Segmentos Objetivo
