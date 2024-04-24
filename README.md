@@ -279,6 +279,34 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 2.2.1. Diseño de entrevistas
 
+Se establecieron preguntas dirigidas a nuestro publico objetivo, con el fin de obtener información, como opiniones o descripciones. Toda la información que nos darán será bastante útil en la creación de nuestra solución.
+
+**Para los amantes de la cocina peruana:**
+
+- ¿Con qué frecuencia exploras nuevas experiencias gastronómicas o pruebas platos de diferentes culturas?
+- ¿Qué es lo que más te atrae de la cocina peruana?
+- ¿Has participado anteriormente en tours gastronómicos o experiencias culinarias durante tus viajes?
+- ¿Qué tipo de actividades relacionadas con la gastronomía te gustaría experimentar en un tour o viaje?
+- ¿Has tenido dificultades para encontrar opciones de calidad para experimentar la cocina peruana durante tus viajes anteriores?
+- ¿Qué te motiva a elegir un restaurante o experiencia gastronómica en particular durante tus viajes?
+- ¿Te parece importante seleccionar un tour gastronómico o una agencia de viajes especializada en turismo culinario?
+- ¿Estarías interesado en utilizar una plataforma en línea especializada en turismo gastronómico peruano, que además ofrezca clases de cocina peruana como parte de sus servicios?
+- ¿Qué beneficios esperarías obtener al optar por un servicio premium de una agencia de viajes gastronómicos?
+- ¿Qué otras actividades relacionadas con la gastronomía y la cultura peruana te gustarían incluir en un paquete de viaje?
+
+**Para los restaurantes peruanos:**
+
+- ¿Cuáles crees que son los principales desafíos a los que se enfrenta tu restaurante en la actualidad?
+- ¿Qué piensas sobre la idea de promover tu restaurante a través de experiencias gastronómicas únicas?
+- ¿Has considerado la posibilidad de asociarte con una plataforma de turismo gastronómico para atraer a nuevos clientes a tu restaurante?
+- ¿Te parece atractivo la propuesta de incluir tu restaurante en recorridos gastronómicos y tours culinarios dirigidos por guías especializados?
+- ¿Qué aspectos consideras más importantes al decidir asociarte con una agencia de viajes especializada en turismo gastronómico?
+- ¿Qué aspectos valoras más al colaborar con una plataforma de turismo gastronómico, como la posibilidad de llegar a un nuevo público o la generación de ingresos adicionales?
+- ¿Te interesaría formar parte de una plataforma especializada en turismo gastronómico peruano como TasteTour para promocionar tu restaurante y atraer más clientes?
+- ¿Te gustaría ofrecer clases de cocina peruana o degustaciones en tu restaurante como parte de la experiencia para los usuarios de la plataforma? 
+- ¿Considerarías ofrecer descuentos especiales o promociones exclusivas para los usuarios de TasteTour como una estrategia para atraer más clientes a tu restaurante?
+- ¿Tienes alguna otra sugerencia o comentario sobre cómo una plataforma como TasteTour podría ser más útil para promocionar y potenciar tu restaurante peruano?
+
 ### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
