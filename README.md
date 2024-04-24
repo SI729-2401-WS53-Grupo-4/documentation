@@ -265,6 +265,30 @@ Nuestra plataforma "TasteTour" busca abordar la crisis de inseguridad alimentari
 
 #### 1.2.2.2. Lean UX Assumptions
 
+<h4>Business Assumptions</h4>
+
+<ul>
+  <li><b>Los usuarios estarán dispuestos a adoptar y utilizar tecnologías de turismo gastronómico para explorar la cocina peruana y mejorar su experiencia culinaria, especialmente aquellos interesados en la cultura culinaria local y el turismo gastronómico.</b></li>
+  <li><b>La demanda de experiencias auténticas de turismo gastronómico peruano está creciendo debido al interés en la cocina peruana y el turismo culinario.</b></li>
+  <li><b>Los restaurantes peruanos y los proveedores locales estarán interesados en asociarse con una plataforma de turismo gastronómico para promocionar sus servicios y atraer a clientes interesados en explorar la gastronomía del país.</b></li>
+  <li><b>Existe una capacidad técnica y recursos disponibles para desarrollar y mantener la plataforma TasteTour.</b></li>
+  <li><b>La accesibilidad y la usabilidad serán características clave para el éxito de la plataforma, asegurando que sea fácil de usar para personas con diferentes niveles de experiencia en tecnología.</b></li>
+  <li><b>El mercado de turismo gastronómico está en crecimiento y presenta oportunidades para el éxito comercial de TasteTour.</b></li>
+  <li><b>La seguridad y la privacidad de los usuarios serán aspectos fundamentales, y los usuarios confiarán en que sus datos estarán protegidos y utilizados de manera responsable.</b></li>
+  <li><b>La plataforma será capaz de adaptarse a diferentes preferencias gastronómicas y necesidades de los usuarios, lo que atraerá a una amplia variedad de amantes de la cocina peruana y turistas interesados en explorar la gastronomía local.</b></li>
+</ul>
+
+<h4>User Assumptions</h4>
+
+<ul>
+  <li><b>¿Quién es el usuario?:</b> Nuestro segmento objetivo son los amantes de la cocina peruana, tanto locales como turistas interesados en explorar la gastronomía del país. También incluye a restaurantes peruanos que deseen promocionar sus servicios.</li>
+  <li><b>¿Dónde encaja nuestro producto, en su trabajo o vida?:</b> Encaja en la vida de las personas interesadas en explorar la cocina peruana, así como en el entorno de los restaurantes peruanos y proveedores locales que deseen promocionar sus servicios gastronómicos.</li>
+  <li><b>¿Qué problemas tiene nuestro producto y cómo se pueden resolver?:</b> Nuestro producto se enfrenta a desafíos como la competencia en el mercado de turismo gastronómico, la necesidad de asociaciones estratégicas con restaurantes y proveedores locales, la seguridad de datos y la privacidad, y la educación sobre las experiencias gastronómicas disponibles en la plataforma. Estos problemas pueden abordarse mediante una estrategia de marketing sólida, colaboraciones estratégicas con restaurantes y proveedores locales, medidas de seguridad robustas y campañas de concienciación para educar a los usuarios sobre las experiencias gastronómicas disponibles.</li>
+  <li><b>¿Cuándo y cómo es usado nuestro producto?:</b> TasteTour se utiliza durante el tiempo libre de los usuarios para explorar la gastronomía peruana y planificar experiencias culinarias en Perú. Esto incluye participar en tours gastronómicos, clases de cocina y degustaciones según las preferencias y paquetes adquiridos.</li>
+  <li><b>¿Qué características son importantes?:</b> Es importante que TasteTour ofrezca una variedad de experiencias auténticas de turismo gastronómico peruano, una interfaz fácil de usar para reservar experiencias, opciones de personalización para adaptarse a las preferencias culinarias individuales y la seguridad de datos del usuario.</li>
+  <li><b>¿Cómo debe verse nuestro producto y cómo debe comportarse?:</b> TasteTour debe presentar una interfaz intuitiva y atractiva que permita a los usuarios explorar y reservar experiencias gastronómicas de manera fácil y segura. La plataforma debe ofrecer una amplia variedad de opciones de turismo gastronómico, desde tours gastronómicos hasta clases de cocina, con funciones de búsqueda y filtrado para facilitar la navegación del usuario.</li>
+</ul>
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 <ol>
