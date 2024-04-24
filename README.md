@@ -367,6 +367,8 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.8.1. Database Diagram
 
+<td><img src="Images/Modelo logico.png" alt="Imagen del diagrama de base de datos" width="900"></td>
+
 <br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
