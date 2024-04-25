@@ -313,21 +313,66 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.1.1. General Style Guidelines
 
+### Branding
+
+Nuestro branding esta diseñado mediante un logotigo moderno utilizando el nombre del proyecto. Se ha presentado el nombre del proyecto con un estilo moderno, sofisticado y elegante, aplicando la psicologia del color al rubro al cual nos dedicamos. Estas caracteristicas componen nuestro isologo, el cual posee caracteristicas minimalistas y, de esta manera, se proporciona una mayor fuerza visual, diseño amigable y facil de recordar para el usuario. Realizamos 3 variaciones del isologogo para poder hacerlo adaptable a los diversos entornos de diseño, plataformas o marketing que se le presente.
+<td><img src="Images/Branding.png" alt="Imagen del branding" width="1500"></td>
+
+### Typography
+
+La tipografia juega un papel importante en la comunicacion de un tono general y de calidad. Nuestra marca tiene un estilo moderno y ordenado. Para agilizar y transmitir confianza a nuestros clientes, usaremos un lenguaje casual y sereno. Usamos 2 tipos de fuentes divididos en 8 tipos de texto, cada uno para representar mensajes distintos, aplicamos esta tipografía para la comodidad y facilidad de lectura del usuario teniendo en cuenta el tipo de impacto que queremos ocasionar en cada caso.
+<td><img src="Images/Tipografia.png" alt="Imagen de la tipografia" width="500"></td>
+
+### Colors
+
+Los colores utilizados para representar la marca fueron seleccionados tomando como referencia la psicología del color. Por esta razón, se tomó en cuenta los colores negro, gris, blanco y sus variaciones, los cuales son los más utilizados por lor restaurantes minimalistas.
+<td><img src="Images/Colors.png" alt="Imagen de los colores" width="800"></td>
+
+### Spacing
+
+Teniendo en cuenta el diseño web y Mobile hemos decidido crear 13 espaciados con rem igual a 0,0625 para asegurarnos que haya todas las diferencias notables necesarias entre distintos textos e imágenes.
+<td><img src="Images/Spacing.png" alt="Imagen de los espacios" width="200"></td>
+
 ### 4.1.2. Web Style Guidelines
+
+La paleta de colores para el landing page, está orientada al sector al cuál se está dirigiendo el servicio. Los colores predominantes son variaciones del negro, el gris y blanco. Esto pues, debido a que, en el área de los restaurantes minimalistas, son los colores con los cuáles el público se siente más identificado, ya que, proyecta seguridad, profesionalismo y confianza.
+Debido a que nuestro landing page no ofrece una propuesta informativa sino de servicio, se ha considerado más apropiado elegir el patrón F, que tiene como objetivo dirigir la vista del usuario desde la esquina superior izquierda en donde estaría el logo, seguido del eslogan y la descripción.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+El sistema de organización que se planea implementar para “TasteTour”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
+
 ### Organizacion de contenido
 
+Jerarquica
+
+Organización jerárquica para los usuarios, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS1.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Organización de la sección Tours, donde el usuario podrá encontrar los productos. Se compone de filtros de búsqueda, favoritos  y board.
+<td><img src="Images/OS2.png" alt="Imagen de Tours" width="800"></td>
+
+Organización jerárquica para los restaurantes, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS3.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Mediante el siguiente esquema se muestran las categorías principales para los usuarios.
+<td><img src="Images/OS4.png" alt="Imagen del perfil usuario" width="800"></td>
+
 ### 4.2.2. Labeling Systems
+
+Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
 
+Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar la informacion con los restaurantes asignados por los moderadores de la app.
+
 ### 4.2.5. Navigation Systems
+
+Si el usuario inicia sesión con su cuenta, llegará a la página principal de la app, donde se visualizará sus datos importantes, en la parte inferior se encontrará un panel de navegación con las opciones principales como “Perfil”, “Tours”, “Eventos”, “Busqueda”. Cuando el usuario decida ir a cualquier opción le aparecerá una nueva ventana con el título de la opción previamente seleccionada con otras posibilidades.
 
 ## 4.3. Landing Page UI Design
 
