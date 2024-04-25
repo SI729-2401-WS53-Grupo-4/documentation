@@ -1635,6 +1635,9 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
 
 <br><br>
 
+Link del Trello:
+https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
