@@ -368,6 +368,21 @@ Wireframes para la versión móvil de la landing page
 
 ### 4.3.2. Landing Page Mock-up
 
+Mockups para la versión web de la landing page
+<p><p><p><p>
+<img src="Images/MockupWebLP1.png" alt="Imagen del Mockup web 1 de la landing page">
+<p><p>
+<img src="Images/MockupWebLP2.png" alt="Imagen del Mockup web 2 de la landing page">
+<p><p>
+<img src="Images/MockupWebLP3.png" alt="Imagen del Mockup web 3 de la landing page">
+<p><p>
+<img src="Images/MockupWebLP4.png" alt="Imagen del Mockup web 4 de la landing page">
+<p><p>
+<img src="Images/MockupWebLP5.png" alt="Imagen del Mockup web 5 de la landing page">
+<p><p>
+<img src="Images/MockupWebLP6.png" alt="Imagen del Mockup web 6 de la landing page">
+<p><p><p><p>
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
