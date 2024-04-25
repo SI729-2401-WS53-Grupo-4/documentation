@@ -378,6 +378,12 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Tras analizar a cada uno de nuestros competidores, las estretegias y tácticas que emplearemos serán: 
+- Centrarnos en nuestro aporte de valor: Nosotros no solo bridamos comida a nuestros clientes, sino que les damos experiencia y momentos impactantes acerca de no solo la gastronomía peruana, sino también de la cultura peruana mediante los distintos servicios que el usuario podrá adquirir en su paquete. Buscamos que los usuarios no solo estén interesados en la gastronomía peruana, sino que también incentiven a otros a disfrutar de la cultura peruana recorriendo mercados locales, haciendo tours gastronómicos, aprendiendo a cocinar, aprendiendo las mejores técnicas de cocina y así estar todos orgullosos de las riquezas que nos da Perú. 
+- Hacer publicidad y marketing: Considerando que no todos nuestros competidores cuentan con aplicación ni redes sociales, salvo su página web, decidimos promocionar nuestros servicios en redes sociales mediante publicaciones sobre la gastronomía y la cultura peruana, incluyendo la historia de las comidas peruanas, recetarios, experiencias de nuestros usuarios, testimonios y más para tener un mayor alcance con nuestros clientes. Para ello también haremos publicidad en línea, campañas de marketing digital y colaboraciones con influencers y/o con los creadores de contenido.
+- Estrategia de posicionamiento: Esperamos posicionarnos como la aplicación web que brinda experiencias únicas y memorables de la gastronomía peruana, así como de gran calidad. Tenemos una gran variedad de servicios que ofrecemos a nuestros clientes dependiendo de lo que mejor se adapte a sus gustos y por cada tour suele ser como máximo 12 personas, lo cual es una gran ventaja, ya que al ser pocos, es más fácil satisfacer las demandas y necesidades de nuestros clientes. 
+- Colaboraciones estratégicas: Planeamos realizar colaboraciones con expertos en la gastronomía peruana como con influencers y creadores de contenido, no solo para aumentar nuestro alcance con nuestros clientes, sino también para que tengan más confianza en nosotros al colaborar con expertos en el tema, de manera que crecemos junto a ellos al igual que la calidad de nuestros servicios.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
