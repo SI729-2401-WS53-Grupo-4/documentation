@@ -552,6 +552,965 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ## 3.2. User Stories
 
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestión de cuenta del usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            01
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Creación de cuenta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Registro exitoso <br/>
+Dado que el usuario desea registrarse en la plataforma<br/>
+Cuando el usuario ingresa un correo electrónico y una constraseña<br/>
+Entonces el sistema creará la cuenta del usuario<br/>
+
+<b>Scenario 2:</b> Correo electrónico en uso <br/>
+Dado que el usuario desea registrarse en la plataforma<br/>
+Cuando el usuario ingresa un correo electrónico en uso<br/>
+Entonces el sistema no permitirá el registro<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestion de cuenta de usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            02
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Inicio de sesión
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario , quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Inicio de sesión exitoso <br/>
+Dado que el usuario se encuentra registrado en la plataforma<br/>
+Cuando ingresa su respectivo correo y contraseña<br/>
+Entonces el sistema permitirá iniciar sesión en la plataforma.<br/>
+
+<b>Scenario 2:</b> Inicio de sesión fallido <br/>
+Dado que el usuario se encuentra registrado en la plataforma<br/>
+Cuando ingresa un correo o contraseña incorrecta<br/>
+Entonces el sistema no permitirá iniciar sesión<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestion de cuenta de usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            03
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Edición de perfil
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario , quiero editar mi información de perfil para mantener mis datos personales actualizados.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Información editada <br/>
+Dado que el usuario quiere editar su información del perfil<br/>
+Cuando el usuario ingresa los datos que quiere cambiar<br/>
+Entonces el sistema procederá a aceptar los cambios<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Gestion de Cuenta del usuario
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            04
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Ingreso de datos de tarjeta
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario , quiero ingresar los datos de mi tarjeta para realizar transacciones en la aplicación.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Tarjeta aceptada <br/>
+Dado que el usuario quiere ingresar sus datos de la tarjeta para realizar transacciones<br/>
+Cuando el usuario ingrese sus datos correspondientes de la tarjeta<br/>
+Entonces el sistema guardará los datos<br/>
+
+<b>Scenario 2:</b> Tarjeta rechazada <br/>
+Dado que el usuario quiere ingresar sus datos de la tarjeta para realizar transacciones<br/>
+Cuando el usuario ingrese datos erroneos de la tarjeta<br/>
+Entonces el sistema rechazara la tarjeta<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            05
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Pago seguro de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente , quiero poder realizar el pago de mi reserva de forma segura y conveniente, para garantizar una experiencia de compra sin problemas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Pago realizado <br/>
+Dado que el usuario quiere realizar el pago de su reserva de tour<br/>
+Cuando el usuario realice una transacción a través de su tarjeta<br/>
+Entonces el sistema aceptará la tarjeta y procederá al pago<br/>
+<b>Scenario 1:</b> Pago rechazado <br/>
+Dado que el usuario quiere realizar el pago de su reserva de tour<br/>
+Cuando el usuario realice una transacción pero no cuenta con los fondos suficientes<br/>
+Entonces el sistema denegará la tarjeta y no procederá al pago<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            06
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualización de paquetes de tours disponibles
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero ver una lista detallada de los paquetes de tours disponibles para seleccionar el que más se ajuste a mis intereses gastronómicos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Visualizar lista <br/>
+Dado que el usuario quiere una lista detallada de los paquetes de tours disponibles<br/>
+Cuando el usuario ingresa a la vista de "tours disponibles" <br/>
+Entonces el sistema mostrará los tours disponibles actualmente <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            07
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Información detallada del tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero obtener información completa sobre cada actividad incluida en el tour para tomar decisiones informadas sobre mis opciones gastronómicas.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Visualizar detalles del tour <br/>
+Dado que el usuario quiere conocer información dettalada de los tours<br/>
+Cuando el usuario ingrese a la vista del tour seleccionado y al apartado de "más detalles" <br/>
+Entonces el sistema mostrará las actividades, ubicación, restaurantes y horarios del tour<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Novedades
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            08
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Recepción de notificaciones de ofertas
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero recibir notificaciones de la aplicación sobre nuevas ofertas o promociones, para estar al tanto de oportunidades de viaje y experiencias culinarias.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Habilitar notificación de oferta <br/>
+Dado que el usuario quiere recibir notificaciones de ofertas disponibles<br/>
+Cuando el usuario ingrese al apartado de notificaciones y habilite la opcion "Recibir notificación cuando un paquete baje de precio"<br/>
+Entonces el sistema enviará notificaciones cuando encuentre ofertas<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            09
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Filtros de búsqueda de tour gastronómico
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Filtrar tours <br/>
+Dado que el usuario quiere realizar búsquedas con filtros<br/>
+Cuando el usuario ingrese a la ventana de filtros e complete los datos que desea obtener<br/>
+Entonces el sistema mostrará una ventana con los tours que concuerdan con lo especificado<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Novedades
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            10
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualización de mensajes
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero poder ver los mensajes que otros me han mandado para poder estar al tanto de novedades que pueden contarme.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Ver mensajes recibidos <br/>
+Dado que el usuario quiere ver los mensajes que otros le han enviado<br/>
+Cuando el usuario ingrese al apartado de mensajes<br/>
+Entonces el sistema le mostrará los últimos mensajes que ha recibido<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            11
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Recepción de itinerario detallado
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como cliente, quiero recibir un itinerario detallado de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Detalle de itinerario <br/>
+Dado que el usuario quiere recibir un itinerario detallado de su tour gastronomico<br/>
+Cuando el usuario ingrese a la ventana de "mis reservas" y elija uno de sus tours reservados<br/>
+Entonces el sistema mostrará los detalles del tour que elijió<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Soporte
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            12
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Comunicación con soporte
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Soporte de TasteTeam <br/>
+Dado que el usuario quiere contactase con el soporte de TasteTeam<br/>
+Cuando el usuario ingrese al apartado de "Soporte" y complete los datos de su consulta<br/>
+Entonces el sistema enviará el mensaje al equipo de soporte<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Recomendación de restaurantes
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            13
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Registro de restaurante
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Registrar resturante <br/>
+Dado que el usuario quiere registrar su restaurante en la aplicación<br/>
+Cuando el usuario ingrese a la ventana de registro de restaurante y complete los datos correspondientes<br/>
+Entonces el sistema lo redirigirá al apartado de administración de su restaurante registrado<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Recomendación de restaurantes
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            14
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Aplicar restaurante en tours
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como propietario de restaurante, quiero aplicar mi restaurante en tours que vea conveniente para tener la posibilidad de ingresarlo en alguno de ellos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Aplicar restaurante en tour seleccionado<br/>
+Dado que el usuario quiere aplicar su restaurante en alguno de los tours disponibles<br/>
+Cuando el usuario seleccione uno de los tours y elija la opción de "aplicar restaurante"<br/>
+Entonces el sistema solicitará a los moderadores su revisión<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Recomendación de restaurantes
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            15
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Verificación de tours accedidos
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como propietario de restaurante, quiero verificar los tours en los que mi restaurante a accedido para estar al tanto de las posibles visitas
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Visualización de tours<br/>
+Dado que el usuario desea ver los tours en donde se encuentra restaurante<br/>
+Cuando el usuario ingrese a la ventana de administración y seleccione el apartado de "tours"<br/>
+Entonces el sistema mostrará una lista con todos los tours accedidos, así como un enlace a sus apartados correspondientes<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Soporte
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            16
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Calificación y comentarios de experiencia
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Comentarios y calificación <br/>
+Dado que el usuario quiere dejar su valoración de las actividades de tour<br/>
+Cuando el usuario termine de realizar sus actividades en el tour<br/>
+Entonces el sistema le pedirá al usuario que valore el viaje<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Novedades
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            17
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Ingreso de cupones de descuento
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero ingresar cupones de descuento que haya obtenido para obtener descuentos exclusivos en mis futuros viajes.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Acceso a cupones de descuento <br/>
+Dado que el usuario quiere ingresar los cupones obtenidos<br/>
+Cuando el usuario ingrese a la ventana de cupones y seleccione la opción de "ingresar cupón"<br/>
+Entonces el usuario podrá ingresar el cupón obtenido para recibir sus descuentos<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Novedades
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            18
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Visualización del estado de los cupones
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero verificar el estado de los cupones que ingresé para saber si aún se pueden utilizar.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Ver estado de cupones <br/>
+Dado que el usuario quiere ver el estado de sus cupones<br/>
+Cuando el usuario ingrese a la ventana de cupones<br/>
+Entonces el usuario podrá verificar que cupones están habilitados, usados o expirados <br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Visualización de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            19
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Cancelación de reserva de tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero tener la posibilidad de cancelar mi reserva de tour en caso sea necesario para no causar problemas con los encargados del tour
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Cancelar reserva de tour <br/>
+Dado que el usuario quiere cancelar su reserva antes de su fecha<br/>
+Cuando el usuario vea en sus reservas el tour requerido y acceda a la opcion de cancelar reserva<br/>
+Entonces su reserva de tour habra sido cancelada exitosamente<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
+<table align="center"     border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td colspan=2>
+            <b>Epic</b>
+        </td>
+        <td colspan=2>
+            Novedades
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>ID-US</b>
+        </td>
+        <td>
+            20
+        </td>
+    </tr>
+        <tr align="left">
+        <td colspan=2>
+            <b>Título US</b>
+        </td>
+        <td colspan=2>
+            Recomendaciones personalizadas de tours
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Descripción:</b></br>
+            Como usuario, quiero recibir recomendaciones personalizadas de tours basadas en mis preferencias, para descubrir nuevas experiencias culinarias durante mi viaje.
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan=4>
+            <b>Criterio de Aceptación:</b>
+            <br/>
+
+<b>Scenario 1:</b> Notificacion de recomendacion <br/>
+Dado que el usuario quiere que la plataforma le notifique recomendaciones personalizadas de restaurantes<br/>
+Cuando el usuario ingrese al apartado de notificaciones y habilite la opcion "Recibir recomendaciones de tours" <br/>
+Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus preferencias<br/>
+
+ </td>
+</tr>
+</tr>
+</table>
+<br/>
+
 ## 3.3. Impact Mapping
 
 <td><img src="Images/ImpactmapA.png" alt="Imagen1 ImpactM"></td>
