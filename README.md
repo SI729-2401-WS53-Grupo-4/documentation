@@ -538,28 +538,28 @@ User Flow 1 El usuario quiere crear una cuenta en la aplicación para acceder a 
 User Task: El usuario descarga la aplicación, ingresa sus datos y sigue los pasos para registrar su cuenta.
 
 <p><p><p><p>
-El usuario da click en "Get started".
+1. El usuario da click en "Get started".
 <img src="Images/AppWebMockup1.png" alt="Imagen del mockup del web application 1">
 <p><p>
-El usuario hace click en "Create a new account" para dirigirse al apartado de la creación de su cuenta.
+2. El usuario hace click en "Create a new account" para dirigirse al apartado de la creación de su cuenta.
 <img src="Images/AppWebMockup2.png" alt="Imagen del mockup del web application 2">
 <p><p>
-El usuario rellena su información personal y hace click en "Sign up" para crear su cuenta.
+3. El usuario rellena su información personal y hace click en "Sign up" para crear su cuenta.
 <img src="Images/AppWebMockup4.png" alt="Imagen del mockup del web application 4">
 <p><p>
-El usuario hace click en "Allow notifications" si quiere recibir notificaciones de la aplicación web o hace click en "Skip" si no desea recibir ninguna notificación por ahora.
+4. El usuario hace click en "Allow notifications" si quiere recibir notificaciones de la aplicación web o hace click en "Skip" si no desea recibir ninguna notificación por ahora.
 <img src="Images/AppWebMockup5.png" alt="Imagen del mockup del web application 5">
 <p><p>
-El usuario lee las ventajas de la suscripción, elige su tipo de suscripción y hace click en "Subscribe" si le interesa suscribirse a la aplicación web o hace click en "Skip" si no está interesado en suscribirse a "TasteTour" por el momento.
+5. El usuario lee las ventajas de la suscripción, elige su tipo de suscripción y hace click en "Subscribe" si le interesa suscribirse a la aplicación web o hace click en "Skip" si no está interesado en suscribirse a "TasteTour" por el momento.
 <img src="Images/AppWebMockup6.png" alt="Imagen del mockup del web application 6">
 <p><p>
-De haber hecho click en "Subscribe", el usuario debe rellenar todos los datos de su tarjeta para realizar el pago y hace click en "Complete Payment" para completar dicho pago.
+6. De haber hecho click en "Subscribe", el usuario debe rellenar todos los datos de su tarjeta para realizar el pago y hace click en "Complete Payment" para completar dicho pago.
 <img src="Images/AppWebMockup7.png" alt="Imagen del mockup del web application 7">
 <p><p>
-El usuario hace click en "Use my ubication" para que la aplicación web le recomiende los mejores lugares más cercanos al usuario. De no querer poner su ubicación, solo hace click en "Skip for now".
+7. El usuario hace click en "Use my ubication" para que la aplicación web le recomiende los mejores lugares más cercanos al usuario. De no querer poner su ubicación, solo hace click en "Skip for now".
 <img src="Images/AppWebMockup8.png" alt="Imagen del mockup del web application 8">
 <p><p>
-El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
+8. El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
 <img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
 <p><p>
 
@@ -568,13 +568,13 @@ User Flow 2 El usuario quiere iniciar sesión con su correo y contraseña para u
 User Task: El usuario entra a la aplicación, ingresa sus datos e ingresa a su cuenta.
 
 <p><p><p><p>
-El usuario da click en "Get started".
+1. El usuario da click en "Get started".
 <img src="Images/AppWebMockup1.png" alt="Imagen del mockup del web application 1">
 <p><p>
-El usuario indica su correo y contraseña y hace click en "Login" para iniciar sesión con su cuenta.
+2. El usuario indica su correo y contraseña y hace click en "Login" para iniciar sesión con su cuenta.
 <img src="Images/AppWebMockup2.png" alt="Imagen del mockup del web application 2">
 <p><p>
-El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
+3. El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
 <img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
 <p><p>
 
@@ -583,19 +583,19 @@ User Flow 3 El usuario quiere editar su información de perfil para mantener sus
 User Task: El usuario, dentro de la aplicación, ingresa al perfil de su cuenta y edita los datos que desee.
 
 <p><p><p><p>
-El usuario se encuentra en la pantalla principal de la aplicación. En este caso, el usuario hace click en "Account".
+1. El usuario se encuentra en la pantalla principal de la aplicación. En este caso, el usuario hace click en "Account".
 <img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
 <p><p>
-El usuario se encuentra en el apartado de su cuenta. Hace click en "Profile" para dirigirse a su perfil.
+2. El usuario se encuentra en el apartado de su cuenta. Hace click en "Profile" para dirigirse a su perfil.
 <img src="Images/AppWebMockup15.png" alt="Imagen del mockup del web application 15">
 <p><p>
-El usuario se encuentra en el apartado de su perfil. Hace click en el lápiz de la parte superior para editar su perfil.
+3. El usuario se encuentra en el apartado de su perfil. Hace click en el lápiz de la parte superior para editar su perfil.
 <img src="Images/AppWebMockup16.png" alt="Imagen del mockup del web application 16">
 <p><p>
-El usuario rellena su perfil con sus datos actualizados como su nombre y ciudad. Cuando el usuario se encuentre conforme, hace click en "Save".
+4. El usuario rellena su perfil con sus datos actualizados como su nombre y ciudad. Cuando el usuario se encuentre conforme, hace click en "Save".
 <img src="Images/AppWebMockup19.png" alt="Imagen del mockup del web application 19">
 <p><p>
-El usuario ve nuevamente su perfil ya actualizado.
+5. El usuario ve nuevamente su perfil ya actualizado.
 <img src="Images/AppWebMockup16.png" alt="Imagen del mockup del web application 16">
 <p><p>
 
