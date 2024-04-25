@@ -190,7 +190,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
-    <br>    
+    <br>
+    - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    - Realize las partes de Segmentos objetivo, User Task Matrix y Web Applications Wireflow Diagrams<br/>    
     <br>
     <td>TB1
     <br>
@@ -219,7 +221,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
-    <br>    
+    <br>
+    -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
     <br>
 
 </td>
