@@ -489,9 +489,6 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.2. Sprint Backlog 1
 
-Link del Trello:
-https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
-
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
