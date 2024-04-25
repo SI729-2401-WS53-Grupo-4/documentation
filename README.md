@@ -396,6 +396,24 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.3.2. Landing Page Mock-up
 
+## Pantalla Principal
+
+<td><img src="Images/LandingPageMockUp1.png" alt="Imagen del Inicio" width="1500"></td>
+
+## Acerca de nosotros
+
+<td><img src="Images/LandingPageMockUp2.png" alt="Imagen del About us" width="1500"></td>
+
+## Tours
+
+<td><img src="Images/LandingPageMockUp3.png" alt="Imagen del Tours" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/LandingPageMockUp4.png" alt="Imagen del Contact us" width="1500"></td>
+
+**Link del Figma**: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
