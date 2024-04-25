@@ -313,323 +313,82 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.1.1. General Style Guidelines
 
+### Branding
+
+Nuestro branding esta diseñado mediante un logotigo moderno utilizando el nombre del proyecto. Se ha presentado el nombre del proyecto con un estilo moderno, sofisticado y elegante, aplicando la psicologia del color al rubro al cual nos dedicamos. Estas caracteristicas componen nuestro isologo, el cual posee caracteristicas minimalistas y, de esta manera, se proporciona una mayor fuerza visual, diseño amigable y facil de recordar para el usuario. Realizamos 3 variaciones del isologogo para poder hacerlo adaptable a los diversos entornos de diseño, plataformas o marketing que se le presente.
+<td><img src="Images/Branding.png" alt="Imagen del branding" width="1500"></td>
+
+### Typography
+
+La tipografia juega un papel importante en la comunicacion de un tono general y de calidad. Nuestra marca tiene un estilo moderno y ordenado. Para agilizar y transmitir confianza a nuestros clientes, usaremos un lenguaje casual y sereno. Usamos 2 tipos de fuentes divididos en 8 tipos de texto, cada uno para representar mensajes distintos, aplicamos esta tipografía para la comodidad y facilidad de lectura del usuario teniendo en cuenta el tipo de impacto que queremos ocasionar en cada caso.
+<td><img src="Images/Tipografia.png" alt="Imagen de la tipografia" width="500"></td>
+
+### Colors
+
+Los colores utilizados para representar la marca fueron seleccionados tomando como referencia la psicología del color. Por esta razón, se tomó en cuenta los colores negro, gris, blanco y sus variaciones, los cuales son los más utilizados por lor restaurantes minimalistas.
+<td><img src="Images/Colors.png" alt="Imagen de los colores" width="800"></td>
+
+### Spacing
+
+Teniendo en cuenta el diseño web y Mobile hemos decidido crear 13 espaciados con rem igual a 0,0625 para asegurarnos que haya todas las diferencias notables necesarias entre distintos textos e imágenes.
+<td><img src="Images/Spacing.png" alt="Imagen de los espacios" width="200"></td>
+
 ### 4.1.2. Web Style Guidelines
+
+La paleta de colores para el landing page, está orientada al sector al cuál se está dirigiendo el servicio. Los colores predominantes son variaciones del negro, el gris y blanco. Esto pues, debido a que, en el área de los restaurantes minimalistas, son los colores con los cuáles el público se siente más identificado, ya que, proyecta seguridad, profesionalismo y confianza.
+Debido a que nuestro landing page no ofrece una propuesta informativa sino de servicio, se ha considerado más apropiado elegir el patrón F, que tiene como objetivo dirigir la vista del usuario desde la esquina superior izquierda en donde estaría el logo, seguido del eslogan y la descripción.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+El sistema de organización que se planea implementar para “TasteTour”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
+
 ### Organizacion de contenido
 
+Jerarquica
+
+Organización jerárquica para los usuarios, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS1.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Organización de la sección Tours, donde el usuario podrá encontrar los productos. Se compone de filtros de búsqueda, favoritos  y board.
+<td><img src="Images/OS2.png" alt="Imagen de Tours" width="800"></td>
+
+Organización jerárquica para los restaurantes, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS3.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Mediante el siguiente esquema se muestran las categorías principales para los usuarios.
+<td><img src="Images/OS4.png" alt="Imagen del perfil usuario" width="800"></td>
+
 ### 4.2.2. Labeling Systems
+
+Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
 
+Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar la informacion con los restaurantes asignados por los moderadores de la app.
+
 ### 4.2.5. Navigation Systems
+
+Si el usuario inicia sesión con su cuenta, llegará a la página principal de la app, donde se visualizará sus datos importantes, en la parte inferior se encontrará un panel de navegación con las opciones principales como “Perfil”, “Tours”, “Eventos”, “Busqueda”. Cuando el usuario decida ir a cualquier opción le aparecerá una nueva ventana con el título de la opción previamente seleccionada con otras posibilidades.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
-Wireframes para la versión web de la landing page
-<p><p><p><p>
-<img src="Images/WireframeWebLP1.png" alt="Imagen del wireframe web de la landing page 1">
-<p><p>
-<img src="Images/WireframeWebLP2.png" alt="Imagen del wireframe web de la landing page 2">
-<p><p>
-<img src="Images/WireframeWebLP3.png" alt="Imagen del wireframe web de la landing page 3">
-<p><p>
-<img src="Images/WireframeWebLP4.png" alt="Imagen del wireframe web de la landing page 4">
-<p><p>
-<img src="Images/WireframeWebLP5.png" alt="Imagen del wireframe web de la landing page 5">
-<p><p>
-<img src="Images/WireframeWebLP6.png" alt="Imagen del wireframe web de la landing page 6">
-<p><p><p><p>
-Wireframes para la versión móvil de la landing page
-<p><p><p><p>
-<img src="Images/WireframeMobileLP1.png" alt="Imagen del wireframe móvil de la landing page 1">
-<p><p>
-<img src="Images/WireframeMobileLP2.png" alt="Imagen del wireframe móvil de la landing page 2">
-<p><p>
-<img src="Images/WireframeMobileLP3.png" alt="Imagen del wireframe móvil de la landing page 3">
-<p><p>
-<img src="Images/WireframeMobileLP4.png" alt="Imagen del wireframe móvil de la landing page 4">
-<p><p>
-<img src="Images/WireframeMobileLP5.png" alt="Imagen del wireframe móvil de la landing page 5">
-<p><p>
-<img src="Images/WireframeMobileLP6.png" alt="Imagen del wireframe móvil de la landing page 6">
-<p><p>
-<img src="Images/WireframeMobileLP7.png" alt="Imagen del wireframe móvil de la landing page 7">
-<p><p>
-<img src="Images/WireframeMobileLP8.png" alt="Imagen del wireframe móvil de la landing page 8">
-
-
 ### 4.3.2. Landing Page Mock-up
-
-Mockups para la versión web de la landing page
-<p><p><p><p>
-<img src="Images/MockupWebLP1.png" alt="Imagen del Mockup web 1 de la landing page">
-<p><p>
-<img src="Images/MockupWebLP2.png" alt="Imagen del Mockup web 2 de la landing page">
-<p><p>
-<img src="Images/MockupWebLP3.png" alt="Imagen del Mockup web 3 de la landing page">
-<p><p>
-<img src="Images/MockupWebLP4.png" alt="Imagen del Mockup web 4 de la landing page">
-<p><p>
-<img src="Images/MockupWebLP5.png" alt="Imagen del Mockup web 5 de la landing page">
-<p><p>
-<img src="Images/MockupWebLP6.png" alt="Imagen del Mockup web 6 de la landing page">
-<p><p><p><p>
-Mockups para la versión mobile de la landing page
-<p><p><p><p>
-<img src="Images/MockupMobileLP1.png" alt="Imagen del Mockup mobile 1 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP2.png" alt="Imagen del Mockup mobile 2 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP3.png" alt="Imagen del Mockup mobile 3 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP4.png" alt="Imagen del Mockup mobile 4 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP5.png" alt="Imagen del Mockup mobile 5 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP6.png" alt="Imagen del Mockup mobile 6 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP7.png" alt="Imagen del Mockup mobile 7 de la landing page">
-<p><p>
-<img src="Images/MockupMobileLP8.png" alt="Imagen del Mockup mobile 8 de la landing page">
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-Wireframes para la versión web del web applications
-<p><p><p><p>
-<img src="Images/AppWebWireframe1.png" alt="Imagen del wireframe web del web application 1">
-<p><p>
-<img src="Images/AppWebWireframe2.png" alt="Imagen del wireframe web del web application 2">
-<p><p>
-<img src="Images/AppWebWireframe3.png" alt="Imagen del wireframe web del web application 3">
-<p><p>
-<img src="Images/AppWebWireframe4.png" alt="Imagen del wireframe web del web application 4">
-<p><p>
-<img src="Images/AppWebWireframe5.png" alt="Imagen del wireframe web del web application 5">
-<p><p>
-<img src="Images/AppWebWireframe6.png" alt="Imagen del wireframe web del web application 6">
-<p><p>
-<img src="Images/AppWebWireframe7.png" alt="Imagen del wireframe web del web application 7">
-<p><p>
-<img src="Images/AppWebWireframe8.png" alt="Imagen del wireframe web del web application 8">
-<p><p>
-<img src="Images/AppWebWireframe9.png" alt="Imagen del wireframe web del web application 9">
-<p><p>
-<img src="Images/AppWebWireframe10.png" alt="Imagen del wireframe web del web application 10">
-<p><p>
-<img src="Images/AppWebWireframe11.png" alt="Imagen del wireframe web del web application 11">
-<p><p>
-<img src="Images/AppWebWireframe12.png" alt="Imagen del wireframe web del web application 12">
-<p><p>
-<img src="Images/AppWebWireframe13.png" alt="Imagen del wireframe web del web application 13">
-<p><p>
-<img src="Images/AppWebWireframe14.png" alt="Imagen del wireframe web del web application 14">
-<p><p>
-<img src="Images/AppWebWireframe15.png" alt="Imagen del wireframe web del web application 15">
-<p><p>
-<img src="Images/AppWebWireframe16.png" alt="Imagen del wireframe web del web application 16">
-<p><p>
-<img src="Images/AppWebWireframe17.png" alt="Imagen del wireframe web del web application 17">
-<p><p>
-<img src="Images/AppWebWireframe18.png" alt="Imagen del wireframe web del web application 18">
-<p><p>
-<img src="Images/AppWebWireframe19.png" alt="Imagen del wireframe web del web application 19">
-<p><p>
-<img src="Images/AppWebWireframe20.png" alt="Imagen del wireframe web del web application 20">
-<p><p>
-<img src="Images/AppWebWireframe21.png" alt="Imagen del wireframe web del web application 21">
-<p><p>
-<img src="Images/AppWebWireframe22.png" alt="Imagen del wireframe web del web application 22">
-<p><p>
-<img src="Images/AppWebWireframe23.png" alt="Imagen del wireframe web del web application 23">
-<p><p>
-<img src="Images/AppWebWireframe24.png" alt="Imagen del wireframe web del web application 24">
-<p><p>
-<img src="Images/AppWebWireframe25.png" alt="Imagen del wireframe web del web application 25">
-<p><p>
-<img src="Images/AppWebWireframe26.png" alt="Imagen del wireframe web del web application 26">
-<p><p>
-<img src="Images/AppWebWireframe27.png" alt="Imagen del wireframe web del web application 27">
-<p><p>
-<img src="Images/AppWebWireframe28.png" alt="Imagen del wireframe web del web application 28">
-<p><p>
-<img src="Images/AppWebWireframe29.png" alt="Imagen del wireframe web del web application 29">
-<p><p>
-<img src="Images/AppWebWireframe30.png" alt="Imagen del wireframe web del web application 30">
-<p><p>
-<img src="Images/AppWebWireframe31.png" alt="Imagen del wireframe web del web application 31">
-
-
 ### 4.4.2. Web Applications Wireflow Diagrams
-
-Wireflow User Goal 1 (Como usuario , quiero crear una cuenta en la aplicación para acceder a las funcionalidades)
-
-User Task: El usuario descarga la aplicación, ingresa sus datos y sigue los pasos para registrar su cuenta.
-
-<p><p><p><p>
-<img src="Images/Wireflow1.png" alt="Imagen del wireflow 1 del web application">
-<p><p>
-
-Wireflow User Goal 2 (Como usuario , quiero iniciar sesión con mi correo y contraseña para un acceso seguro)
-
-User Task: El usuario entra a la aplicación, ingresa sus datos e ingresa a su cuenta.
-
-<p><p><p><p>
-<img src="Images/Wireflow2.png" alt="Imagen del wireflow 2 del web application">
-<p><p>
-
-Wireflow User Goal 3 (Como usuario , quiero editar mi información de perfil para mantener mis datos personales actualizados.)
-
-User Task: El usuario, dentro de la aplicación, ingresa al perfil de su cuenta y edita los datos que desee.
-
-<p><p><p><p>
-<img src="Images/Wireflow3.png" alt="Imagen del wireflow 3 del web application">
-<p><p>
 
 ### 4.4.3. Web Applications Mock-ups
 
-Mockups para la versión web del web applications
-<p><p><p><p>
-<img src="Images/AppWebMockup1.png" alt="Imagen del mockup del web application 1">
-<p><p>
-<img src="Images/AppWebMockup2.png" alt="Imagen del mockup del web application 2">
-<p><p>
-<img src="Images/AppWebMockup3.png" alt="Imagen del mockup del web application 3">
-<p><p>
-<img src="Images/AppWebMockup4.png" alt="Imagen del mockup del web application 4">
-<p><p>
-<img src="Images/AppWebMockup5.png" alt="Imagen del mockup del web application 5">
-<p><p>
-<img src="Images/AppWebMockup6.png" alt="Imagen del mockup del web application 6">
-<p><p>
-<img src="Images/AppWebMockup7.png" alt="Imagen del mockup del web application 7">
-<p><p>
-<img src="Images/AppWebMockup8.png" alt="Imagen del mockup del web application 8">
-<p><p>
-<img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
-<p><p>
-<img src="Images/AppWebMockup10.png" alt="Imagen del mockup del web application 10">
-<p><p>
-<img src="Images/AppWebMockup11.png" alt="Imagen del mockup del web application 11">
-<p><p>
-<img src="Images/AppWebMockup12.png" alt="Imagen del mockup del web application 12">
-<p><p>
-<img src="Images/AppWebMockup13.png" alt="Imagen del mockup del web application 13">
-<p><p>
-<img src="Images/AppWebMockup14.png" alt="Imagen del mockup del web application 14">
-<p><p>
-<img src="Images/AppWebMockup15.png" alt="Imagen del mockup del web application 15">
-<p><p>
-<img src="Images/AppWebMockup16.png" alt="Imagen del mockup del web application 16">
-<p><p>
-<img src="Images/AppWebMockup17.png" alt="Imagen del mockup del web application 17">
-<p><p>
-<img src="Images/AppWebMockup18.png" alt="Imagen del mockup del web application 18">
-<p><p>
-<img src="Images/AppWebMockup19.png" alt="Imagen del mockup del web application 19">
-<p><p>
-<img src="Images/AppWebMockup20.png" alt="Imagen del mockup del web application 20">
-<p><p>
-<img src="Images/AppWebMockup21.png" alt="Imagen del mockup del web application 21">
-<p><p>
-<img src="Images/AppWebMockup22.png" alt="Imagen del mockup del web application 22">
-<p><p>
-<img src="Images/AppWebMockup23.png" alt="Imagen del mockup del web application 23">
-<p><p>
-<img src="Images/AppWebMockup24.png" alt="Imagen del mockup del web application 24">
-<p><p>
-<img src="Images/AppWebMockup25.png" alt="Imagen del mockup del web application 25">
-<p><p>
-<img src="Images/AppWebMockup26.png" alt="Imagen del mockup del web application 26">
-<p><p>
-<img src="Images/AppWebMockup27.png" alt="Imagen del mockup del web application 27">
-<p><p>
-<img src="Images/AppWebMockup28.png" alt="Imagen del mockup del web application 28">
-<p><p>
-<img src="Images/AppWebMockup29.png" alt="Imagen del mockup del web application 29">
-<p><p>
-<img src="Images/AppWebMockup30.png" alt="Imagen del mockup del web application 30">
-<p><p>
-<img src="Images/AppWebMockup31.png" alt="Imagen del mockup del web application 31">
-
-
-
 ### 4.4.4. Web Applications User Flow Diagrams
-
-User Flow 1 El usuario quiere crear una cuenta en la aplicación para acceder a las funcionalidades
-
-User Task: El usuario descarga la aplicación, ingresa sus datos y sigue los pasos para registrar su cuenta.
-
-<p><p><p><p>
-1. El usuario da click en "Get started".
-<img src="Images/AppWebMockup1.png" alt="Imagen del mockup del web application 1">
-<p><p>
-2. El usuario hace click en "Create a new account" para dirigirse al apartado de la creación de su cuenta.
-<img src="Images/AppWebMockup2.png" alt="Imagen del mockup del web application 2">
-<p><p>
-3. El usuario rellena su información personal y hace click en "Sign up" para crear su cuenta.
-<img src="Images/AppWebMockup4.png" alt="Imagen del mockup del web application 4">
-<p><p>
-4. El usuario hace click en "Allow notifications" si quiere recibir notificaciones de la aplicación web o hace click en "Skip" si no desea recibir ninguna notificación por ahora.
-<img src="Images/AppWebMockup5.png" alt="Imagen del mockup del web application 5">
-<p><p>
-5. El usuario lee las ventajas de la suscripción, elige su tipo de suscripción y hace click en "Subscribe" si le interesa suscribirse a la aplicación web o hace click en "Skip" si no está interesado en suscribirse a "TasteTour" por el momento.
-<img src="Images/AppWebMockup6.png" alt="Imagen del mockup del web application 6">
-<p><p>
-6. De haber hecho click en "Subscribe", el usuario debe rellenar todos los datos de su tarjeta para realizar el pago y hace click en "Complete Payment" para completar dicho pago.
-<img src="Images/AppWebMockup7.png" alt="Imagen del mockup del web application 7">
-<p><p>
-7. El usuario hace click en "Use my ubication" para que la aplicación web le recomiende los mejores lugares más cercanos al usuario. De no querer poner su ubicación, solo hace click en "Skip for now".
-<img src="Images/AppWebMockup8.png" alt="Imagen del mockup del web application 8">
-<p><p>
-8. El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
-<img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
-<p><p>
-
-User Flow 2 El usuario quiere iniciar sesión con su correo y contraseña para un acceso seguro
-
-User Task: El usuario entra a la aplicación, ingresa sus datos e ingresa a su cuenta.
-
-<p><p><p><p>
-1. El usuario da click en "Get started".
-<img src="Images/AppWebMockup1.png" alt="Imagen del mockup del web application 1">
-<p><p>
-2. El usuario indica su correo y contraseña y hace click en "Login" para iniciar sesión con su cuenta.
-<img src="Images/AppWebMockup2.png" alt="Imagen del mockup del web application 2">
-<p><p>
-3. El usuario se encuentra en la pantalla principal de la aplicación. A partir de ahí puede explorar y descubrir lo que TasteTour tiene para el usuario.
-<img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
-<p><p>
-
-User Flow 3 El usuario quiere editar su información de perfil para mantener sus datos personales actualizados.
-
-User Task: El usuario, dentro de la aplicación, ingresa al perfil de su cuenta y edita los datos que desee.
-
-<p><p><p><p>
-1. El usuario se encuentra en la pantalla principal de la aplicación. En este caso, el usuario hace click en "Account".
-<img src="Images/AppWebMockup9.png" alt="Imagen del mockup del web application 9">
-<p><p>
-2. El usuario se encuentra en el apartado de su cuenta. Hace click en "Profile" para dirigirse a su perfil.
-<img src="Images/AppWebMockup15.png" alt="Imagen del mockup del web application 15">
-<p><p>
-3. El usuario se encuentra en el apartado de su perfil. Hace click en el lápiz de la parte superior para editar su perfil.
-<img src="Images/AppWebMockup16.png" alt="Imagen del mockup del web application 16">
-<p><p>
-4. El usuario rellena su perfil con sus datos actualizados como su nombre y ciudad. Cuando el usuario se encuentre conforme, hace click en "Save".
-<img src="Images/AppWebMockup19.png" alt="Imagen del mockup del web application 19">
-<p><p>
-5. El usuario ve nuevamente su perfil ya actualizado.
-<img src="Images/AppWebMockup16.png" alt="Imagen del mockup del web application 16">
-<p><p>
 
 ## 4.5. Web Applications Prototyping
 
@@ -637,19 +396,422 @@ User Task: El usuario, dentro de la aplicación, ingresa al perfil de su cuenta 
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<td><img src="Images/Contexto.png" alt="Imagen del context diagram" width="1500"></td>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+<td><img src="Images/Contenedores.png" alt="Imagen del container diagram" width="1500"></td>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+## Bounded context component Users
+
+<td><img src="Images/ComponentesUsers.png" alt="Imagen del components user diagram" width="1500"></td>
+
+## Bounded context component Tours
+
+<td><img src="Images/ComponentesTours.png" alt="Imagen del components tours diagram" width="1500"></td>
+
+## Bounded context component Security
+
+<td><img src="Images/ComponentesSecurity.png" alt="Imagen del components security diagram" width="1500"></td>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
+<td><img src="Images/DiagramaClases.png" alt="Imagen del diagrama de clases" width="900"></td>
+
 ### 4.7.2. Class Dictionary
+
+<table>
+    <td colspan= "3" align="center">Usuario</td>
+<tr>
+    <td>int</td>
+    <td>idClient</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Cumpleaños del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>escribirReseña()</td>
+    <td>Reseña que hará el usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>reservarTour()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>reservarClase()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour, a su vez si desea reservar por una clase de cocina, se reservará dicha clase</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>misReservas()</td>
+    <td>Se guardarán todas las reservas del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPreferencias()</td>
+    <td>Pantalla de las preferencias del usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Premium</td>
+<tr>
+    <td>double</td>
+    <td>descuento</td>
+    <td>Descuento que recibirá el usuario premium</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>tourAdicional</td>
+    <td>El usuario premium tendrá la posibilidad de obtener un tour adicional en su paquete de preferencia</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario premium obtendrá un permiso la cual le permitirá realizar consultas con el instructor de la clase</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Gratis</td>
+  <tr>
+    <td>bool</td>
+    <td>limiteTour</td>
+    <td>El usuario gratuito obtendrá un limite de reserva de tours</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario gratuito solo podrá observar la clase más no podrá realizar sus consultas al instructor</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">PlanSuscripción</td>
+  <tr>
+    <td>void</td>
+    <td>metodopago()</td>
+    <td>Metodo de pago que realizará el usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Administrador</td>
+<tr>
+    <td>int</td>
+    <td>idAdmin</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del admin</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del admin</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>password</td>
+    <td>Contraseña del admin</td>
+  </tr>
+
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TarjetaDebito</td>
+<tr>
+    <td>int</td>
+    <td>numTarjeta</td>
+    <td>Número de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de expiración de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del dueño de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>pago()</td>
+    <td>Realizar el pago con la tarjeta de debito</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Reseña</td>
+<tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Calificación del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>comentario</td>
+    <td>Comentario del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Tour</td>
+  <tr>
+    <td>string</td>
+    <td>tituloTour</td>
+    <td>Nombre del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>instructor</td>
+    <td>Nombre del instructor del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>descripción</td>
+    <td>Descripción del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Valoración del tour hecha por los usuarios</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>capacidad</td>
+    <td>Capacidad maxima de personas </td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Duración del tour</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de inicio del tour</td>
+  </tr>
+  <tr>
+    <td>float</td>
+    <td>precio</td>
+    <td>Precio de la reserva del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Dueño</td>
+<tr>
+    <td>int</td>
+    <td>idDueño</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del dueño</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del dueño</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del dueño</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del dueño</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del dueño</td>
+  </tr>
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TastyTourSystem</td>
+<tr>
+    <td>void</td>
+    <td>vistaInicioSesion()</td>
+    <td>Pantalla de inicio de sesión</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>vistaPerfilUsuario()</td>
+    <td>Pantalla del perfil del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaTours()</td>
+    <td>Pantalla de la lista de tours disponibles</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPlanSuscripcion</td>
+    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaSoporte()</td>
+    <td>Pantalla de el el soporte de nuestra plataforma</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaGuía()</td>
+    <td>Pantalla de la guía</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaNovedades()</td>
+    <td>Pantalla de las novedades de la plataforma</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurante</td>
+  <tr>
+    <td>string</td>
+    <td>nombre_restauraunte</td>
+    <td>Nombre del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>ubicación_restau</td>
+    <td>Ubicación del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>horario_restau</td>
+    <td>Horario de atención del restaurante</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">VisitaMercado</td>
+  <tr>
+    <td>int</td>
+    <td>idMercado</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurantes</td>
+  <tr>
+    <td>int</td>
+    <td>idRestaurant</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Clases</td>
+  <tr>
+    <td>int</td>
+    <td>idClass</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Soporte</td>
+<tr>
+    <td>string</td>
+    <td>titulo</td>
+    <td>Nombre del asunto</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>mensaje</td>
+    <td>Mensaje del usuario</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>phoneEmpresa</td>
+    <td>Vista del número telefonico de la empresa</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>emailEmpresa</td>
+    <td>vista del email de la empresa</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>enviarEmail()</td>
+    <td>Función que hará el usuario al enviar su correo a TasteTeam</td>
+  </tr><tr>
+    <td>void</td>
+    <td>contactos()</td>
+    <td>Lista de contactos de TasteTeam</td>
+  </tr>
+
+  </table>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+<td><img src="Images/Modelo logico.png" alt="Imagen del diagrama de base de datos" width="900"></td>
+
+<br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
