@@ -527,6 +527,12 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.3.2. User Task Matrix
 
+<td><img src="Images/TaskMatrix1.JPG" alt="Task Matrix 1"></td>
+<td>
+
+<td><img src="Images/TaskMatrix2.JPG" alt="Task Matrix 2"></td>
+<td>
+
 ### 2.3.3. User Journey Mapping
 
 <td><img src="Images/userjourney.png" alt="Imagen Journey"></td>
