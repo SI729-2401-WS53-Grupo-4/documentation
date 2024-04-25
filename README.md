@@ -347,6 +347,16 @@ Nuestra plataforma "TasteTour" busca abordar la crisis de inseguridad alimentari
 
 # 1.3. Segmentos Objetivo
 
+<b>Amantes de la cocina peruana (edad: 17 años a más)</b>
+
+Consiste de personas que buscan más que simplemente alimentarse; anhelan degustar las tradiciones culinarias, explorar mercados locales, aprender técnicas de cocina y degustar platos emblemáticos que ofrece nuestro país. Con nosotros, encontrarán la oportunidad de vivir experiencias culinarias inolvidables que satisfagan su curiosidad y paladar exigente.
+
+<b>Restaurantes peruanos</b>
+
+Desde establecimientos familiares hasta reconocidos locales internacionales, buscan no solo atraer comensales locales, sino también captar la atención de los turistas que desean explorar la riqueza culinaria del Perú. Planeamos ofrecer oportunidades para promover sus restaurantes, consolidando así su posición como destinos imprescindibles para los amantes de la comida peruana
+
+<br><br>
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
