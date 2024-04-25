@@ -382,6 +382,23 @@ Mockups para la versión web de la landing page
 <p><p>
 <img src="Images/MockupWebLP6.png" alt="Imagen del Mockup web 6 de la landing page">
 <p><p><p><p>
+Mockups para la versión mobile de la landing page
+<p><p><p><p>
+<img src="Images/MockupMobileLP1.png" alt="Imagen del Mockup mobile 1 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP2.png" alt="Imagen del Mockup mobile 2 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP3.png" alt="Imagen del Mockup mobile 3 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP4.png" alt="Imagen del Mockup mobile 4 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP5.png" alt="Imagen del Mockup mobile 5 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP6.png" alt="Imagen del Mockup mobile 6 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP7.png" alt="Imagen del Mockup mobile 7 de la landing page">
+<p><p>
+<img src="Images/MockupMobileLP8.png" alt="Imagen del Mockup mobile 8 de la landing page">
 
 ## 4.4. Web Applications UX/UI Design
 
