@@ -1537,6 +1537,372 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
 
 ## 3.4. Product Backlog
 
+<table align="center" border="1" width="90%" style="text-align:left;">
+    <tr>
+        <th>
+            # Orden
+        </th>
+        <th>
+            User Story ID
+        </th>
+        <th>
+            Título
+        </th>
+        <th>
+            Descripción
+        </th>
+        <th>
+            Story Points </br> (1 / 2 / 3 / 5 / 8)
+        </th>
+    </tr>
+    <tr>
+        <td>
+            01
+        </td>
+        <td>
+            05
+        </td>
+        <td>
+            Pago seguro de reserva de tour
+        </td>
+        <td>
+            Como cliente , quiero poder realizar el pago de mi reserva de forma segura y conveniente, para garantizar una experiencia de compra sin problemas.
+        </td>
+        <td>
+            8
+        </td>
+    </tr>
+    <tr>
+        <td>
+            02
+        </td>
+        <td>
+            18
+        </td>
+        <td>
+            Visualización del estado de los cupones
+        </td>
+        <td>
+            Como usuario, quiero verificar el estado de los cupones que ingresé para saber si aún se pueden utilizar.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            03
+        </td>
+        <td>
+            17
+        </td>
+        <td>
+            Ingreso de cupones de descuento
+        </td>
+        <td>
+            Como usuario, quiero ingresar cupones de descuento que haya obtenido para obtener descuentos exclusivos en mis futuros viajes.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            04
+        </td>
+        <td>
+            07
+        </td>
+        <td>
+            Información detallada del tour
+        </td>
+        <td>
+            Como cliente, quiero obtener información completa sobre cada actividad incluida en el tour para tomar decisiones informadas sobre mis opciones gastronómicas.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            05
+        </td>
+        <td>
+            15
+        </td>
+        <td>
+            Verificación de tours accedidos
+        </td>
+        <td>
+            Como propietario de restaurante, quiero verificar los tours en los que mi restaurante a accedido para estar al tanto de las posibles visitas
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            06
+        </td>
+        <td>
+            08
+        </td>
+        <td>
+            Recepción de notificaciones de ofertas
+        </td>
+        <td>
+            Como usuario, quiero recibir notificaciones de la aplicación sobre nuevas ofertas o promociones, para estar al tanto de oportunidades de viaje y experiencias culinarias.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            07
+        </td>
+        <td>
+            13
+        </td>
+        <td>
+            Registro de restaurante
+        </td>
+        <td>
+            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            08
+        </td>
+        <td>
+            16
+        </td>
+        <td>
+            Calificación y comentarios de experiencia
+        </td>
+        <td>
+            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            09
+        </td>
+        <td>
+            20
+        </td>
+        <td>
+            Recomendaciones personalizadas de tours
+        </td>
+        <td>
+            Como usuario, quiero recibir recomendaciones personalizadas de tours basadas en mis preferencias, para descubrir nuevas experiencias culinarias durante mi viaje.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+    <tr>
+        <td>
+            10
+        </td>
+        <td>
+            02
+        </td>
+        <td>
+            Inicio de sesión seguro
+        </td>
+        <td>
+            Como usuario , quiero iniciar sesión con mi correo y contraseña para un acceso seguro.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            11
+        </td>
+        <td>
+            03
+        </td>
+        <td>
+            Edición de perfil
+        </td>
+        <td>
+            Como usuario , quiero editar mi información de perfil para mantener mis datos personales actualizados.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            12
+        </td>
+        <td>
+            06
+        </td>
+        <td>
+            Visualización de paquetes de tours disponibles
+        </td>
+        <td>
+            Como cliente, quiero ver una lista detallada de los paquetes de tours disponibles para seleccionar el que más se ajuste a mis intereses gastronómicos.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            13
+        </td>
+        <td>
+            19
+        </td>
+        <td>
+            Cancelación de reserva de tour
+        </td>
+        <td>
+            Como usuario, quiero tener la posibilidad de cancelar mi reserva de tour en caso sea necesario para no causar problemas con los encargados del tour
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            14
+        </td>
+        <td>
+            10
+        </td>
+        <td>
+            Visualización de mensajes
+        </td>
+        <td>
+            Como usuario, quiero poder ver los mensajes que otros me han mandado para poder estar al tanto de novedades que pueden contarme.
+        </td>
+        <td>
+            1
+        </td>
+    </tr>
+    <tr>
+        <td>
+            15
+        </td>
+        <td>
+            11
+        </td>
+        <td>
+            Recepción de itinerario detallado
+        </td>
+        <td>
+            Como cliente, quiero recibir un itinerario detallado de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            16
+        </td>
+        <td>
+            01
+        </td>
+        <td>
+            Creación de cuenta
+        </td>
+        <td>
+            Como usuario , quiero crear una cuenta en la aplicación para acceder a las funcionalidades.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            17
+        </td>
+        <td>
+            04
+        </td>
+        <td>
+            Ingreso de datos de tarjeta
+        </td>
+        <td>
+            Como usuario , quiero ingresar los datos de mi tarjeta para realizar transacciones en la aplicación.
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+    <tr>
+        <td>
+            18
+        </td>
+        <td>
+            12
+        </td>
+        <td>
+            Comunicación con soporte
+        </td>
+        <td>
+            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            19
+        </td>
+        <td>
+            14
+        </td>
+        <td>
+            Aplicar restaurante en tours
+        </td>
+        <td>
+            Como propietario de restaurante, quiero aplicar mi restaurante en tours que vea conveniente para tener la posibilidad de ingresarlo en alguno de ellos
+        </td>
+        <td>
+            3
+        </td>
+    </tr>
+    <tr>
+        <td>
+            20
+        </td>
+        <td>
+            09
+        </td>
+        <td>
+            Filtros de búsqueda de tour gastronómico
+        </td>
+        <td>
+            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+        </td>
+        <td>
+            2
+        </td>
+    </tr>
+</table>
+
+
+<br><br>
+
+Link del Trello:
+https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
