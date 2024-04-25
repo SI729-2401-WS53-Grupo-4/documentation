@@ -378,6 +378,22 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.3.1. Landing Page Wireframe
 
+## Pantalla Principal
+
+<td><img src="Images/LandingPageWireframe1.png" alt="Imagen del Inicio" width="1500"></td>
+
+## Acerca de nosotros
+
+<td><img src="Images/LandingPageWireframe2.png" alt="Imagen del About us" width="1500"></td>
+
+## Tours
+
+<td><img src="Images/LandingPageWireframe3.png" alt="Imagen del Tours" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
