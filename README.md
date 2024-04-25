@@ -439,6 +439,30 @@ Wireframes para la versión web del web applications
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+Wireflow User Goal 1 (Como usuario , quiero crear una cuenta en la aplicación para acceder a las funcionalidades)
+
+User Task: El usuario descarga la aplicación, ingresa sus datos y sigue los pasos para registrar su cuenta.
+
+<p><p><p><p>
+<img src="Images/Wireflow1.png" alt="Imagen del wireflow 1 del web application">
+<p><p>
+
+Wireflow User Goal 2 (Como usuario , quiero iniciar sesión con mi correo y contraseña para un acceso seguro)
+
+User Task: El usuario entra a la aplicación, ingresa sus datos e ingresa a su cuenta.
+
+<p><p><p><p>
+<img src="Images/Wireflow2.png" alt="Imagen del wireflow 2 del web application">
+<p><p>
+
+Wireflow User Goal 3 (Como usuario , quiero editar mi información de perfil para mantener mis datos personales actualizados.)
+
+User Task: El usuario, dentro de la aplicación, ingresa al perfil de su cuenta y edita los datos que desee.
+
+<p><p><p><p>
+<img src="Images/Wireflow3.png" alt="Imagen del wireflow 3 del web application">
+<p><p>
+
 ### 4.4.3. Web Applications Mock-ups
 
 Mockups para la versión web del web applications
