@@ -185,6 +185,8 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
     <br>
     <b>Jimena Alessandra Cossio Jimenez</b>
     <br>
@@ -216,6 +218,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
+    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
     <br>
 <b>Jimena Alessandra, Cossio Jimenez</b>
     <br>
