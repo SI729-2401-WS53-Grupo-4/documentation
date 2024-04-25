@@ -222,7 +222,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
-    -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello del Sprint Backlog 1 de acuerdo a nuestras historias de usuario realizadas<br/>    
+    -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
     <br>
 
 </td>
