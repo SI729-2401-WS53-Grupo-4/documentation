@@ -299,6 +299,20 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 1.2.1. Antecedentes y problemática
 
+What (¿Qué?): Una de las problemáticas que ocurre en el Perú es la crisis de inseguridad alimentaria por parte de los peruanos, la cual se evidencia mediante la reducción del consumo de alimentos peruanos a causa de la inflación. Esta problemática es muy grave porque no solo afecta a los amantes de la cocina peruana junto con los trabajadores de restaurantes peruanos, sino también a los peruanos en general, afectando más a aquellos de clase baja junto con aquellos que pierden su empleo. También está el problema de la falta de una cultura gastronómica peruana, la cual se evidencia en la limitación de consumo de alimentos peruanos, puesto que se ha visto que varios peruanos prefieren comer comida no originaria del Perú o que simplemente comen los platos típicos peruanos, en lugar de profundizar otras comidas peruanas.
+
+When (¿Cuándo?): El problema sucede cuando ocurre una inflación y cuando los inversionistas deciden dejar de invertir en los restaurantes peruanos, haciendo que muchos restaurantes pequeños tengan que cerrar. También el problema sucede cuando hay desconocimiento de la gran variedad de alimentos y comidas peruanas. El cliente (los amantes de la cocina peruana) utiliza el servicio cuando quiera vivir la experiencia de explorar y degustar la gastronomía peruana para conocer más sus raíces y así contribuir con el turismo gastronómico peruano / la economía peruana.
+
+Where (¿Dónde?): El cliente puede estar en cualquier lugar del Perú cuando quiera adquirir y usar el servicio. Dicho servicio no será tangible como tal al ser principalmente una experiencia que disfrutará el cliente y no tanto un producto como tal.
+
+Who (¿Quién?): Esta problemática involucra principalmente a los amantes de la cocina peruana y a los trabajadores de restaurantes peruanos. Estos tipos de usuarios serán quienes usarán principalmente el servicio.
+
+Why (¿Por qué?): El problema de la crisis de inseguridad alimentaria tiene múltiples causas, entre las cuales se encuentran la inflación, la pérdida de empleo y el cierre de restaurantes peruanos pequeños. La inflación porque los precios de los alimentos aumentan en demasía y si a eso le sumamos la pérdida de empleo, se hace mucho más grave porque les costaría a estas personas el pagarlo, haciendo que con menos frecuencia vayan a restaurantes, lo que a su vez ocasiona pérdidas en los restaurantes, haciendo que cierren sus locales por pérdida de clientes e incluso por no ser muy conocido en la zona. En el caso de la falta de una cultura gastronómica peruana, una causa es el desconocimiento de la variedad de platillos peruanos para probar, limitándose a las típicas comidas peruanas como el ceviche, la causa rellena y el ají de gallina.
+
+How (¿Cómo?): Una de las cuestiones que llevó a los amantes de la cocina peruana a esta situación es cuando esta persona quiere conocer la gastronomía peruana como una experiencia enriquecedora que lo combine también con la cultura peruana. En el caso de los trabajadores de restaurantes peruanos, una de las cuestiones que los llevó a dicha situación es que debido a la inflación, muchas personas han perdido su empleo, por lo que parte de los clientes han dejado de ir a sus locales, con ello, algunos inversionistas han optado por dejar de invertir en estos restaurantes, prefiriendo invertir en restaurantes del extranjero en su lugar, conllevando a que algunos restaurantes peruanos cierren mientras que otros restaurantes necesitan ser más conocidos a nivel nacional.
+
+How much (¿Cuánto?): Según la encuesta nacional realizada por Ipsos en 2023, los tres platos que mejor representan a la cocina peruana son el ceviche, el arroz con pato y la pachamanca con 74%, 22% y 22% respectivamente, demostrando así que los peruanos suelen limitarse a los platillos más clásicos en lugar de probar nuevas comidas peruanas. (Ipsos, 2023)
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
