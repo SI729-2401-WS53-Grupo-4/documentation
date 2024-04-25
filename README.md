@@ -503,7 +503,7 @@ Mockups para la versión web del web applications
 <p><p>
 <img src="Images/AppWebMockup30.png" alt="Imagen del mockup del web application 30">
 <p><p>
-<img src="Images/AppWebWireframe31.png" alt="Imagen del mockup del web application 31">
+<img src="Images/AppWebMockup31.png" alt="Imagen del mockup del web application 31">
 
 
 
