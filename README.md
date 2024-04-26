@@ -479,3 +479,13 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 
 # Anexos
 
+- Link del Trello:
+https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
+
+- Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
+
+- Link del figma del prototipado: https://www.figma.com/file/iAskqpMQdT3CxO6gK9qcZa/WEB-APPLICATIONS-MOCK-UP?type=design&node-id=0%3A1&mode=design&t=CYUsxtmaRRxfJzTo-1
+
+- Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
+
+- Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
