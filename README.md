@@ -474,6 +474,58 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.4.3. Web Applications Mock-ups
 
+## Login
+
+<td><img src="Images/WebApplications1.png" alt="Imagen del Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/WebApplications2.png" alt="Imagen del Registro" width="1500"></td>
+
+## Inicio
+
+<td><img src="Images/WebApplications3.png" alt="Imagen del Home" width="1500"></td>
+
+## Profile del usuario
+
+<td><img src="Images/WebApplications4.png" alt="Imagen del Profile" width="1500"></td>
+
+## Plan de Suscripción
+
+<td><img src="Images/WebApplications5.png" alt="Imagen del PlanSuscripción" width="1500"></td>
+
+## Lista de Restaurantes
+
+<td><img src="Images/WebApplications6.png" alt="Imagen del Restaurantes" width="1500"></td>
+
+## Lista de Restaurantes Favoritos
+
+<td><img src="Images/WebApplications7.png" alt="Imagen del Favoritos" width="1500"></td>
+
+## Lista de Tours Disponibles
+
+<td><img src="Images/WebApplications8.png" alt="Imagen del Tours" width="1500"></td>
+
+## Información del Tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications9.png" alt="Imagen del Tour" width="1500"></td>
+
+## Info de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications13.png" alt="Imagen del Tour pago" width="1500"></td>
+
+## Proceso de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications10.png" alt="Imagen del Tour process" width="1500"></td>
+
+## Confirmación de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications11.png" alt="Imagen del Tour confirmación" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/WebApplications12.png" alt="Imagen del Reservas" width="1500"></td>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
