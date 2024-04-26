@@ -299,6 +299,20 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 1.2.1. Antecedentes y problemática
 
+What (¿Qué?): Una de las problemáticas que ocurre en el Perú es la crisis de inseguridad alimentaria por parte de los peruanos, la cual se evidencia mediante la reducción del consumo de alimentos peruanos a causa de la inflación. Esta problemática es muy grave porque no solo afecta a los amantes de la cocina peruana junto con los trabajadores de restaurantes peruanos, sino también a los peruanos en general, afectando más a aquellos de clase baja junto con aquellos que pierden su empleo. También está el problema de la falta de una cultura gastronómica peruana, la cual se evidencia en la limitación de consumo de alimentos peruanos, puesto que se ha visto que varios peruanos prefieren comer comida no originaria del Perú o que simplemente comen los platos típicos peruanos, en lugar de profundizar otras comidas peruanas.
+
+When (¿Cuándo?): El problema sucede cuando ocurre una inflación y cuando los inversionistas deciden dejar de invertir en los restaurantes peruanos, haciendo que muchos restaurantes pequeños tengan que cerrar. También el problema sucede cuando hay desconocimiento de la gran variedad de alimentos y comidas peruanas. El cliente (los amantes de la cocina peruana) utiliza el servicio cuando quiera vivir la experiencia de explorar y degustar la gastronomía peruana para conocer más sus raíces y así contribuir con el turismo gastronómico peruano / la economía peruana.
+
+Where (¿Dónde?): El cliente puede estar en cualquier lugar del Perú cuando quiera adquirir y usar el servicio. Dicho servicio no será tangible como tal al ser principalmente una experiencia que disfrutará el cliente y no tanto un producto como tal.
+
+Who (¿Quién?): Esta problemática involucra principalmente a los amantes de la cocina peruana y a los trabajadores de restaurantes peruanos. Estos tipos de usuarios serán quienes usarán principalmente el servicio.
+
+Why (¿Por qué?): El problema de la crisis de inseguridad alimentaria tiene múltiples causas, entre las cuales se encuentran la inflación, la pérdida de empleo y el cierre de restaurantes peruanos pequeños. La inflación porque los precios de los alimentos aumentan en demasía y si a eso le sumamos la pérdida de empleo, se hace mucho más grave porque les costaría a estas personas el pagarlo, haciendo que con menos frecuencia vayan a restaurantes, lo que a su vez ocasiona pérdidas en los restaurantes, haciendo que cierren sus locales por pérdida de clientes e incluso por no ser muy conocido en la zona. En el caso de la falta de una cultura gastronómica peruana, una causa es el desconocimiento de la variedad de platillos peruanos para probar, limitándose a las típicas comidas peruanas como el ceviche, la causa rellena y el ají de gallina.
+
+How (¿Cómo?): Una de las cuestiones que llevó a los amantes de la cocina peruana a esta situación es cuando esta persona quiere conocer la gastronomía peruana como una experiencia enriquecedora que lo combine también con la cultura peruana. En el caso de los trabajadores de restaurantes peruanos, una de las cuestiones que los llevó a dicha situación es que debido a la inflación, muchas personas han perdido su empleo, por lo que parte de los clientes han dejado de ir a sus locales, con ello, algunos inversionistas han optado por dejar de invertir en estos restaurantes, prefiriendo invertir en restaurantes del extranjero en su lugar, conllevando a que algunos restaurantes peruanos cierren mientras que otros restaurantes necesitan ser más conocidos a nivel nacional.
+
+How much (¿Cuánto?): Según la encuesta nacional realizada por Ipsos en 2023, los tres platos que mejor representan a la cocina peruana son el ceviche, el arroz con pato y la pachamanca con 74%, 22% y 22% respectivamente, demostrando así que los peruanos suelen limitarse a los platillos más clásicos en lugar de probar nuevas comidas peruanas. (Ipsos, 2023)
+
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
@@ -366,7 +380,116 @@ Desde establecimientos familiares hasta reconocidos locales internacionales, bus
 
 ### 2.1.1. Análisis competitivo
 
+<div align="center">
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2">¿Por qué llevar este análisis?</td>
+    <td colspan="4">Para proporcionar información valiosa acerca de los competidores, lo cual nos servirá para mejorar la calidad de nuestro servicio</td>
+  </tr>
+  <tr>
+    <td colspan="2">&nbsp;</td>
+    <td>TasteTeam</td>
+    <td>The Lima Gourmet Company</td>
+    <td>Lima Tasty Tours</td>
+    <td>Exquisito Perú</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Es una agencia de viajes especializada en el turismo gastronómico peruano.</td>
+    <td>Es el líder en tours culinarios y actividades para hacer en Lima en Tripadvisor.</td>
+    <td>Es una organización de viajes gastronómicos en Perú.</td>
+    <td>Es una agencia de turismo gastronómico en Perú.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva: ¿Qué valor ofrece a los clientes?</td>
+    <td>Disfrutar de una experiencia culinaria combinada con la cultura peruana</td>
+    <td>Explorar la cultura peruana en grupos chicos mediante experiencias gastronómicas</td>
+    <td>Ofrece innovadoras aventuras culinarias para viajeros que deseen enriquecerse de la gastronomía peruana</td>
+    <td>Combinar la comida, el turismo, el arte, la cultura y la historia</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Amantes de la cocina peruana.<p><p>Trabajadores de restaurantes </td>
+    <td>Amantes de la cocina peruana</td>
+    <td>Amantes de la cultura peruana<p><p>Viajeros</td>
+    <td>Amantes de la cocina peruana<p><p>Viajeros</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Marketing en redes sociales, marketing de contenido</td>
+    <td>Marketing en redes sociales, marketing de contenido</td>
+    <td>Marketing en redes sociales, marketing de contenido</td>
+    <td>Marketing en redes sociales, marketing de contenido</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Tours gastronómicos<p><p>Clases de cocina<p><p>Degustación de alimentos peruanos<p><p>Experiencia local</td>
+    <td>Tours gastronómicos<p><p>Recorrido gastronómico de Miraflores<p><p>Clases de cocina</td>
+    <td>Tours gastronómicos<p><p>Experiencia local<p><p>Clases de cocina</td>
+    <td>Tours gastronómicos<p><p>Experiencia local<p><p>Taller de chocolate<p><p>Degustación de vino</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>El precio varía según el servicio que adquiere el usuario</td>
+    <td>El precio varía según el servicio que adquiere el usuario</td>
+    <td>El precio varía según el servicio que adquiere el usuario</td>
+    <td>El precio varía según el servicio que adquiere el usuario</td>
+  </tr>
+  <tr>
+    <td>Canales de Distribución (Web y/o Móvil)</td>
+    <td>Distribución a través de su página web y móvil</td>
+    <td>Distribución a través de su página web</td>
+    <td>Distribución a través de su página web</td>
+    <td>Distribución a través de su página web</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Incluye variedad de alimentos, hay clases de cocina, hay buena atención al cliente, se enseña la historia de algunos platillos peruanos.</td>
+    <td>Trayectoria por al menos 10 años y confianza por parte de los usuarios. Tiene variedad de alimentos.</td>
+    <td>Hay buena atención al cliente, gran variedad de alimentos, se enseña la gastronomía local junto con sus beneficios. Algunos planes brindan clases de cocina. Genera confianza en los usuarios.</td>
+    <td>Tiene variedad de alimentos. Puedes reservar con una semana de antelación. Por cada tour, son pocas personas, lo que facilita la interacción con los guías locales.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>No brinda recorridos a largas distancias.</td>
+    <td>La información de algunos restaurantes que recomiendan en su folleto no es la correcta.</td>
+    <td>Solo acepta pago online.</td>
+    <td>No brinda clases de cocina.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Las recomendaciones por parte de los clientes satisfechos</td>
+    <td>Las recomendaciones por parte de los clientes satisfechos</td>
+    <td>Las recomendaciones por parte de los clientes satisfechos</td>
+    <td>Las recomendaciones por parte de los clientes satisfechos</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>La competencia<p><p>Las crisis mundiales como el COVID-19</td>
+    <td>La competencia<p><p>Las crisis mundiales como el COVID-19</td>
+    <td>La competencia<p><p>Las crisis mundiales como el COVID-19</td>
+    <td>La competencia<p><p>Las crisis mundiales como el COVID-19</td>
+  </tr>
+</table>
+
+</div>
+<br><br>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+Tras analizar a cada uno de nuestros competidores, las estretegias y tácticas que emplearemos serán: 
+- Centrarnos en nuestro aporte de valor: Nosotros no solo bridamos comida a nuestros clientes, sino que les damos experiencia y momentos impactantes acerca de no solo la gastronomía peruana, sino también de la cultura peruana mediante los distintos servicios que el usuario podrá adquirir en su paquete. Buscamos que los usuarios no solo estén interesados en la gastronomía peruana, sino que también incentiven a otros a disfrutar de la cultura peruana recorriendo mercados locales, haciendo tours gastronómicos, aprendiendo a cocinar, aprendiendo las mejores técnicas de cocina y así estar todos orgullosos de las riquezas que nos da Perú. 
+- Hacer publicidad y marketing: Considerando que no todos nuestros competidores cuentan con aplicación ni redes sociales, salvo su página web, decidimos promocionar nuestros servicios en redes sociales mediante publicaciones sobre la gastronomía y la cultura peruana, incluyendo la historia de las comidas peruanas, recetarios, experiencias de nuestros usuarios, testimonios y más para tener un mayor alcance con nuestros clientes. Para ello también haremos publicidad en línea, campañas de marketing digital y colaboraciones con influencers y/o con los creadores de contenido.
+- Estrategia de posicionamiento: Esperamos posicionarnos como la aplicación web que brinda experiencias únicas y memorables de la gastronomía peruana, así como de gran calidad. Tenemos una gran variedad de servicios que ofrecemos a nuestros clientes dependiendo de lo que mejor se adapte a sus gustos y por cada tour suele ser como máximo 12 personas, lo cual es una gran ventaja, ya que al ser pocos, es más fácil satisfacer las demandas y necesidades de nuestros clientes. 
+- Colaboraciones estratégicas: Planeamos realizar colaboraciones con expertos en la gastronomía peruana como con influencers y creadores de contenido, no solo para aumentar nuestro alcance con nuestros clientes, sino también para que tengan más confianza en nosotros al colaborar con expertos en el tema, de manera que crecemos junto a ellos al igual que la calidad de nuestros servicios.
 
 ## 2.2. Entrevistas
 
