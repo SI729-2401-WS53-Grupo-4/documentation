@@ -185,10 +185,14 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
     <br>
     <b>Jimena Alessandra Cossio Jimenez</b>
-    <br>
-    <br>
+      <br>
+      - Realicé las mejoras indicadas del TB1. 
+      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
+      <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
@@ -216,10 +220,12 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
-    <br>
+    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
+    <br><br>
 <b>Jimena Alessandra, Cossio Jimenez</b>
     <br>
-    <br>
+    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
+    <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
     -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
