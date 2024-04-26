@@ -418,6 +418,58 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.4.1. Web Applications Wireframes
 
+## Login
+
+<td><img src="Images/WebApplicationsWireFrames1.png" alt="Imagen del Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/WebApplicationsWireFrames2.png" alt="Imagen del Registro" width="1500"></td>
+
+## Inicio
+
+<td><img src="Images/WebApplicationsWireFrames3.png" alt="Imagen del Home" width="1500"></td>
+
+## Profile del usuario
+
+<td><img src="Images/WebApplicationsWireFrames4.png" alt="Imagen del Profile" width="1500"></td>
+
+## Plan de Suscripción
+
+<td><img src="Images/WebApplicationsWireFrames5.png" alt="Imagen del PlanSuscripción" width="1500"></td>
+
+## Lista de Restaurantes
+
+<td><img src="Images/WebApplicationsWireFrames6.png" alt="Imagen del Restaurantes" width="1500"></td>
+
+## Lista de Restaurantes Favoritos
+
+<td><img src="Images/WebApplicationsWireFrames7.png" alt="Imagen del Favoritos" width="1500"></td>
+
+## Lista de Tours Disponibles
+
+<td><img src="Images/WebApplicationsWireFrames8.png" alt="Imagen del Tours" width="1500"></td>
+
+## Información del Tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames9.png" alt="Imagen del Tour" width="1500"></td>
+
+## Info de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames10.png" alt="Imagen del Tour pago" width="1500"></td>
+
+## Proceso de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames11.png" alt="Imagen del Tour process" width="1500"></td>
+
+## Confirmación de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames12.png" alt="Imagen del Tour confirmación" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/WebApplicationsWireFrames13.png" alt="Imagen del Reservas" width="1500"></td>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
@@ -425,6 +477,12 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+
+<td><img src="Images/Videoprototipo.png" alt="Imagen del Contact us" width="1500"></td>
+
+**Link del figma del prototipado:** https://www.figma.com/file/iAskqpMQdT3CxO6gK9qcZa/WEB-APPLICATIONS-MOCK-UP?type=design&node-id=0%3A1&mode=design&t=CYUsxtmaRRxfJzTo-1
+
+**Link del video de prototipado:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
 
 ## 4.6. Domain-Driven Software Architecture
 
