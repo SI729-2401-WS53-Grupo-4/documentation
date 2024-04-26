@@ -363,57 +363,651 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 4.1.1. General Style Guidelines
 
+### Branding
+
+Nuestro branding esta diseñado mediante un logotigo moderno utilizando el nombre del proyecto. Se ha presentado el nombre del proyecto con un estilo moderno, sofisticado y elegante, aplicando la psicologia del color al rubro al cual nos dedicamos. Estas caracteristicas componen nuestro isologo, el cual posee caracteristicas minimalistas y, de esta manera, se proporciona una mayor fuerza visual, diseño amigable y facil de recordar para el usuario. Realizamos 3 variaciones del isologogo para poder hacerlo adaptable a los diversos entornos de diseño, plataformas o marketing que se le presente.
+<td><img src="Images/Branding.png" alt="Imagen del branding" width="1500"></td>
+
+### Typography
+
+La tipografia juega un papel importante en la comunicacion de un tono general y de calidad. Nuestra marca tiene un estilo moderno y ordenado. Para agilizar y transmitir confianza a nuestros clientes, usaremos un lenguaje casual y sereno. Usamos 2 tipos de fuentes divididos en 8 tipos de texto, cada uno para representar mensajes distintos, aplicamos esta tipografía para la comodidad y facilidad de lectura del usuario teniendo en cuenta el tipo de impacto que queremos ocasionar en cada caso.
+<td><img src="Images/Tipografia.png" alt="Imagen de la tipografia" width="500"></td>
+
+### Colors
+
+Los colores utilizados para representar la marca fueron seleccionados tomando como referencia la psicología del color. Por esta razón, se tomó en cuenta los colores negro, gris, blanco y sus variaciones, los cuales son los más utilizados por lor restaurantes minimalistas.
+<td><img src="Images/Colors.png" alt="Imagen de los colores" width="800"></td>
+
+### Spacing
+
+Teniendo en cuenta el diseño web y Mobile hemos decidido crear 13 espaciados con rem igual a 0,0625 para asegurarnos que haya todas las diferencias notables necesarias entre distintos textos e imágenes.
+<td><img src="Images/Spacing.png" alt="Imagen de los espacios" width="200"></td>
+
 ### 4.1.2. Web Style Guidelines
+
+La paleta de colores para el landing page, está orientada al sector al cuál se está dirigiendo el servicio. Los colores predominantes son variaciones del negro, el gris y blanco. Esto pues, debido a que, en el área de los restaurantes minimalistas, son los colores con los cuáles el público se siente más identificado, ya que, proyecta seguridad, profesionalismo y confianza.
+Debido a que nuestro landing page no ofrece una propuesta informativa sino de servicio, se ha considerado más apropiado elegir el patrón F, que tiene como objetivo dirigir la vista del usuario desde la esquina superior izquierda en donde estaría el logo, seguido del eslogan y la descripción.
 
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
+El sistema de organización que se planea implementar para “TasteTour”, les permitirá a los usuarios visualizar la interfaz de forma atractiva, para que sea fácil de usar. Dicho sistema de organización poseerá temas específicos y recomendaciones en base a sus intereses seleccionados en el registro, el diseño está hecho de tal manera que el cliente no se pierda. Se realizará el uso de la organización secuencial (step-by-step to accomplish) o matricial.
+
 ### Organizacion de contenido
 
+Jerarquica
+
+Organización jerárquica para los usuarios, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS1.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Organización de la sección Tours, donde el usuario podrá encontrar los productos. Se compone de filtros de búsqueda, favoritos  y board.
+<td><img src="Images/OS2.png" alt="Imagen de Tours" width="800"></td>
+
+Organización jerárquica para los restaurantes, contiene el perfil del cliente, el menú de opciones y el header:
+<td><img src="Images/OS3.png" alt="Imagen del perfil usuario" width="800"></td>
+
+Mediante el siguiente esquema se muestran las categorías principales para los usuarios.
+<td><img src="Images/OS4.png" alt="Imagen del perfil usuario" width="800"></td>
+
 ### 4.2.2. Labeling Systems
+
+Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 ### 4.2.4. Searching Systems
 
+Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar la informacion con los restaurantes asignados por los moderadores de la app.
+
 ### 4.2.5. Navigation Systems
+
+Si el usuario inicia sesión con su cuenta, llegará a la página principal de la app, donde se visualizará sus datos importantes, en la parte inferior se encontrará un panel de navegación con las opciones principales como “Perfil”, “Tours”, “Eventos”, “Busqueda”. Cuando el usuario decida ir a cualquier opción le aparecerá una nueva ventana con el título de la opción previamente seleccionada con otras posibilidades.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
+## Pantalla Principal
+
+<td><img src="Images/LandingPageWireframe1.png" alt="Imagen del Inicio" width="1500"></td>
+
+## Acerca de nosotros
+
+<td><img src="Images/LandingPageWireframe2.png" alt="Imagen del About us" width="1500"></td>
+
+## Tours
+
+<td><img src="Images/LandingPageWireframe3.png" alt="Imagen del Tours" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/LandingPageWireframe4.png" alt="Imagen del Contact us" width="1500"></td>
+
 ### 4.3.2. Landing Page Mock-up
+
+## Pantalla Principal
+
+<td><img src="Images/LandingPageMockUp1.png" alt="Imagen del Inicio" width="1500"></td>
+
+## Acerca de nosotros
+
+<td><img src="Images/LandingPageMockUp2.png" alt="Imagen del About us" width="1500"></td>
+
+## Tours
+
+<td><img src="Images/LandingPageMockUp3.png" alt="Imagen del Tours" width="1500"></td>
+
+## Contactanos
+
+<td><img src="Images/LandingPageMockUp4.png" alt="Imagen del Contact us" width="1500"></td>
+
+**Link del Figma**: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
+## Login
+
+<td><img src="Images/WebApplicationsWireFrames1.png" alt="Imagen del Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/WebApplicationsWireFrames2.png" alt="Imagen del Registro" width="1500"></td>
+
+## Inicio
+
+<td><img src="Images/WebApplicationsWireFrames3.png" alt="Imagen del Home" width="1500"></td>
+
+## Profile del usuario
+
+<td><img src="Images/WebApplicationsWireFrames4.png" alt="Imagen del Profile" width="1500"></td>
+
+## Plan de Suscripción
+
+<td><img src="Images/WebApplicationsWireFrames5.png" alt="Imagen del PlanSuscripción" width="1500"></td>
+
+## Lista de Restaurantes
+
+<td><img src="Images/WebApplicationsWireFrames6.png" alt="Imagen del Restaurantes" width="1500"></td>
+
+## Lista de Restaurantes Favoritos
+
+<td><img src="Images/WebApplicationsWireFrames7.png" alt="Imagen del Favoritos" width="1500"></td>
+
+## Lista de Tours Disponibles
+
+<td><img src="Images/WebApplicationsWireFrames8.png" alt="Imagen del Tours" width="1500"></td>
+
+## Información del Tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames9.png" alt="Imagen del Tour" width="1500"></td>
+
+## Info de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames10.png" alt="Imagen del Tour pago" width="1500"></td>
+
+## Proceso de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames11.png" alt="Imagen del Tour process" width="1500"></td>
+
+## Confirmación de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplicationsWireFrames12.png" alt="Imagen del Tour confirmación" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/WebApplicationsWireFrames13.png" alt="Imagen del Reservas" width="1500"></td>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+
+
 ### 4.4.3. Web Applications Mock-ups
+
+## Login
+
+<td><img src="Images/WebApplications1.png" alt="Imagen del Login" width="1500"></td>
+
+## Registro
+
+<td><img src="Images/WebApplications2.png" alt="Imagen del Registro" width="1500"></td>
+
+## Inicio
+
+<td><img src="Images/WebApplications3.png" alt="Imagen del Home" width="1500"></td>
+
+## Profile del usuario
+
+<td><img src="Images/WebApplications4.png" alt="Imagen del Profile" width="1500"></td>
+
+## Plan de Suscripción
+
+<td><img src="Images/WebApplications5.png" alt="Imagen del PlanSuscripción" width="1500"></td>
+
+## Lista de Restaurantes
+
+<td><img src="Images/WebApplications6.png" alt="Imagen del Restaurantes" width="1500"></td>
+
+## Lista de Restaurantes Favoritos
+
+<td><img src="Images/WebApplications7.png" alt="Imagen del Favoritos" width="1500"></td>
+
+## Lista de Tours Disponibles
+
+<td><img src="Images/WebApplications8.png" alt="Imagen del Tours" width="1500"></td>
+
+## Información del Tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications9.png" alt="Imagen del Tour" width="1500"></td>
+
+## Info de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications13.png" alt="Imagen del Tour pago" width="1500"></td>
+
+## Proceso de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications10.png" alt="Imagen del Tour process" width="1500"></td>
+
+## Confirmación de pago del tour "Lima Food Tour"
+
+<td><img src="Images/WebApplications11.png" alt="Imagen del Tour confirmación" width="1500"></td>
+
+## Lista de Reservas 
+
+<td><img src="Images/WebApplications12.png" alt="Imagen del Reservas" width="1500"></td>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
 
+<td><img src="Images/Videoprototipo.png" alt="Imagen del Contact us" width="1500"></td>
+
+**Link del figma del prototipado:** https://www.figma.com/file/iAskqpMQdT3CxO6gK9qcZa/WEB-APPLICATIONS-MOCK-UP?type=design&node-id=0%3A1&mode=design&t=CYUsxtmaRRxfJzTo-1
+
+**Link del video de prototipado:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
 
+<td><img src="Images/Contexto.png" alt="Imagen del context diagram" width="1500"></td>
+
 ### 4.6.2. Software Architecture Container Diagrams
 
+<td><img src="Images/Contenedores.png" alt="Imagen del container diagram" width="1500"></td>
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+## Bounded context component Users
+
+<td><img src="Images/ComponentesUsers.png" alt="Imagen del components user diagram" width="1500"></td>
+
+## Bounded context component Tours
+
+<td><img src="Images/ComponentesTours.png" alt="Imagen del components tours diagram" width="1500"></td>
+
+## Bounded context component Security
+
+<td><img src="Images/ComponentesSecurity.png" alt="Imagen del components security diagram" width="1500"></td>
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
+<td><img src="Images/DiagramaClases.png" alt="Imagen del diagrama de clases" width="900"></td>
+
 ### 4.7.2. Class Dictionary
+
+<table>
+    <td colspan= "3" align="center">Usuario</td>
+<tr>
+    <td>int</td>
+    <td>idClient</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del usuario</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>location</td>
+    <td>Ubicación del usuario</td>
+  </tr>
+   <tr>
+    <td>date</td>
+    <td>birthdate</td>
+    <td>Cumpleaños del usuario</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>escribirReseña()</td>
+    <td>Reseña que hará el usuario</td>
+  </tr>
+   <tr>
+    <td>void</td>
+    <td>reservarTour()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>reservarClase()</td>
+    <td>Función que realizará el usuario a la hora de pagar por un tour, a su vez si desea reservar por una clase de cocina, se reservará dicha clase</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>misReservas()</td>
+    <td>Se guardarán todas las reservas del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPreferencias()</td>
+    <td>Pantalla de las preferencias del usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Premium</td>
+<tr>
+    <td>double</td>
+    <td>descuento</td>
+    <td>Descuento que recibirá el usuario premium</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>tourAdicional</td>
+    <td>El usuario premium tendrá la posibilidad de obtener un tour adicional en su paquete de preferencia</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario premium obtendrá un permiso la cual le permitirá realizar consultas con el instructor de la clase</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Gratis</td>
+  <tr>
+    <td>bool</td>
+    <td>limiteTour</td>
+    <td>El usuario gratuito obtendrá un limite de reserva de tours</td>
+  </tr>
+  <tr>
+    <td>bool</td>
+    <td>permisoclases</td>
+    <td>El usuario gratuito solo podrá observar la clase más no podrá realizar sus consultas al instructor</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">PlanSuscripción</td>
+  <tr>
+    <td>void</td>
+    <td>metodopago()</td>
+    <td>Metodo de pago que realizará el usuario</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Administrador</td>
+<tr>
+    <td>int</td>
+    <td>idAdmin</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del admin</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del admin</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>password</td>
+    <td>Contraseña del admin</td>
+  </tr>
+
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TarjetaDebito</td>
+<tr>
+    <td>int</td>
+    <td>numTarjeta</td>
+    <td>Número de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>cvv</td>
+    <td>Código de seguridad de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de expiración de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>name</td>
+    <td>Nombre del dueño de la tarjeta de debito</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>pago()</td>
+    <td>Realizar el pago con la tarjeta de debito</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Reseña</td>
+<tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Calificación del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>comentario</td>
+    <td>Comentario del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Tour</td>
+  <tr>
+    <td>string</td>
+    <td>tituloTour</td>
+    <td>Nombre del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>instructor</td>
+    <td>Nombre del instructor del tour</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>descripción</td>
+    <td>Descripción del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>valoración</td>
+    <td>Valoración del tour hecha por los usuarios</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>capacidad</td>
+    <td>Capacidad maxima de personas </td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Duración del tour</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>fecha</td>
+    <td>Fecha de inicio del tour</td>
+  </tr>
+  <tr>
+    <td>float</td>
+    <td>precio</td>
+    <td>Precio de la reserva del tour</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Dueño</td>
+<tr>
+    <td>int</td>
+    <td>idDueño</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>firstName</td>
+    <td>Nombre del dueño</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del dueño</td>
+  </tr>
+  <tr>
+    <td>double</td>
+    <td>password</td>
+    <td>Contraseña del dueño</td>
+  </tr>
+   <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del dueño</td>
+  </tr>
+   <tr>
+    <td>double</td>
+    <td>phone</td>
+    <td>Telefono del dueño</td>
+  </tr>
+  </table>
+
+  <table>
+    <td colspan= "3" align="center">TastyTourSystem</td>
+<tr>
+    <td>void</td>
+    <td>vistaInicioSesion()</td>
+    <td>Pantalla de inicio de sesión</td>
+  </tr>
+    <tr>
+    <td>void</td>
+    <td>vistaPerfilUsuario()</td>
+    <td>Pantalla del perfil del usuario</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaTours()</td>
+    <td>Pantalla de la lista de tours disponibles</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaPlanSuscripcion</td>
+    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaSoporte()</td>
+    <td>Pantalla de el el soporte de nuestra plataforma</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaGuía()</td>
+    <td>Pantalla de la guía</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>vistaNovedades()</td>
+    <td>Pantalla de las novedades de la plataforma</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurante</td>
+  <tr>
+    <td>string</td>
+    <td>nombre_restauraunte</td>
+    <td>Nombre del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>ubicación_restau</td>
+    <td>Ubicación del restaurante</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>horario_restau</td>
+    <td>Horario de atención del restaurante</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">VisitaMercado</td>
+  <tr>
+    <td>int</td>
+    <td>idMercado</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Restaurantes</td>
+  <tr>
+    <td>int</td>
+    <td>idRestaurant</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Clases</td>
+  <tr>
+    <td>int</td>
+    <td>idClass</td>
+    <td>Identificador</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Soporte</td>
+<tr>
+    <td>string</td>
+    <td>titulo</td>
+    <td>Nombre del asunto</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>email</td>
+    <td>Correo del usuario</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>mensaje</td>
+    <td>Mensaje del usuario</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>phoneEmpresa</td>
+    <td>Vista del número telefonico de la empresa</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>emailEmpresa</td>
+    <td>vista del email de la empresa</td>
+  </tr>
+  <tr>
+    <td>void</td>
+    <td>enviarEmail()</td>
+    <td>Función que hará el usuario al enviar su correo a TasteTeam</td>
+  </tr><tr>
+    <td>void</td>
+    <td>contactos()</td>
+    <td>Lista de contactos de TasteTeam</td>
+  </tr>
+
+  </table>
 
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
+<td><img src="Images/Modelo logico.png" alt="Imagen del diagrama de base de datos" width="900"></td>
+
+<br><br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -453,10 +1047,28 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ## Conclusiones y recomendaciones
 
+- Se ha logrado una comprensión profunda del problema que la startup busca resolver, incluyendo las necesidades de los usuarios y las características del mercado.
+- Se ha definido la propuesta de valor única de la startup y cómo se diferencia de la competencia a partir de un análisis detallado de sus competidores.
+- Se han identificado los principales insights y aprendizajes de las entrevistas, que se han utilizado para mejorar el diseño del producto.
+- Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
+- Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
+- Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
+
 <br><br>
 
 # Bibliografía
 
+Browne, C. (2024, 22 de enero). _What are User Flows in User Experience (UX) Design?_. Recuperado el 4 de abril de 2024, de https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+DeBeasi, R & Holmes, J. (2018, 6 de noviembre). _Domain Driven Design, Tackling Complexity in the Heart of Software_. Recuperado el 4 de abril de 2024, de https://openpracticelibrary.com/blog/domain-driven-design/
+
+McCay, A. (2023). _How to create an impact map in 7 easy steps: A complete guide + examples_. Recuperado el 8 de abril de 2024, de https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+Osetskyi, V. (2017). _Acceptance Criteria in Scrum: Explanation, Examples, and Template_. Recuperado el 4 de abril de 2024, de https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
+
+Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado el 4 de abril de 2024, de https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
+
 <br><br>
 
 # Anexos
+
