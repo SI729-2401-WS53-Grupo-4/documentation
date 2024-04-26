@@ -2769,7 +2769,13 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 5.1.2. Source Code Management
 
-gitflow
+Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
+
+Esto nos permitio separar el proyecto en la rama principal (main) en la que se encuentra la versión presentable del proyecto, que a la vez no cuenta con errores. También tenemos la rama secundario (develop) que sirve para unificar los cambios de las demás ramas. También contamos con más branches una para determinadas fuincionalidades amplias de la aplicación y una para cada chapter del reporte.
+
+<td><img src="Images/Gitflow1.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow2.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow3.png" alt="Imagen del gitflow" width="1500"></td>
 
 URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
 
