@@ -213,6 +213,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
         -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
         -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
+        -Desarrollé los Mock-ups y los user goals<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
