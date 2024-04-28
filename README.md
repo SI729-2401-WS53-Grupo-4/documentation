@@ -186,12 +186,18 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
       - Realice mis tareas asignadas en el horario correspondiente.<br/>
       - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
     <br>
     <b>Jimena Alessandra Cossio Jimenez</b>
       <br>
       - Realicé las mejoras indicadas del TB1. <br/>
       - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
       <br/>
+      <br>
+      <br>
+      - Realicé las mejoras indicadas del TB1. 
+      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
       <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
@@ -242,6 +248,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
         -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
         -Desarrollé los Mock-ups y los user goals<br/>
+        -Desarrollé los Mock-ups y los user goals<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
@@ -251,8 +258,12 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
     <br><br>
+    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
+    <br><br>
 <b>Jimena Alessandra, Cossio Jimenez</b>
     <br>
+    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
+    <br><br>
     - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
@@ -2820,7 +2831,13 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 5.1.2. Source Code Management
 
-gitflow
+Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
+
+Esto nos permitio separar el proyecto en la rama principal (main) en la que se encuentra la versión presentable del proyecto, que a la vez no cuenta con errores. También tenemos la rama secundario (develop) que sirve para unificar los cambios de las demás ramas. También contamos con más branches una para determinadas fuincionalidades amplias de la aplicación y una para cada chapter del reporte.
+
+<td><img src="Images/Gitflow1.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow2.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow3.png" alt="Imagen del gitflow" width="1500"></td>
 
 URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
 
@@ -2858,7 +2875,256 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            11/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Sagastegui Rodriguez, Luis Jesus <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Landing Page y la lógica de funcionamiento de la plataforma TasteTour.
+            </br></br>
+            La Landing Page se implementó exitosamente.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord, lo que conllevó a entregar el trabajo correctamente. Sin embargo, se debe mejorar el aspecto de la organización, para terminar las próximas enteras sin estar al límite del deathline.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>c7569ab</td>
+        <td>Luis Jesus</td>
+        <td>First commit</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>233314b</td>
+        <td>Luis Jesus</td>
+        <td>feat: added html sections</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9d13895</td>
+        <td>Luis Jesus</td>
+        <td>feat: added general styles</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>4e8f0fc</td>
+        <td>Luis Jesus</td>
+        <td>feat: added navbar html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>f6df2f7</td>
+        <td>Luis Jesus</td>
+        <td>feat: added navbar styles</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>f310ccc</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>6b181628</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>2af2b26</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>653d300</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>c863f9f</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>a66eaab</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>0676103</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>7d1e198</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>8902c05</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>df3fe9f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>80851d2</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>a762455</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>aec4ec5</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added responsive css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>Develop|MERGING</td>
+        <td>eff2f12</td>
+        <td>Diego Defilippi</td>
+        <td>Release Landing Page v. 1.0</td>
+        <td>11/04/2024</td>
+    </tr>
+    
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -2866,7 +3132,29 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Como resultado del primer sprint, se presenta el despliegue de la Landing Page.
+
+## Home
+
+<td><img src="Images/HomeLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+## About Us
+
+<td><img src="Images/AboutUsLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+## Tour 
+
+<td><img src="Images/ToursLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+<td><img src="Images/Tours2Landing.png" alt="Imagen del gitflow" width="1500"></td>
+
+## Contacts
+
+<td><img src="Images/ContactLanding.png" alt="Imagen del contacts" width="1500"></td>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Link de la landing page desployada:** https://landing-page-three-theta.vercel.app
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -2880,6 +3168,10 @@ Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías
 Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La StartUp TasteTeam ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
+
+En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <br><br>
 
@@ -2911,3 +3203,14 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 <br><br>
 
 # Anexos
+
+- Link del Trello:
+https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
+
+- Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
+
+- Link del figma del prototipado: https://www.figma.com/file/iAskqpMQdT3CxO6gK9qcZa/WEB-APPLICATIONS-MOCK-UP?type=design&node-id=0%3A1&mode=design&t=CYUsxtmaRRxfJzTo-1
+
+- Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
+
+- Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
