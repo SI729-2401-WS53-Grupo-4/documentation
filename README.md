@@ -173,9 +173,63 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td>TB1<br>
-    <td>TB1
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las partes importantes como el diagrama de clases, diagrama de base de datos, el Domain-Driven Sotfware Arquitecture, parte del Lean UX, user stories y aporté ideas para el trabajo.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
     <br>
+       - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé la parte de Problem Statements, Lean UX assumptions, User Personas, User Journey Mapping, Empathy Mapping,  As-Is-Scenario Mapping, To-Be Scenario Mapping e Impact Mapping, como tambien aporté con ideas para el trabajo.<br/>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
+    <br>
+    <b>Jimena Alessandra Cossio Jimenez</b>
+      <br>
+      - Realicé las mejoras indicadas del TB1. 
+      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
+      <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>
+    - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    - Realize las partes de Segmentos objetivo, User Task Matrix y Web Applications Wireflow Diagrams<br/>    
+    <br>
+    TP<br>
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo mejorar el diagrama de clases, base de datos, C4, Landing page wireframes/MockUps, web applications wireframes/MockUps y agregar el landing page.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
+    <br>
+       - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo mejorar y agregar el NeedFiding, el Lean UX y agregar el landing page correctamente.<br/>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realicé las correciones dadas por el docente, se pudo agregar correctamente el landing page y los puntos importantes del cap 4<br/>
+    <br>
+    <b>Jimena Alessandra Cossio Jimenez</b>
+      <br>
+      - Realicé las correciones dadas por el docente, se pudo mejorar el analisis competitivo, el apartado del Web Application Mockups y Web Applications User Flow Diagrams.
+      <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>
+    - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    - Realicé las correciones dadas por el docente, se pudo mejorar los User stories.<br/>    
+    <br>
+    <td>TB1<br>
+    Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
+    <br>
+    TP<br>
+    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega
     </td>
+    
 
 </tr>
 <tr>
@@ -204,12 +258,34 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
     -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
+    <br> TP<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Desarrollé el apartado de Tours, la cual consiste en hacer que el usuario pueda reservar un tour en especifico de acuerdo a sus necesidades.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
     <br>
+    - Desarrollé el apartado de Restaurantes y favoritos, esta pantalla sirve para que los usuarios puedan verificar los restaurantes que existen en el país. A su vez, el usuario podrá guardar en sus favoritos, un restaurante que le haya interesado dandole al boton de la estrella.
+    <br><br>
+<b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    - Realicé el apartado Login, Register y Home, el login y el register se utilizarán con un autenticador la cual hará que revise si el usuario realmente está registrado, a su vez, realicé el Home la cual muestra todos los apartados que contiene la pagina web.
+    <br><br>
+<b>Jimena Alessandra, Cossio Jimenez</b>
+    <br>
+    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>    
 
 </td>
     <td>TB1
     <br>
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
+    <br><br>
+    TP<br>
+    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.
     </td>
 </tr>
 </table>
@@ -398,9 +474,43 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ### 5.1.2. Source Code Management
 
+Utilizamos la metodología de git flow con finalidad es tener un control mayor sobre la gestión del proyecto, avanzar el proyecto de forma simultanea tanto como en la implementación del la aplicación y creación del reporte.
+
+Esto nos permitio separar el proyecto en la rama principal (main) en la que se encuentra la versión presentable del proyecto, que a la vez no cuenta con errores. También tenemos la rama secundario (develop) que sirve para unificar los cambios de las demás ramas. También contamos con más branches una para determinadas fuincionalidades amplias de la aplicación y una para cada chapter del reporte.
+
+<td><img src="Images/Gitflow1.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow2.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow3.png" alt="Imagen del gitflow" width="1500"></td>
+
+URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
+
+URL del repositorio del Landing Page en GitHub: https://github.com/TasteTeam-Projects/Landing-Page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 
+HTML: Lenguaje utilizado para diseñar páginas web. Este lenguaje utiliza etiquetas para marcar y definir el contenido de la página web; Como un texto, imagenes, videos, etc.
+
+Convenciones:
+
+- Se tiene que declarar el tipo de documento en la primera línea de la siguiente manera:
+- Las etiquetas siempre tienen que esta en minúscula, ya que es más claro a la vista y es de facil escritura para los desarrolladores.
+- Usar las comillas para darle un valor a los atributos para una mejor legibilidad.
+
+CSS: Lenguaje que permite dar formatos o estilos a los elementos html. Con este lenguaje se pueden crear diseños web agradables e intuitivos para el usuario.
+
+Convenciones:
+
+- Unir los nombres de las clases compuestas con guiones: box-container{}
+- Usar la unidad de medida rem para mantener un diseño responsive: 1rem
+
+
 ### 5.1.4. Software Deployment Configuration
+
+Para despliegar el landing page, usamos las siguientes herraminetas.
+
+- Git: Para realizar el manejo de las versiones del proyecto.
+- GitHub: Dentro de la plataforma tenemos un repositorio, lo usamos para almacenar todo el proyecto con sus respectivas versiones.
+- GitFlow: Esto permite visualizar y controlar el flujo de trabajo hecho por el equipo de desarrollo.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -408,7 +518,256 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 #### 5.2.1.1. Sprint Planning 1
 
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 1</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            11/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de Dreamers in a Hurry     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Sagastegui Rodriguez, Luis Jesus <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Landing Page y la lógica de funcionamiento de la plataforma TasteTour.
+            </br></br>
+            La Landing Page se implementó exitosamente.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 1</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord, lo que conllevó a entregar el trabajo correctamente. Sin embargo, se debe mejorar el aspecto de la organización, para terminar las próximas enteras sin estar al límite del deathline.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 1 Velocity</b>
+        </td>
+        <td>
+            5
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            6
+        </td>
+    </tr>
+</table>
+
 #### 5.2.1.2. Sprint Backlog 1
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Landing Page</td>
+        <td>main</td>
+        <td>c7569ab</td>
+        <td>Luis Jesus</td>
+        <td>First commit</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>233314b</td>
+        <td>Luis Jesus</td>
+        <td>feat: added html sections</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>9d13895</td>
+        <td>Luis Jesus</td>
+        <td>feat: added general styles</td>
+        <td>10/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>4e8f0fc</td>
+        <td>Luis Jesus</td>
+        <td>feat: added navbar html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/navbar</td>
+        <td>f6df2f7</td>
+        <td>Luis Jesus</td>
+        <td>feat: added navbar styles</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>f310ccc</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/hero-section</td>
+        <td>6b181628</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added hero css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>2af2b26</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/catalogue-section</td>
+        <td>653d300</td>
+        <td>George Aliaga</td>
+        <td>feat: added catalogue css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>c863f9f</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/designing-section</td>
+        <td>a66eaab</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added designing css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>0676103</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-section</td>
+        <td>7d1e198</td>
+        <td>Daniel Chirinos</td>
+        <td>feat: added about css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>8902c05</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-section</td>
+        <td>df3fe9f</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added contact css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>80851d2</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer html</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/footer</td>
+        <td>a762455</td>
+        <td>Agustín Sanchez</td>
+        <td>feat: added footer css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/responsive</td>
+        <td>aec4ec5</td>
+        <td>Diego Defilippi</td>
+        <td>feat: added responsive css</td>
+        <td>11/04/2024</td>
+    </tr>
+    <tr>
+        <td>Develop|MERGING</td>
+        <td>eff2f12</td>
+        <td>Diego Defilippi</td>
+        <td>Release Landing Page v. 1.0</td>
+        <td>11/04/2024</td>
+    </tr>
+    
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -416,11 +775,46 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+Como resultado del primer sprint, se presenta el despliegue de la Landing Page.
+
+## Home
+
+<td><img src="Images/HomeLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+## About Us
+
+<td><img src="Images/AboutUsLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+## Tour 
+
+<td><img src="Images/ToursLanding.png" alt="Imagen del gitflow" width="1500"></td>
+
+<td><img src="Images/Tours2Landing.png" alt="Imagen del gitflow" width="1500"></td>
+
+## 
+
+<td><img src="Images/ContactLanding.png" alt="Imagen del contacts" width="1500"></td>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+**Link de la landing page desployada:** https://landing-page-three-theta.vercel.app
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+La StartUp TasteTeam ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
+
+En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <br><br>
 
@@ -428,38 +822,10 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
 
 ## Conclusiones y recomendaciones
 
-- Se ha logrado una comprensión profunda del problema que la startup busca resolver, incluyendo las necesidades de los usuarios y las características del mercado.
-- Se ha definido la propuesta de valor única de la startup y cómo se diferencia de la competencia a partir de un análisis detallado de sus competidores.
-- Se han identificado los principales insights y aprendizajes de las entrevistas, que se han utilizado para mejorar el diseño del producto.
-- Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
-- Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
-- Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
-
 <br><br>
 
 # Bibliografía
 
-Browne, C. (2024, 22 de enero). _What are User Flows in User Experience (UX) Design?_. Recuperado el 4 de abril de 2024, de https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
-
-DeBeasi, R & Holmes, J. (2018, 6 de noviembre). _Domain Driven Design, Tackling Complexity in the Heart of Software_. Recuperado el 4 de abril de 2024, de https://openpracticelibrary.com/blog/domain-driven-design/
-
-McCay, A. (2023). _How to create an impact map in 7 easy steps: A complete guide + examples_. Recuperado el 8 de abril de 2024, de https://uxpressia.com/blog/build-impact-map-4-easy-steps
-
-Osetskyi, V. (2017). _Acceptance Criteria in Scrum: Explanation, Examples, and Template_. Recuperado el 4 de abril de 2024, de https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
-
-Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado el 4 de abril de 2024, de https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578
-
 <br><br>
 
 # Anexos
-
-- Link del Trello:
-https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
-
-- Link de las entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
-
-- Link del figma del prototipado: https://www.figma.com/file/iAskqpMQdT3CxO6gK9qcZa/WEB-APPLICATIONS-MOCK-UP?type=design&node-id=0%3A1&mode=design&t=CYUsxtmaRRxfJzTo-1
-
-- Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
-
-- Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
