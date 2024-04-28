@@ -157,7 +157,6 @@
 <br><br>
 
 # Student Outcome
-
 <div align="center">
 
 Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.
@@ -185,19 +184,52 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
     <br>
     <b>Jimena Alessandra Cossio Jimenez</b>
-    <br>
-    <br>
+      <br>
+      - Realicé las mejoras indicadas del TB1. <br/>
+      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
+      <br/>
+      <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
     - Realize las partes de Segmentos objetivo, User Task Matrix y Web Applications Wireflow Diagrams<br/>    
     <br>
-    <td>TB1
+    TP<br>
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo mejorar el diagrama de clases, base de datos, C4, Landing page wireframes/MockUps, web applications wireframes/MockUps y agregar el landing page.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
     <br>
-    Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow
+       - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo mejorar y agregar el NeedFiding, el Lean UX y agregar el landing page correctamente.<br/>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+      - Realice mis tareas asignadas en el horario correspondiente.<br/>
+      - Realicé las correciones dadas por el docente, se pudo agregar correctamente el landing page y los puntos importantes del cap 4<br/>
+    <br>
+    <b>Jimena Alessandra Cossio Jimenez</b>
+      <br>
+      - Realicé las correciones dadas por el docente, se pudo mejorar el analisis competitivo, el apartado del Web Application Mockups y Web Applications User Flow Diagrams.
+      <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>
+    - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    - Realicé las correciones dadas por el docente, se pudo mejorar los User stories.<br/>    
+    <br>
+    <td>TB1<br>
+    Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
+    <br>
+    TP<br>
+    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega
     </td>
+    
 
 </tr>
 <tr>
@@ -209,6 +241,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
         -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
         -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
+        -Desarrollé los Mock-ups y los user goals<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
@@ -216,19 +249,43 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
-    <br>
+    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
+    <br><br>
 <b>Jimena Alessandra, Cossio Jimenez</b>
     <br>
-    <br>
+    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
+    <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
     -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
+    <br> TP<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Desarrollé el apartado de Tours, la cual consiste en hacer que el usuario pueda reservar un tour en especifico de acuerdo a sus necesidades.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
     <br>
+    - Desarrollé el apartado de Restaurantes y favoritos, esta pantalla sirve para que los usuarios puedan verificar los restaurantes que existen en el país. A su vez, el usuario podrá guardar en sus favoritos, un restaurante que le haya interesado dandole al boton de la estrella.
+    <br><br>
+<b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    - Realicé el apartado Login, Register y Home, el login y el register se utilizarán con un autenticador la cual hará que revise si el usuario realmente está registrado, a su vez, realicé el Home la cual muestra todos los apartados que contiene la pagina web.
+    <br><br>
+<b>Jimena Alessandra, Cossio Jimenez</b>
+    <br>
+    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>    
 
 </td>
     <td>TB1
     <br>
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
+    <br><br>
+    TP<br>
+    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.
     </td>
 </tr>
 </table>
