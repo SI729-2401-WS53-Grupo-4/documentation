@@ -190,8 +190,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     <b>Jimena Alessandra Cossio Jimenez</b>
       <br>
-      - Realicé las mejoras indicadas del TB1. 
+      - Realicé las mejoras indicadas del TB1. <br/>
       - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
+      <br/>
       <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
