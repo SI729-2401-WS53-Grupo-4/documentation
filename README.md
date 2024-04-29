@@ -1210,7 +1210,7 @@ Entonces el sistema mostrará una ventana con los tours que concuerdan con lo es
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Gestion de Cuenta del usuario
         </td>
     </tr>
     <tr align="left">
@@ -1226,13 +1226,13 @@ Entonces el sistema mostrará una ventana con los tours que concuerdan con lo es
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Visualización de mensajes
+            Plan de Suscripción
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero poder ver los mensajes que otros me han mandado para poder estar al tanto de novedades que pueden contarme.
+            Como usuario, quiero aplicar mi plan de suscripción a mi cuenta para obtener todos los beneficios que ofrece la plataforma.
         </td>
     </tr>
     <tr align="left">
@@ -1241,9 +1241,9 @@ Entonces el sistema mostrará una ventana con los tours que concuerdan con lo es
             <br/>
 
 <b>Scenario 1:</b> Ver mensajes recibidos <br/>
-Dado que el usuario quiere ver los mensajes que otros le han enviado<br/>
-Cuando el usuario ingrese al apartado de mensajes<br/>
-Entonces el sistema le mostrará los últimos mensajes que ha recibido<br/>
+Dado que el usuario quiere aplicar su plan de suscripción a su cuenta<br/>
+Cuando el usuario ingrese al perfil de usuario y vaya a comprar el plan de suscripción<br/>
+Entonces el sistema mostrará los dos planes que están disponibles en la plataforma<br/>
 
  </td>
 </tr>
