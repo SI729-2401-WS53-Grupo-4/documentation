@@ -3228,8 +3228,9 @@ En primer lugar, se creó una organización en Github con el nombre de la StartU
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-<br><br>
+Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Frontend. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
+<br><br>
 
 # Conclusiones
 
