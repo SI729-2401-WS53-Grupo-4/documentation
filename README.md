@@ -2980,6 +2980,8 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.2. Sprint Backlog 1
 
+#### 5.2.1.3. Development Evidence for Sprint Review
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -2994,141 +2996,71 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
         <td>main</td>
         <td>c7569ab</td>
         <td>Luis Jesus</td>
-        <td>First commit</td>
-        <td>10/04/2024</td>
+        <td>IndexHtml</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>4e9bb65</td>
+        <td>Luis Jesus</td>
+        <td>MainJs</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>55b250b</td>
+        <td>Luis Jesus</td>
+        <td>StylesCss</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>486fa8a</td>
+        <td>Luis Jesus</td>
+        <td>main-js-home</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>28f1251</td>
+        <td>Luis Jesus</td>
+        <td>styles-css</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>5323a7d</td>
+        <td>Luis Jesus</td>
+        <td>home-html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-us-implementation</td>
+        <td>0cc3d07</td>
+        <td>Daniel Chirinos</td>
+        <td>added about-us</td>
+        <td>29/04/2024</td>
     </tr>
     <tr>
         <td>develop</td>
-        <td>233314b</td>
-        <td>Luis Jesus</td>
-        <td>feat: added html sections</td>
-        <td>10/04/2024</td>
+        <td>1cc0193</td>
+        <td>Daniel Chirinos</td>
+        <td>Merge</td>
+        <td>29/04/2024</td>
     </tr>
     <tr>
-        <td>develop</td>
-        <td>9d13895</td>
-        <td>Luis Jesus</td>
-        <td>feat: added general styles</td>
-        <td>10/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/navbar</td>
-        <td>4e8f0fc</td>
-        <td>Luis Jesus</td>
-        <td>feat: added navbar html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/navbar</td>
-        <td>f6df2f7</td>
-        <td>Luis Jesus</td>
-        <td>feat: added navbar styles</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/hero-section</td>
-        <td>f310ccc</td>
-        <td>Agustín Sanchez</td>
-        <td>feat: added hero html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/hero-section</td>
-        <td>6b181628</td>
-        <td>Agustín Sanchez</td>
-        <td>feat: added hero css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/catalogue-section</td>
-        <td>2af2b26</td>
+        <td>feature/tours-implementation</td>
+        <td>42011dd</td>
         <td>George Aliaga</td>
-        <td>feat: added catalogue html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/catalogue-section</td>
-        <td>653d300</td>
-        <td>George Aliaga</td>
-        <td>feat: added catalogue css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/designing-section</td>
-        <td>c863f9f</td>
-        <td>Daniel Chirinos</td>
-        <td>feat: added designing html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/designing-section</td>
-        <td>a66eaab</td>
-        <td>Daniel Chirinos</td>
-        <td>feat: added designing css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/about-section</td>
-        <td>0676103</td>
-        <td>Daniel Chirinos</td>
-        <td>feat: added about html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/about-section</td>
-        <td>7d1e198</td>
-        <td>Daniel Chirinos</td>
-        <td>feat: added about css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/contact-section</td>
-        <td>8902c05</td>
-        <td>Diego Defilippi</td>
-        <td>feat: added contact html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/contact-section</td>
-        <td>df3fe9f</td>
-        <td>Diego Defilippi</td>
-        <td>feat: added contact css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/footer</td>
-        <td>80851d2</td>
-        <td>Agustín Sanchez</td>
-        <td>feat: added footer html</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/footer</td>
-        <td>a762455</td>
-        <td>Agustín Sanchez</td>
-        <td>feat: added footer css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/responsive</td>
-        <td>aec4ec5</td>
-        <td>Diego Defilippi</td>
-        <td>feat: added responsive css</td>
-        <td>11/04/2024</td>
-    </tr>
-    <tr>
-        <td>Develop|MERGING</td>
-        <td>eff2f12</td>
-        <td>Diego Defilippi</td>
-        <td>Release Landing Page v. 1.0</td>
-        <td>11/04/2024</td>
+        <td>Added feature/tours</td>
+        <td>29/04/2024</td>
     </tr>
     
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
-
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En este sprint no se desarrolla el testing de la aplicación web, solo Landing Page. Por lo tanto se mostrará el estado de la Landing Page en la siguiente sección del informe.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -3171,7 +3103,7 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 
 La StartUp TasteTeam ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
 
-En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+El equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <br><br>
 
