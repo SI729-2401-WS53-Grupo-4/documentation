@@ -598,6 +598,135 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.2. Sprint Backlog 1
 
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="7">US01</td>
+       <td rowspan="7">Visualizar la descripción de la aplicación</td>
+       <td>T01</td>
+       <td>Estructura de las secciones</td>
+       <td>Programar la estructua HTML de las secciones </td>
+       <td>0.1</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS general</td>
+       <td>Asignar styles generales para la página</td>
+       <td>0.1</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Agregar Home section</td>
+       <td>Agregar html y css al Home section </td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Agregar About us section</td>
+       <td>Agregar html y css al About us </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar Tour section</td>
+       <td>Agregar html y css al Tour section </td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T06</td>
+       <td>Agregar Contact section</td>
+       <td>Agregar html y css al Contact </td>
+       <td>0.5</td>
+       <td>Vittorio Eduardo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Contacto como visitante</td>
+       <td>T07</td>
+       <td>Estructura del formulario de contacto</td>
+       <td>Programar la estructura del formulario en HTML</td>
+       <td>0.5</td>
+       <td>Diego Defilippi</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T08</td>
+       <td>Agregar CSS formulario</td>
+       <td>Agregar styles al formulario</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T09</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T10</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T11</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T12</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 <table  align="left" border="1" width="100%">
@@ -673,6 +802,20 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
         <td>Added feature/tours</td>
         <td>29/04/2024</td>
     </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>acd839c</td>
+        <td>Vittorio Eduardo</td>
+        <td>added index.html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>30cfddb</td>
+        <td>Vittorio Eduardo</td>
+        <td>added styles.css</td>
+        <td>29/04/2024</td>
+    </tr>
     
 </table>
 
@@ -722,6 +865,14 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 La StartUp TasteTeam ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
 
 En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+<td><img src="Images/TeamCollab.png" alt="Imagen del insights" width="1500"></td>
+
+Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tanto se tuvo que realizar un merge de forma manual.
+
+**Contribuciones del equipo**
+
+<td><img src="Images/Collabprogres.png" alt="Imagen del insights" width="1500"></td>
 
 <br><br>
 
