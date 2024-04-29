@@ -3258,7 +3258,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
 - Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
-- Se avanzó y definió el frontend de la plataforma.
+- Se avanzó y definió el frontend de la plataforma
 
 <br><br>
 
