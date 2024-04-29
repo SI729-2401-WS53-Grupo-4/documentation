@@ -472,6 +472,14 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+<td><img src="Images/WireFlowDiagram1.png" alt="Imagen del Wireflow Diagrams" width="1500"></td>
+
+<td><img src="Images/WireFlowDiagram2.png" alt="Imagen del Wireflow Diagrams" width="1500"></td>
+
+<td><img src="Images/WireFlowDiagram3.png" alt="Imagen del Wireflow Diagrams" width="1500"></td>
+
+<td><img src="Images/WireFlowDiagram4.png" alt="Imagen del Wireflow Diagrams" width="1500"></td>
+
 ### 4.4.3. Web Applications Mock-ups
 
 ## Login
@@ -528,13 +536,13 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-<td><img src="Images/WebApplicationsUserGoalWire1.png" alt="Imagen del Reservas" width="1500"></td>
+<td><img src="Images/WebApplicationsUserGoalWire1.png" alt="Imagen del User Flow Diagrams" width="1500"></td>
 
-<td><img src="Images/WebApplicationsUserGoalWire2.png" alt="Imagen del Reservas" width="1500"></td>
+<td><img src="Images/WebApplicationsUserGoalWire2.png" alt="Imagen del User Flow Diagrams" width="1500"></td>
 
-<td><img src="Images/WebApplicationsUserGoalWire3.png" alt="Imagen del Reservas" width="1500"></td>
+<td><img src="Images/WebApplicationsUserGoalWire3.png" alt="Imagen del User Flow Diagrams" width="1500"></td>
 
-<td><img src="Images/WebApplicationsUserGoalWire4.png" alt="Imagen del Reservas" width="1500"></td>
+<td><img src="Images/WebApplicationsUserGoalWire4.png" alt="Imagen del User Flow Diagrams" width="1500"></td>
 
 ## 4.5. Web Applications Prototyping
 
