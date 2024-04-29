@@ -575,6 +575,20 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.4. Ubiquitous Language
 
+<br>
+
+Tour: Visita guiada de gastronomía para los usuarios amantes de la comida peruana. <br>
+
+Usuario: Personas que navegan y reservan tours y/o restaurantes disponibles en la plataforma. <br>
+
+Payment: El proceso de entrega de las camisetas compradas a la dirección especificada por el cliente. <br>
+
+Notification: Mensajes enviados al cliente para proporcionar actualizaciones sobre sus pedidos, como confirmación del pedido, estado de envío, etc. <br>
+
+Customer Support: Asistencia proporcionada a los clientes con respecto a consultas, problemas o solicitudes relacionadas con sus reservas. <br>
+
+Review: Opinión proporcionada por los clientes sobre las camisetas o su experiencia de compra.<br>
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
