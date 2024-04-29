@@ -1944,10 +1944,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             06
         </td>
         <td>
-            Visualización de paquetes de tours disponibles
+            Plan de Suscripción
         </td>
         <td>
-            Como cliente, quiero ver una lista detallada de los paquetes de tours disponibles para seleccionar el que más se ajuste a mis intereses gastronómicos.
+            Como usuario, quiero aplicar mi plan de suscripción a mi cuenta para obtener todos los beneficios que ofrece la plataforma.
         </td>
         <td>
             3
