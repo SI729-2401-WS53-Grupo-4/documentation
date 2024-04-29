@@ -598,6 +598,8 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.2. Sprint Backlog 1
 
+#### 5.2.1.3. Development Evidence for Sprint Review
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -674,9 +676,9 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
     
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
-
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En este sprint no se desarrolla el testing de la aplicación web, solo Landing Page. Por lo tanto se mostrará el estado de la Landing Page en la siguiente sección del informe.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -843,6 +845,8 @@ En primer lugar, se creó una organización en Github con el nombre de la StartU
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Frontend. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <br><br>
 
