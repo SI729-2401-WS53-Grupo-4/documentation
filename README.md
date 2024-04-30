@@ -48,6 +48,8 @@
 
 # Project Report Collaboration Insights
 
+<td><img src="Images/Insights.png" alt="Imagen del insights" width="1500"></td>
+
 # Contenido
 
 ## Tabla de Contenidos
@@ -1569,7 +1571,7 @@ Entonces el sistema le pedirá al usuario que valore el viaje<br/>
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Recomendación de restaurantes
         </td>
     </tr>
     <tr align="left">
@@ -1585,13 +1587,13 @@ Entonces el sistema le pedirá al usuario que valore el viaje<br/>
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Ingreso de cupones de descuento
+            Ver lista de restaurantes
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero ingresar cupones de descuento que haya obtenido para obtener descuentos exclusivos en mis futuros viajes.
+            Como usuario, quiero ver toda la lista de resturantes que están por mi zona o de toda lima para obtener más información de los restaurantes existentes.
         </td>
     </tr>
     <tr align="left">
@@ -1599,10 +1601,10 @@ Entonces el sistema le pedirá al usuario que valore el viaje<br/>
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Acceso a cupones de descuento <br/>
-Dado que el usuario quiere ingresar los cupones obtenidos<br/>
-Cuando el usuario ingrese a la ventana de cupones y seleccione la opción de "ingresar cupón"<br/>
-Entonces el usuario podrá ingresar el cupón obtenido para recibir sus descuentos<br/>
+<b>Scenario 1:</b> Acceso a la pantalla de restaurantes <br/>
+Dado que el usuario quiere obtener información de la lista de restaurantes<br/>
+Cuando el usuario ingrese a la ventana de "restaurantes"<br/>
+Entonces el usuario revisar todos los restaurantes disponibles en la zona del usuario<br/>
 
  </td>
 </tr>
@@ -1821,10 +1823,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             17
         </td>
         <td>
-            Ingreso de cupones de descuento
+            Ver lista de restaurantes
         </td>
         <td>
-            Como usuario, quiero ingresar cupones de descuento que haya obtenido para obtener descuentos exclusivos en mis futuros viajes.
+            Como usuario, quiero ver toda la lista de resturantes que están por mi zona o de toda lima para obtener más información de los restaurantes existentes.
         </td>
         <td>
             3
@@ -2927,10 +2929,13 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
 <td><img src="Images/Gitflow1.png" alt="Imagen del gitflow" width="1500"></td>
 <td><img src="Images/Gitflow2.png" alt="Imagen del gitflow" width="1500"></td>
 <td><img src="Images/Gitflow3.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow4.png" alt="Imagen del gitflow" width="1500"></td>
 
-URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
+URL del repositorio del Report en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/documentation
 
 URL del repositorio del Landing Page en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
+
+URL del repositorio del Frontend en Github: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -3428,7 +3433,7 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
             <b>Retrospective Summary</b>
         </td>
         <td>
-        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord y Whatsapp. Sin embargo, se debe mejorar el aspecto de la organización, para terminar las próximas tareas sin estar al límite del deathline.
+        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord y Whatsapp. Sin embargo, se debe mejorar el aspecto de la organización y el aspecto del frontend, para terminar las próximas tareas sin estar al límite del deathline.
         </td>
     </tr>
      <tr align="left">
@@ -3455,20 +3460,306 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 </table>
 
 #### 5.2.1.2. Sprint Backlog 2
+<table  align="left" border="1" width="100%">
+      <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Pago de reserva de tour</td>
+    <td>Pantalla de pago</td>
+    <td>3.5</td>
+    <td>Daniel Chirinos</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Pantalla de confirmación</td>
+    <td>0.2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Ver información del tour</td>
+    <td>Crear pantalla de información y programarlo para redirigirlo</td>
+    <td>4.5</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Pantalla de precio</td>
+    <td>Crear pantalla de precio y programarlo para redirigirlo, tambien hacer otra redirección para el de pantalla de pago</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de tours disponibles</td>
+    <td>Crear la pantalla de tours y estructurarlo de acuerdo a nuestro Web Applications</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta</td>
+    <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
+    <td>7.5</td>
+    <td>Luis Sagastegui</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Login</td>
+    <td>Crear la pantalla de login, realizar un autenticador y redigir a la pantalla de home</td>
+    <td>4.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>  
+  <tr>
+    <td></td>
+    <td>Vista de Home</td>
+    <td>Crear la pantalla de home mostrando el toolbar con las rutas requeridas y mostrando la descripcion de los tours.</td>
+    <td>3.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Plan de suscripción</td>
+    <td>Crear la pantalla de plan de suscripción</td>
+    <td>4.5</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Restaurante visualizado</td>
+    <td>Crear la pantalla de restaurante</td>
+    <td>5.5</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Frontend</td>
+        <td>master</td>
+        <td>752bc1b</td>
+        <td>Daniel Chirinos</td>
+        <td>initial commit</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>923e5d2</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Tour feature</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>5a76843</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Feature/tour-implementation</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>bbf4116</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Feature/tour-implementation</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>ffba3fd</td>
+        <td>Daniel Chirinos</td>
+        <td>updated feature/tour-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>4b8ab1a</td>
+        <td>Daniel Chirinos</td>
+        <td>added tourpayment on feature/tour-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>99ebd1e</td>
+        <td>Daniel Chirinos</td>
+        <td>updated feature/tour-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>d2012fe</td>
+        <td>Daniel Chirinos</td>
+        <td>added environments feature/tour-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>b84bb82</td>
+        <td>George Aliaga</td>
+        <td>Updated feature/restaurant-implementation</td>
+        <td>28/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>8e6a20a</td>
+        <td>George Aliaga</td>
+        <td>page/restaurant-list</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>ce8c695</td>
+        <td>George Aliaga</td>
+        <td>updated restaurant-list</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>8e6a20a</td>
+        <td>Vittorio Eduardo</td>
+        <td>Updated feature/profile-implementation</td>
+        <td>28/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>1c959a4</td>
+        <td>Vittorio Eduardo</td>
+        <td>Updated feature/profile-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>7510cd6</td>
+        <td>Luis Sagastegui</td>
+        <td>Update-feature/home-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    
+</table>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+En el siguiente punto se realizaron las pruebas de nuestras paginas.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+## Login
+
+<td><img src="Images/homepage2.png" alt="Imagen de pagina home" width="1500"></td>
+
+## Register
+
+<td><img src="Images/homepage.png" alt="Imagen de pagina home" width="1500"></td>
+
+## Home
+
+<td><img src="Images/homepage3.png" alt="Imagen de pagina home" width="1500"></td>
+
+## Profile
+
+<td><img src="Images/profilepage.png" alt="Imagen de pagina profile" width="1500"></td>
+
+## Plan de suscripción
+
+<td><img src="Images/suscripcionpage.png" alt="Imagen de pagina profile" width="1500"></td>
+
+## Tour Home
+
+<td><img src="Images/Tourpage.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Tour Payment
+
+<td><img src="Images/Tourpage2.png" alt="Imagen de pagina tours" width="1500"></td>
+
+<td><img src="Images/Tourpage3.png" alt="Imagen de pagina tours" width="1500"></td>
+
+<td><img src="Images/Tourpage4.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Tour Info
+
+<td><img src="Images/Tourpage5.png" alt="Imagen de pagina tours" width="1500"></td>
+
+<td><img src="Images/Tourpage6.png" alt="Imagen de pagina tours" width="1500"></td>
+
+<td><img src="Images/Tourpage7.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Tour Confirmation
+
+<td><img src="Images/Tourpage8.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Restaurant
+
+<td><img src="Images/restaurant-page.png" alt="Imagen de pagina restaurante" width="1500"></td>
+
+<td><img src="Images/restaurant-page2.png" alt="Imagen de pagina restaurante" width="1500"></td>
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
+**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
+**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
+**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
+
+- HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
+- CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
+- Angular: FrameWork que se utilizó para el desarrollo de nuestra plataforma frontend.
+- Angular Material: Materiales que ofrece la herramienta para colocar componentes en nuestra plataforma. 
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la página, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Frontend. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+<td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
+
+**Contribuciones del equipo**
+
+<td><img src="Images/Insights 3.png" alt="Imagen del insights" width="1500"></td>
 
 <br><br>
 
@@ -3502,6 +3793,12 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 
 # Anexos
 
+- Link del repositorio del informe: https://github.com/SI729-2401-WS53-Grupo-4/documentation
+
+- Link del repositorio del landing page: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
+
+- Link del repositorio del frontend: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
+
 - Link del Trello:
 https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
 
@@ -3511,4 +3808,14 @@ https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE010
 
 - Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
 
+- Link de la landing page desployada: https://landing-page-three-theta.vercel.app
+
 - Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
+
+- Link de el Frontend (Tour-Page):https://tour-page-202019577.web.app/tour-list
+
+- Link de el Frontend (Restaurant-page):https://restaurant-page-20211c273.web.app
+
+- Link de el Frontend (Profile-page):https://profile-page-20231b547.web.app/profile-inputs
+
+- Link de el Frontend (Home-page): https://home-page-202014249-77533.web.app
