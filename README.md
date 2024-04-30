@@ -3459,132 +3459,95 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 </table>
 
 #### 5.2.1.2. Sprint Backlog 2
-
-<table align="center" border="1" width="90%" style="text-align:center">
-    <tr>
+<table  align="left" border="1" width="100%">
+      <tr>
        <td colspan="1"><b>Sprint #</b></td>
-       <td colspan="7"><b>Sprint 1</b></td>
+       <td colspan="7"><b>Sprint 2</b></td>
      </tr>
      <tr>
        <td colspan="2"><b>User Story</b></td>
        <td colspan="6"><b>Work-Item / Task</b></td>
      </tr>
-     <tr>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Id</b></td>
-       <td><b>Title</b></td>
-       <td><b>Description</b></td>
-       <td><b>Estimation(Hours)</b></td>
-       <td><b>Assigned To</b></td>
-       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-     </tr>
-     <tr>
-       <td rowspan="7">US01</td>
-       <td rowspan="7">Visualizar la descripción de la aplicación</td>
-       <td>T01</td>
-       <td>Estructura de las secciones</td>
-       <td>Programar la estructua HTML de las secciones </td>
-       <td>0.1</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T02</td>
-       <td>Agregar CSS general</td>
-       <td>Asignar styles generales para la página</td>
-       <td>0.1</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T03</td>
-       <td>Agregar Home section</td>
-       <td>Agregar html y css al Home section </td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T04</td>
-       <td>Agregar About us section</td>
-       <td>Agregar html y css al About us </td>
-       <td>0.5</td>
-       <td>Daniel Chirinos</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T05</td>
-       <td>Agregar Tour section</td>
-       <td>Agregar html y css al Tour section </td>
-       <td>0.5</td>
-       <td>George Aliaga</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T06</td>
-       <td>Agregar Contact section</td>
-       <td>Agregar html y css al Contact </td>
-       <td>0.5</td>
-       <td>Vittorio Eduardo</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-       <td rowspan="2">US02</td>
-       <td rowspan="2">Contacto como visitante</td>
-       <td>T07</td>
-       <td>Estructura del formulario de contacto</td>
-       <td>Programar la estructura del formulario en HTML</td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T08</td>
-       <td>Agregar CSS formulario</td>
-       <td>Agregar styles al formulario</td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-   <tr>
-       <td rowspan="2">US03</td>
-       <td rowspan="2">Landing Page intuitiva</td>
-       <td>T09</td>
-       <td>Estructura Navbar</td>
-       <td>Crear HTML del navbar con direccionamiento a secciones</td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T10</td>
-       <td>Estilos Navbar</td>
-       <td>Asignar stilos al navbar</td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td rowspan="2">US04</td>
-       <td rowspan="2">Landing Page responsiva</td>
-       <td>T11</td>
-       <td>Main responsive</td>
-       <td>Agregar CSS media queries a las diferentes secciones del main</td>
-       <td>1.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
-    <tr>
-       <td>T12</td>
-       <td>Navbar responsive</td>
-       <td>Agregar CSS media queries al navbar</td>
-       <td>0.5</td>
-       <td>Luis Sagastegui</td>
-       <td>Done</td>
-    </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Pago de reserva de tour</td>
+    <td>Pantalla de pago</td>
+    <td>3.5</td>
+    <td>Daniel Chirinos</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Pantalla de confirmación</td>
+    <td>0.2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Ver información del tour</td>
+    <td>Crear pantalla de información y programarlo para redirigirlo</td>
+    <td>4.5</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Pantalla de precio</td>
+    <td>Crear pantalla de precio y programarlo para redirigirlo, tambien hacer otra redirección para el de pantalla de pago</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de tours disponibles</td>
+    <td>Crear la pantalla de tours y estructurarlo de acuerdo a nuestro Web Applications</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta</td>
+    <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
+    <td>7.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Login</td>
+    <td>Crear la pantalla de login, realizar un autenticador y redigir a la pantalla de home</td>
+    <td>4.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Plan de suscripción</td>
+    <td>Crear la pantalla de plan de suscripción</td>
+    <td>4.5</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Restaurante visualizado</td>
+    <td>Crear la pantalla de restaurante</td>
+    <td>5.5</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 
@@ -3761,10 +3724,10 @@ En el siguiente punto se realizaron las pruebas de nuestras paginas.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list
-**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app
-**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs
-**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app
+**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
+**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
+**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
+**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
