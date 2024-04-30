@@ -3522,13 +3522,21 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
     <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
     <td>7.5</td>
     <td>Luis Sagastegui</td>
-    <td>Done</td>
+    <td>In-process</td>
   </tr>
   <tr>
     <td></td>
     <td>Login</td>
     <td>Crear la pantalla de login, realizar un autenticador y redigir a la pantalla de home</td>
     <td>4.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>  
+  <tr>
+    <td></td>
+    <td>Vista de Home</td>
+    <td>Crear la pantalla de home mostrando el toolbar con las rutas requeridas y mostrando la descripcion de los tours.</td>
+    <td>3.5</td>
     <td>Luis Sagastegui</td>
     <td>Done</td>
   </tr>
