@@ -145,6 +145,15 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   - [5.2.1. Sprint 2](#521-sprint-2)
+    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -2921,7 +2930,7 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
 
 URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
 
-URL del repositorio del Landing Page en GitHub: https://github.com/TasteTeam-Projects/Landing-Page
+URL del repositorio del Landing Page en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
