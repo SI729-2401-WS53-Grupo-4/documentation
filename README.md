@@ -145,6 +145,15 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   - [5.2.1. Sprint 2](#521-sprint-2)
+    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -194,10 +203,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
       - Realicé las mejoras indicadas del TB1. <br/>
       - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
       <br/>
-      <br>
-      <br>
-      - Realicé las mejoras indicadas del TB1. 
-      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
       <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
@@ -599,7 +604,6 @@ Se establecieron preguntas dirigidas a nuestro publico objetivo, con el fin de o
 - Apellidos: Zapata Mongrut
 - Edad: 21 años
 - Distrito: Lima - Carabayllo
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
 - Minuto donde empieza: 0:00
 - Duración: 17:10 minutos
 
@@ -627,7 +631,6 @@ En resumen, Adrián busca soluciones para enfrentar los desafíos fiscales, expa
 - Apellidos: Solis Perez
 - Edad: 22 años
 - Distrito: Lima - Callao
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpTreatment%2Eview">Entrevista</a>
 - Minuto donde empieza: 17:09
 - Duración: 11:20 minutos
 
@@ -655,7 +658,6 @@ En resumen, Fabián busca enriquecer su experiencia gastronómica durante sus vi
 - Apellidos: Mendoza
 - Edad: 30 años
 - Distrito: Lima
-- Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V ">Entrevista</a>
 - Minuto donde empieza: 28:29
 - Duración: 05:03 minutos
 
@@ -665,11 +667,9 @@ Evidencia de la reunión:
     <img src="Images/Entrevista 3.png" style="margin: 10px 0;" width="80%"/>
 </div>
 
-Resumen de la entrevista:
-
 <br/>
 
-**Link de las entrevistas**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
+**Link de las entrevistas:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Ec8iciWlY4xIpoxvkOKrdiMBm1jS37eaZHX4OuRkDXr3aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zRI40V
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -713,8 +713,12 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.3.1. User Personas
 
+## Amante de la cocina peruana
+
 <td><img src="Images/Userp1.png" alt="Imagen1 UserP"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/Userp2.png" alt="Imagen2 UserP"></td>
     <td>
@@ -734,28 +738,54 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.3.4. Empathy Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/EmpathyMap1.png" alt="Imagen1 empathy"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/EmpathyMap2.png" alt="Imagen2 empathy"></td>
     <td>
 
 ### 2.3.5. As-is Scenario Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/as-is1.png" alt="Imagen1 as-is"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/as-is2.png" alt="Imagen2 as-is"></td>
     <td>
 
 ### 2.4. Ubiquitous Language
 
+<br>
+
+Tour: Visita guiada de gastronomía para los usuarios amantes de la comida peruana. <br>
+
+Usuario: Personas que navegan y reservan tours y/o restaurantes disponibles en la plataforma. <br>
+
+Payment: El proceso de entrega de las camisetas compradas a la dirección especificada por el cliente. <br>
+
+Notification: Mensajes enviados al cliente para proporcionar actualizaciones sobre sus pedidos, como confirmación del pedido, estado de envío, etc. <br>
+
+Customer Support: Asistencia proporcionada a los clientes con respecto a consultas, problemas o solicitudes relacionadas con sus reservas. <br>
+
+Review: Opinión proporcionada por los clientes sobre las camisetas o su experiencia de compra.<br>
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/tobe1.png" alt="Imagen1 "></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/tobe2.png" alt="Imagen2 "></td>
     <td>
@@ -1944,10 +1974,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             06
         </td>
         <td>
-            Plan de Suscripción
+            Visualización de paquetes de tours disponibles
         </td>
         <td>
-            Como usuario, quiero aplicar mi plan de suscripción a mi cuenta para obtener todos los beneficios que ofrece la plataforma.
+            Como cliente, quiero ver una lista detallada de los paquetes de tours disponibles para seleccionar el que más se ajuste a mis intereses gastronómicos.
         </td>
         <td>
             3
@@ -1978,10 +2008,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             10
         </td>
         <td>
-            Visualización de mensajes
+            Plan de Suscripción
         </td>
         <td>
-            Como usuario, quiero poder ver los mensajes que otros me han mandado para poder estar al tanto de novedades que pueden contarme.
+            Como usuario, quiero aplicar mi plan de suscripción a mi cuenta para obtener todos los beneficios que ofrece la plataforma.
         </td>
         <td>
             1
@@ -2155,6 +2185,49 @@ Mediante el siguiente esquema se muestran las categorías principales para los u
 Los datos se van a representar en botones con imágenes y frases cortas de tal manera que a los usuarios les sea sencillo a la hora de cambiar sección y aumentando su tiempo en la app. Esto también ayudará al usuario a navegar de manera intuitiva ya que los colores seleccionados ayudarían a enfocar la percepción del usuario.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+### Landing Page:
+
+### Meta Tags
+
+HTML:
+
+Title Tag: Tours, restaurants and bookings
+
+<title> Taste Tour | Tours, restaurants and bookings </title>
+
+Meta description: TasteTour is a web application for peruvian restaurant tours 
+
+<meta name="description" content="LookMédico is a web application for e-commerce, clothing sales and health professionals".>
+
+Meta Robots: robots, follow, index
+
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"./>
+
+Meta author: TasteTour 
+
+<meta name="author" content="TasteTour".>
+
+Viewport tag: 
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0".>
+
+### Web Application
+
+Meta description: 
+
+<meta name="description" content="Front End Web application Taste Tour, sistema de reserva de tours de restaurantes peruanos".>
+<meta name="keywords" content="tours, restaurantes, comida peruana, reservas"./>
+
+Viewport tag: 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"./>
+
+Meta author: 
+
+<meta name="author" content="TasteTeam".>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0".>
 
 ### 4.2.4. Searching Systems
 
@@ -2857,7 +2930,7 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
 
 URL del repositorio del Report en GitHub: https://github.com/TasteTeam-Projects/REPORT
 
-URL del repositorio del Landing Page en GitHub: https://github.com/TasteTeam-Projects/Landing-Page
+URL del repositorio del Landing Page en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -2996,6 +3069,135 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
 
 #### 5.2.1.2. Sprint Backlog 1
 
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+    <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 1</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+     <tr>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Id</b></td>
+       <td><b>Title</b></td>
+       <td><b>Description</b></td>
+       <td><b>Estimation(Hours)</b></td>
+       <td><b>Assigned To</b></td>
+       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+     </tr>
+     <tr>
+       <td rowspan="7">US01</td>
+       <td rowspan="7">Visualizar la descripción de la aplicación</td>
+       <td>T01</td>
+       <td>Estructura de las secciones</td>
+       <td>Programar la estructua HTML de las secciones </td>
+       <td>0.1</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T02</td>
+       <td>Agregar CSS general</td>
+       <td>Asignar styles generales para la página</td>
+       <td>0.1</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T03</td>
+       <td>Agregar Home section</td>
+       <td>Agregar html y css al Home section </td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Agregar About us section</td>
+       <td>Agregar html y css al About us </td>
+       <td>0.5</td>
+       <td>Daniel Chirinos</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T05</td>
+       <td>Agregar Tour section</td>
+       <td>Agregar html y css al Tour section </td>
+       <td>0.5</td>
+       <td>George Aliaga</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T06</td>
+       <td>Agregar Contact section</td>
+       <td>Agregar html y css al Contact </td>
+       <td>0.5</td>
+       <td>Vittorio Eduardo</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Contacto como visitante</td>
+       <td>T07</td>
+       <td>Estructura del formulario de contacto</td>
+       <td>Programar la estructura del formulario en HTML</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T08</td>
+       <td>Agregar CSS formulario</td>
+       <td>Agregar styles al formulario</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+   <tr>
+       <td rowspan="2">US03</td>
+       <td rowspan="2">Landing Page intuitiva</td>
+       <td>T09</td>
+       <td>Estructura Navbar</td>
+       <td>Crear HTML del navbar con direccionamiento a secciones</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T10</td>
+       <td>Estilos Navbar</td>
+       <td>Asignar stilos al navbar</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US04</td>
+       <td rowspan="2">Landing Page responsiva</td>
+       <td>T11</td>
+       <td>Main responsive</td>
+       <td>Agregar CSS media queries a las diferentes secciones del main</td>
+       <td>1.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T12</td>
+       <td>Navbar responsive</td>
+       <td>Agregar CSS media queries al navbar</td>
+       <td>0.5</td>
+       <td>Luis Sagastegui</td>
+       <td>Done</td>
+    </tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 <table  align="left" border="1" width="100%">
@@ -3071,6 +3273,20 @@ Para despliegar el landing page, usamos las siguientes herraminetas.
         <td>Added feature/tours</td>
         <td>29/04/2024</td>
     </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>acd839c</td>
+        <td>Vittorio Eduardo</td>
+        <td>added index.html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>30cfddb</td>
+        <td>Vittorio Eduardo</td>
+        <td>added styles.css</td>
+        <td>29/04/2024</td>
+    </tr>
     
 </table>
 
@@ -3120,6 +3336,14 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 La StartUp TasteTeam ha realizado el presente sprint usando Git y Github como herramientas principales para el control de versiones y GitFlow como metodología de trabajo.
 
 En primer lugar, se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Landing page. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `main` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `main`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+<td><img src="Images/TeamCollab.png" alt="Imagen del insights" width="1500"></td>
+
+Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tanto se tuvo que realizar un merge de forma manual.
+
+**Contribuciones del equipo**
+
+<td><img src="Images/Collabprogres.png" alt="Imagen del insights" width="1500"></td>
 
 <br><br>
 
@@ -3258,6 +3482,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
 - Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
+- Se avanzó y definió el frontend de la plataforma
 
 <br><br>
 
