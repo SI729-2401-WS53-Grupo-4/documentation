@@ -2929,6 +2929,7 @@ Esto nos permitio separar el proyecto en la rama principal (main) en la que se e
 <td><img src="Images/Gitflow1.png" alt="Imagen del gitflow" width="1500"></td>
 <td><img src="Images/Gitflow2.png" alt="Imagen del gitflow" width="1500"></td>
 <td><img src="Images/Gitflow3.png" alt="Imagen del gitflow" width="1500"></td>
+<td><img src="Images/Gitflow4.png" alt="Imagen del gitflow" width="1500"></td>
 
 URL del repositorio del Report en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/documentation
 
