@@ -48,6 +48,8 @@
 
 # Project Report Collaboration Insights
 
+<td><img src="Images/Insights.png" alt="Imagen del insights" width="1500"></td>
+
 # Contenido
 
 ## Tabla de Contenidos
