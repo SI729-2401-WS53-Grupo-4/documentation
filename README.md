@@ -2177,6 +2177,49 @@ Los datos se van a representar en botones con imágenes y frases cortas de tal m
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+### Landing Page:
+
+### Meta Tags
+
+HTML:
+
+Title Tag: Tours, restaurants and bookings
+
+<title> Taste Tour | Tours, restaurants and bookings </title>
+
+Meta description: TasteTour is a web application for peruvian restaurant tours 
+
+<meta name="description" content="LookMédico is a web application for e-commerce, clothing sales and health professionals".>
+
+Meta Robots: robots, follow, index
+
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"./>
+
+Meta author: TasteTour 
+
+<meta name="author" content="TasteTour".>
+
+Viewport tag: 
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0".>
+
+### Web Application
+
+Meta description: 
+
+<meta name="description" content="Front End Web application Taste Tour, sistema de reserva de tours de restaurantes peruanos".>
+<meta name="keywords" content="tours, restaurantes, comida peruana, reservas"./>
+
+Viewport tag: 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"./>
+
+Meta author: 
+
+<meta name="author" content="TasteTeam".>
+
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0".>
+
 ### 4.2.4. Searching Systems
 
 Para la búsqueda de áreas, en cada página habrá un buscador libre y una herramienta de filtros por categorías para encontrar la informacion con los restaurantes asignados por los moderadores de la app.
