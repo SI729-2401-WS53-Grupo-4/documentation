@@ -195,10 +195,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
       - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
       <br/>
       <br>
-      <br>
-      - Realicé las mejoras indicadas del TB1. 
-      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
-      <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
@@ -708,8 +704,12 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.3.1. User Personas
 
+## Amante de la cocina peruana
+
 <td><img src="Images/Userp1.png" alt="Imagen1 UserP"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/Userp2.png" alt="Imagen2 UserP"></td>
     <td>
@@ -729,16 +729,24 @@ Basándonos en el análisis de la entrevista, Fabian parece ser un potencial cli
 
 ### 2.3.4. Empathy Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/EmpathyMap1.png" alt="Imagen1 empathy"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/EmpathyMap2.png" alt="Imagen2 empathy"></td>
     <td>
 
 ### 2.3.5. As-is Scenario Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/as-is1.png" alt="Imagen1 as-is"></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/as-is2.png" alt="Imagen2 as-is"></td>
     <td>
@@ -763,8 +771,12 @@ Review: Opinión proporcionada por los clientes sobre las camisetas o su experie
 
 ## 3.1. To-Be Scenario Mapping
 
+## Amante de la cocina peruana
+
 <td><img src="Images/tobe1.png" alt="Imagen1 "></td>
     <td>
+
+## Dueño de restaurante peruano
 
 <td><img src="Images/tobe2.png" alt="Imagen2 "></td>
     <td>
@@ -3085,7 +3097,7 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
        <td>Estructura del formulario de contacto</td>
        <td>Programar la estructura del formulario en HTML</td>
        <td>0.5</td>
-       <td>Diego Defilippi</td>
+       <td>Luis Sagastegui</td>
        <td>Done</td>
     </tr>
     <tr>
