@@ -23,7 +23,6 @@
 | :------------------------------- | :--------: |
 | Aliaga Pimentel, George Arturo   | U20211c273 |
 | Chirinos Arevalo, Daniel Rodrigo | U202019577 |
-| Jimena Alessandra Cossio Jimenez | U202117854 |
 | Vittorio Marcelo Eduardo Espinoza| U202120448 |
 | Sagastegui Rodriguez, Luis Jesus | U202014249 |
 
@@ -200,12 +199,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
       - Realice mis tareas asignadas en el horario correspondiente.<br/>
       - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
     <br>
-    <b>Jimena Alessandra Cossio Jimenez</b>
-      <br>
-      - Realicé las mejoras indicadas del TB1. <br/>
-      - Realicé el apartado del Landing Page Wireframe, el Landing Page Mockup, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Application Mockups y Web Applications User Flow Diagrams.
-      <br/>
-      <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
@@ -227,10 +220,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
       - Realice mis tareas asignadas en el horario correspondiente.<br/>
       - Realicé las correciones dadas por el docente, se pudo agregar correctamente el landing page y los puntos importantes del cap 4<br/>
     <br>
-    <b>Jimena Alessandra Cossio Jimenez</b>
-      <br>
-      - Realicé las correciones dadas por el docente, se pudo mejorar el analisis competitivo, el apartado del Web Application Mockups y Web Applications User Flow Diagrams.
-      <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
@@ -265,14 +254,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
     <br><br>
-    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
-    <br><br>
-<b>Jimena Alessandra, Cossio Jimenez</b>
-    <br>
-    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
-    <br><br>
-    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
-    <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
     -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
@@ -288,10 +269,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <b>Sagastegui Rodriguez, Luis Jesus</b>
     <br>
     - Realicé el apartado Login, Register y Home, el login y el register se utilizarán con un autenticador la cual hará que revise si el usuario realmente está registrado, a su vez, realicé el Home la cual muestra todos los apartados que contiene la pagina web.
-    <br><br>
-<b>Jimena Alessandra, Cossio Jimenez</b>
-    <br>
-    - Realicé el apartado de los antecedentes y la problemática, el análisis competitivo, las estrategias y tácticas frente a competidores.
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
@@ -344,14 +321,6 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
    <td>Me llamo George Arturo Aliaga Pimentel y soy de la carrera de Ingeniería de Software. Estoy cursando el sexto ciclo. Me considero una persona cooperativa y responsable, lo cual es lo requerido para un proyecto grupal. Tengo la meta de ser un gran ingeniero y espero mejorar todo lo aprendido en la carrera.
    </td>
     </tr>
-</table>
-
-<table>
- <tr>
-   <td><img src= "Images/FotoJimena.jpg" alt= "Imagen de la integrante Jimena Cossio" width="1030"></td> 
-   <td>Me llamo Jimena Alessandra Cossio Jimenez. Soy de la carrera de Ingeniería de Software. Estoy cursando el quinto ciclo. Me considero una persona flexible y dispuesta a esuchar las diferentes opiniones de mis compañeros con el respeto que todos merecemos y estoy dispuesta a apoyar a mis compañeros en lo que necesiten. Mi objetivo es ser una desarrolladora web, por lo que haré todo lo que esté a mi alcance para conseguirlo.
-   </td>
-  </tr>
 </table>
 
 <table>
