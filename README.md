@@ -837,7 +837,7 @@ Entonces el sistema no permitirá el registro<br/>
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Inicio de sesión
+            Inicio de sesión seguro
         </td>
     </tr>
     <tr align="left">
@@ -1008,7 +1008,8 @@ Cuando el usuario realice una transacción a través de su tarjeta<br/>
 Entonces el sistema aceptará la tarjeta y procederá al pago<br/>
 <b>Scenario 1:</b> Pago rechazado <br/>
 Dado que el usuario quiere realizar el pago de su reserva de tour<br/>
-Cuando el usuario realice una transacción pero no cuenta con los fondos suficientes<br/>
+Cuando el usuario realice una transacción a través de su tarjeta<br/>
+Y no cuenta con los fondos suficientes<br/>
 Entonces el sistema denegará la tarjeta y no procederá al pago<br/>
 
  </td>
@@ -1102,8 +1103,8 @@ Entonces el sistema mostrará los tours disponibles actualmente <br/>
 
 <b>Scenario 1:</b> Visualizar detalles del tour <br/>
 Dado que el usuario quiere conocer información dettalada de los tours<br/>
-Cuando el usuario ingrese a la vista del tour seleccionado y al apartado de "más detalles" <br/>
-Entonces el sistema mostrará las actividades, ubicación, restaurantes y horarios del tour<br/>
+Cuando el usuario ingrese a la vista del tour seleccionado y al apartado de "más info" <br/>
+Entonces el sistema mostrará las actividades, ubicación, restaurantes, instructor y la calificación del tour<br/>
 
  </td>
 </tr>
@@ -1133,13 +1134,13 @@ Entonces el sistema mostrará las actividades, ubicación, restaurantes y horari
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Recepción de notificaciones de ofertas
+            Vista general de la plataforma
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero recibir notificaciones de la aplicación sobre nuevas ofertas o promociones, para estar al tanto de oportunidades de viaje y experiencias culinarias.
+            Como usuario, quiero obtener una vista general de todas las funcionalidades que tendrá la plataforma, para tener claro lo que deseo realizar.
         </td>
     </tr>
     <tr align="left">
@@ -1147,10 +1148,10 @@ Entonces el sistema mostrará las actividades, ubicación, restaurantes y horari
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Habilitar notificación de oferta <br/>
-Dado que el usuario quiere recibir notificaciones de ofertas disponibles<br/>
-Cuando el usuario ingrese al apartado de notificaciones y habilite la opcion "Recibir notificación cuando un paquete baje de precio"<br/>
-Entonces el sistema enviará notificaciones cuando encuentre ofertas<br/>
+<b>Scenario 1:</b> Visualización home <br/>
+Dado que el usuario quiere una vista home accesible<br/>
+Cuando el usuario ingrese a la plataforma con su cuenta<br/>
+Entonces el sistema lo redirigirá a la pantalla home y mostrará las pestañas de cada apartado<br/>
 
  </td>
 </tr>
@@ -1195,9 +1196,9 @@ Entonces el sistema enviará notificaciones cuando encuentre ofertas<br/>
             <br/>
 
 <b>Scenario 1:</b> Filtrar tours <br/>
-Dado que el usuario quiere realizar búsquedas con filtros<br/>
-Cuando el usuario ingrese a la ventana de filtros e complete los datos que desea obtener<br/>
-Entonces el sistema mostrará una ventana con los tours que concuerdan con lo especificado<br/>
+ Dado de que el usuario quiere realizar búsquedas con filtros<br/>
+Cuando el usuario vaya a la parte de los filtros y completa los datos que desea obtener<br/>
+Entonces el sistema mostrará los tours de acuerdo a lo que el usuario escribió<br/>
 
  </td>
 </tr>
@@ -1241,7 +1242,7 @@ Entonces el sistema mostrará una ventana con los tours que concuerdan con lo es
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Ver mensajes recibidos <br/>
+<b>Scenario 1:</b> Cambio plan <br/>
 Dado que el usuario quiere aplicar su plan de suscripción a su cuenta<br/>
 Cuando el usuario ingrese al perfil de usuario y vaya a comprar el plan de suscripción<br/>
 Entonces el sistema mostrará los dos planes que están disponibles en la plataforma<br/>
@@ -1274,13 +1275,13 @@ Entonces el sistema mostrará los dos planes que están disponibles en la plataf
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Recepción de itinerario detallado
+            Elección de horarios de tour
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como cliente, quiero recibir un itinerario detallado de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
+            Como cliente, quiero recibir horarios de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
         </td>
     </tr>
     <tr align="left">
@@ -1288,10 +1289,10 @@ Entonces el sistema mostrará los dos planes que están disponibles en la plataf
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Detalle de itinerario <br/>
-Dado que el usuario quiere recibir un itinerario detallado de su tour gastronomico<br/>
-Cuando el usuario ingrese a la ventana de "mis reservas" y elija uno de sus tours reservados<br/>
-Entonces el sistema mostrará los detalles del tour que elijió<br/>
+<b>Scenario 1:</b> Visualizar horarios <br/>
+Dado de que el usuario quiere revisar los horarios disponibles del tour elegido<br/>
+Cuando el usuario ingresa al apartado de "Reserva ahora" de acuerdo al tour elegido<br/>
+Entonces el sistema mostrará la información del tour junto con los horarios.<br/>
 
  </td>
 </tr>
@@ -1383,7 +1384,7 @@ Entonces el sistema enviará el mensaje al equipo de soporte<br/>
             <br/>
 
 <b>Scenario 1:</b> Registrar resturante <br/>
-Dado que el usuario quiere registrar su restaurante en la aplicación<br/>
+Dado que el usuario desea registrar su restaurante en la aplicación<br/>
 Cuando el usuario ingrese a la ventana de registro de restaurante y complete los datos correspondientes<br/>
 Entonces el sistema lo redirigirá al apartado de administración de su restaurante registrado<br/>
 
@@ -1603,13 +1604,13 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Visualización del estado de los cupones
+            Visualización de restaurantes favoritos
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero verificar el estado de los cupones que ingresé para saber si aún se pueden utilizar.
+            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
         </td>
     </tr>
     <tr align="left">
@@ -1617,10 +1618,10 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Ver estado de cupones <br/>
-Dado que el usuario quiere ver el estado de sus cupones<br/>
-Cuando el usuario ingrese a la ventana de cupones<br/>
-Entonces el usuario podrá verificar que cupones están habilitados, usados o expirados <br/>
+<b>Scenario 1:</b> Visualizar favoritos <br/>
+Dado de que el usuario desea verificar el restaurante favorito que eligió<br/>
+Cuando el usuario ingresa a la vista de "Restaurantes" y le da como favorito al restaurante<br/>
+Entonces el sistema guardará el restaurante favorito en la lista de favoritos. <br/>
 
  </td>
 </tr>
@@ -1775,10 +1776,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             18
         </td>
         <td>
-            Visualización del estado de los cupones
+            Visualización de restaurantes favoritos
         </td>
         <td>
-            Como usuario, quiero verificar el estado de los cupones que ingresé para saber si aún se pueden utilizar.
+            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
         </td>
         <td>
             3
@@ -1843,10 +1844,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             08
         </td>
         <td>
-            Recepción de notificaciones de ofertas
+            Vista general de la plataforma
         </td>
         <td>
-            Como usuario, quiero recibir notificaciones de la aplicación sobre nuevas ofertas o promociones, para estar al tanto de oportunidades de viaje y experiencias culinarias.
+            Como usuario, quiero obtener una vista general de todas las funcionalidades que tendrá la plataforma, para tener claro lo que deseo realizar.
         </td>
         <td>
             2
@@ -1996,10 +1997,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             11
         </td>
         <td>
-            Recepción de itinerario detallado
+            Elección de horarios de tour
         </td>
         <td>
-            Como cliente, quiero recibir un itinerario detallado de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
+            Como cliente, quiero recibir horarios de mi tour gastronómico elegido, para estar preparado durante mi experiencia de viaje.
         </td>
         <td>
             3
