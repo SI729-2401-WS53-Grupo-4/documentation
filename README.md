@@ -2097,7 +2097,7 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
 <br><br>
 
 Link del Trello:
-https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
+https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
 
 # Capítulo IV: Product Design
 
