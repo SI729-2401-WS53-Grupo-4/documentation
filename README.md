@@ -225,13 +225,35 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
     - Realicé las correciones dadas por el docente, se pudo mejorar los User stories.<br/>    
     <br>
+    TB2<br>
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el tour-bounded-context.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el restaurant-bounded-context.<br/>
+        <br>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+        - Realicé mis tareas asignadas<br/>
+    <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el user-bounded-context.<br/>
+        <br>
     <td>TB1<br>
     Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
-    <br>
-    TP<br>
-    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega
+    <br>TP<br>
+    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega<br>
+    <br>TB2<br>
+    Se corrigieron varios artefactos que se pedían en la entrega pasada y tambien se realizó el avance de nuestro backend.
     </td>
-    
+    </td>
 
 </tr>
 <tr>
@@ -243,7 +265,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
         -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
         -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
-        -Desarrollé los Mock-ups y los user goals<br/>
         -Desarrollé los Mock-ups y los user goals<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
@@ -272,7 +293,22 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
-    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>    
+    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>
+<br> TB2<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Realicé mi avance de el backend de tours, la cual sirve para que cuando el usuario confirme su compra de su reserva de tour, se pueda almacenar en la base de datos.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+    -Realicé mi avance de el backend de restaurante, esta parte de mi avance sirve para que cuando el dueño quiera registrar su restaurante, automaticamente ingrese su restaurante en la base de datos.
+    <br><br>
+<b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>         
 
 </td>
     <td>TB1
@@ -280,7 +316,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
     <br><br>
     TP<br>
-    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.
+    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.<br>
+    TB2<br>
+    Se realizó el avance de la programación interna de una pagina web de acuerdo a nuestros user stories.
     </td>
 </tr>
 </table>
@@ -3645,7 +3683,103 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-En el siguiente punto se realizaron las pruebas de nuestras paginas.
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=19>SI729-2401-WS53-testing</td>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5445ac3</td>
+        <td>US-05</td>
+        <td>Feature: Pago seguro de reserva de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5b2255e</td>
+        <td>US-06</td>
+        <td>Feature: Visualización de paquetes de tours disponibles</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>0e585aa</td>
+        <td>US-07</td>
+        <td>Feature: Información detallada del tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5e2e62d</td>
+        <td>US-09</td>
+        <td>Feature: Filtros de búsqueda de tour gastronómico</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>6bfb147</td>
+        <td>US-11</td>
+        <td>Feature: Elección de horarios de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>5323a7d</td>
+        <td>Luis Jesus</td>
+        <td>home-html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-us-implementation</td>
+        <td>0cc3d07</td>
+        <td>Daniel Chirinos</td>
+        <td>added about-us</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1cc0193</td>
+        <td>Daniel Chirinos</td>
+        <td>Merge</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tours-implementation</td>
+        <td>42011dd</td>
+        <td>George Aliaga</td>
+        <td>Added feature/tours</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>acd839c</td>
+        <td>Vittorio Eduardo</td>
+        <td>added index.html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>30cfddb</td>
+        <td>Vittorio Eduardo</td>
+        <td>added styles.css</td>
+        <td>29/04/2024</td>
+    </tr>
+    
+</table>
+
+Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
+
+Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
+
+Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
+
+Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -3733,6 +3867,498 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 
 <br><br>
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            22/04/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Modalidad remota por Discord      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de TasteTeam     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Sagastegui Rodriguez, Luis Jesus <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
+            </br></br>
+            El Frontend se implementó parcialmente.  
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 2</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord y Whatsapp. Sin embargo, se debe mejorar el aspecto de la organización y el aspecto del frontend, para terminar las próximas tareas sin estar al límite del deathline.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 2 Velocity</b>
+        </td>
+        <td>
+            7
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            15
+        </td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+<table  align="left" border="1" width="100%">
+      <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Pago de reserva de tour</td>
+    <td>Pantalla de pago</td>
+    <td>3.5</td>
+    <td>Daniel Chirinos</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Pantalla de confirmación</td>
+    <td>0.2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td>Ver información del tour</td>
+    <td>Crear pantalla de información y programarlo para redirigirlo</td>
+    <td>4.5</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Pantalla de precio</td>
+    <td>Crear pantalla de precio y programarlo para redirigirlo, tambien hacer otra redirección para el de pantalla de pago</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de tours disponibles</td>
+    <td>Crear la pantalla de tours y estructurarlo de acuerdo a nuestro Web Applications</td>
+    <td>4.6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta</td>
+    <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
+    <td>7.5</td>
+    <td>Luis Sagastegui</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Login</td>
+    <td>Crear la pantalla de login, realizar un autenticador y redigir a la pantalla de home</td>
+    <td>4.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>  
+  <tr>
+    <td></td>
+    <td>Vista de Home</td>
+    <td>Crear la pantalla de home mostrando el toolbar con las rutas requeridas y mostrando la descripcion de los tours.</td>
+    <td>3.5</td>
+    <td>Luis Sagastegui</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US10</td>
+    <td>Plan de suscripción</td>
+    <td>Crear la pantalla de plan de suscripción</td>
+    <td>4.5</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Restaurante visualizado</td>
+    <td>Crear la pantalla de restaurante</td>
+    <td>5.5</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>Frontend</td>
+        <td>master</td>
+        <td>752bc1b</td>
+        <td>Daniel Chirinos</td>
+        <td>initial commit</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>923e5d2</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Tour feature</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>5a76843</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Feature/tour-implementation</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>bbf4116</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Feature/tour-implementation</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>ffba3fd</td>
+        <td>Daniel Chirinos</td>
+        <td>updated feature/tour-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>4b8ab1a</td>
+        <td>Daniel Chirinos</td>
+        <td>added tourpayment on feature/tour-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>99ebd1e</td>
+        <td>Daniel Chirinos</td>
+        <td>updated feature/tour-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-implementation</td>
+        <td>d2012fe</td>
+        <td>Daniel Chirinos</td>
+        <td>added environments feature/tour-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>b84bb82</td>
+        <td>George Aliaga</td>
+        <td>Updated feature/restaurant-implementation</td>
+        <td>28/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>8e6a20a</td>
+        <td>George Aliaga</td>
+        <td>page/restaurant-list</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurantes-implementation</td>
+        <td>ce8c695</td>
+        <td>George Aliaga</td>
+        <td>updated restaurant-list</td>
+        <td>30/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>8e6a20a</td>
+        <td>Vittorio Eduardo</td>
+        <td>Updated feature/profile-implementation</td>
+        <td>28/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/profile-implementation</td>
+        <td>1c959a4</td>
+        <td>Vittorio Eduardo</td>
+        <td>Updated feature/profile-implementation</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>7510cd6</td>
+        <td>Luis Sagastegui</td>
+        <td>Update-feature/home-implementation</td>
+        <td>30/04/2024</td>
+    </tr>
+    
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=19>SI729-2401-WS53-testing</td>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5445ac3</td>
+        <td>US-05</td>
+        <td>Feature: Pago seguro de reserva de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5b2255e</td>
+        <td>US-06</td>
+        <td>Feature: Visualización de paquetes de tours disponibles</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>0e585aa</td>
+        <td>US-07</td>
+        <td>Feature: Información detallada del tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>5e2e62d</td>
+        <td>US-09</td>
+        <td>Feature: Filtros de búsqueda de tour gastronómico</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/DanielChirinos-TB2</td>
+        <td>6bfb147</td>
+        <td>US-11</td>
+        <td>Feature: Elección de horarios de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/home-implementation</td>
+        <td>5323a7d</td>
+        <td>Luis Jesus</td>
+        <td>home-html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/about-us-implementation</td>
+        <td>0cc3d07</td>
+        <td>Daniel Chirinos</td>
+        <td>added about-us</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1cc0193</td>
+        <td>Daniel Chirinos</td>
+        <td>Merge</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tours-implementation</td>
+        <td>42011dd</td>
+        <td>George Aliaga</td>
+        <td>Added feature/tours</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>acd839c</td>
+        <td>Vittorio Eduardo</td>
+        <td>added index.html</td>
+        <td>29/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/contact-implementation</td>
+        <td>30cfddb</td>
+        <td>Vittorio Eduardo</td>
+        <td>added styles.css</td>
+        <td>29/04/2024</td>
+    </tr>
+    
+</table>
+
+Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
+
+Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
+
+Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
+
+Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
+**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
+**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
+**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- Sprintboot:
+- MySqlWorkbench:
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Frontend. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+<td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
+
+**Contribuciones del equipo**
+
+<td><img src="Images/Insights 3.png" alt="Imagen del insights" width="1500"></td>
+
+<br><br>
+
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+
+A continuación se mostrarán las preguntas de acuerdo a nuestra plataforma.
+
+*Se explicará de nuevo acerca de nuestro proyecto y el funcionamiento de cada componente* 
+
+*El usuario tiene que interactuar con la plataforma, una vez terminado de interactuar y explicar, vienen las preguntas* 
+
+- ¿Que tal le ha parecido la plataforma?
+  
+- ¿La plataforma se ve atractiva o hay algo que se deba cambiar?
+  
+- ¿Usted cree que la plataforma es intuitiva para el usuario general?
+  
+- ¿Usted que opina acerca de los colores elegidos en la plataforma?
+  
+- ¿Que información adicional le gustaría que se destaque en nuestra plataforma?
+  
+- ¿Que aspectos importantes deberian estar en nuestra plataforma para usted como dueño de restaurante? (Para el dueño de restaurante)
+  
+- ¿Usted como usuario, le agrada el prototipo de nuestro proyecto?
+  
+- ¿Usted como dueño, le agrada el prototipo de nuestro proyecto? (Para el dueño de restaurante)
+  
+- ¿Cree usted de que la plataforma cumpla con el objetivo? 
+  
+- ¿Usted cree que esta plataforma deba tener una versión para moviles?
+  
+- ¿Recomendaría el uso de la plataforma? (Para ambos)
+  
+- ¿Que recomendaciones nos daría para mejorar la plataforma? (Para ambos)
+
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evauluaciones según heurísticas
+
+### 5.4. Video About-the-Product
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -3743,7 +4369,8 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
 - Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
-- Se avanzó y definió el frontend de la plataforma
+- Se definió el frontend de la plataforma
+- Se avanzó el backend de nuestro proyecto
 
 <br><br>
 
