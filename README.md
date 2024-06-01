@@ -1156,7 +1156,7 @@ Entonces el sistema mostrará las actividades, ubicación, restaurantes, instruc
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Vista General
         </td>
     </tr>
     <tr align="left">
@@ -1219,13 +1219,13 @@ Entonces el sistema lo redirigirá a la pantalla home y mostrará las pestañas 
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Filtros de búsqueda de tour gastronómico
+            Información de pago de tour gastronómico
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+            Como cliente, quiero saber más información acerca del costo del tour, para planificar mi presupuesto de viaje adecuadamente.
         </td>
     </tr>
     <tr align="left">
@@ -1360,13 +1360,13 @@ Entonces el sistema mostrará la información del tour junto con los horarios.<b
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Comunicación con soporte
+            Lista de reservas realizadas
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+            Como usuario, quiero verificar toda la lista de reservas realizadas para resolver mi duda sobre las compras que he realizado.
         </td>
     </tr>
     <tr align="left">
@@ -1374,10 +1374,11 @@ Entonces el sistema mostrará la información del tour junto con los horarios.<b
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Soporte de TasteTeam <br/>
-Dado que el usuario quiere contactase con el soporte de TasteTeam<br/>
-Cuando el usuario ingrese al apartado de "Soporte" y complete los datos de su consulta<br/>
-Entonces el sistema enviará el mensaje al equipo de soporte<br/>
+<b>Scenario 1:</b> Ver lista de reservas <br/>
+Dado que el usuario quiere verificar sus reservas<br/>
+Cuando el usuario ingrese a su perfil de usuario<br/>
+Y presiona al botón de "Ver reservas"<br/>
+Entonces el sistema redirigirá al usuario a la pantalla de reservas<br/>
 
  </td>
 </tr>
@@ -1413,7 +1414,7 @@ Entonces el sistema enviará el mensaje al equipo de soporte<br/>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+            Como propietario de restaurante, quiero registrar mi restaurante en el sistema para se parte de la plataforma y dar la posibilidad de ayudar a los usuarios.
         </td>
     </tr>
     <tr align="left">
@@ -1548,13 +1549,13 @@ Entonces el sistema mostrará una lista con todos los tours accedidos, así como
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Calificación y comentarios de experiencia
+            Calificación de la experiencia
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+            Como usuario, quiero verificar la valoración del tour para ver si mi experiencia puede ser satisfactoria.
         </td>
     </tr>
     <tr align="left">
@@ -1562,10 +1563,10 @@ Entonces el sistema mostrará una lista con todos los tours accedidos, así como
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Comentarios y calificación <br/>
-Dado que el usuario quiere dejar su valoración de las actividades de tour<br/>
-Cuando el usuario termine de realizar sus actividades en el tour<br/>
-Entonces el sistema le pedirá al usuario que valore el viaje<br/>
+<b>Scenario 1:</b> Calificación <br/>
+Dado que el usuario quiere verificar la valoración del tour<br/>
+Cuando el usuario vaya a la pantalla de tours<br/>
+Entonces el sistema mostrará la calificación de cada tour mostrado<br/>
 
  </td>
 </tr>
@@ -1642,13 +1643,13 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Visualización de restaurantes favoritos
+            Ruta de la pagina oficial de restaurante
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
+            Como dueño de restaurante, quiero que el usuario pueda redirigirse a nuestra plataforma de nuestro restaurante para que pueda verificar todo lo que tenemos.
         </td>
     </tr>
     <tr align="left">
@@ -1656,10 +1657,11 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Visualizar favoritos <br/>
-Dado de que el usuario desea verificar el restaurante favorito que eligió<br/>
-Cuando el usuario ingresa a la vista de "Restaurantes" y le da como favorito al restaurante<br/>
-Entonces el sistema guardará el restaurante favorito en la lista de favoritos. <br/>
+<b>Scenario 1:</b> Visualizar pagina oficial <br/>
+Dado de que el usuario desea que otros usuarios visiten su pagina del restaurante<br/>
+Cuando el usuario ingrese a la vista de "Restaurantes"<br/>
+Y le da al boton de "Visitar"<br/>
+Entonces el sistema redirigirá al usuario a un url externo de la pagina del restaurante. <br/>
 
  </td>
 </tr>
@@ -1720,7 +1722,7 @@ Entonces su reserva de tour habra sido cancelada exitosamente<br/>
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Visualización de reserva de tour
         </td>
     </tr>
     <tr align="left">
@@ -1750,7 +1752,7 @@ Entonces su reserva de tour habra sido cancelada exitosamente<br/>
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Notificacion de recomendacion <br/>
+<b>Scenario 1:</b> Recomendaciones <br/>
 Dado que el usuario quiere que la plataforma le notifique recomendaciones personalizadas de restaurantes<br/>
 Cuando el usuario ingrese al apartado de notificaciones y habilite la opcion "Recibir recomendaciones de tours" <br/>
 Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus preferencias<br/>
@@ -1814,10 +1816,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             18
         </td>
         <td>
-            Visualización de restaurantes favoritos
+            Ruta de la pagina oficial de restaurante
         </td>
         <td>
-            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
+            Como dueño de restaurante, quiero que el usuario pueda redirigirse a nuestra plataforma de nuestro restaurante para que pueda verificar todo lo que tenemos.
         </td>
         <td>
             3
@@ -1902,7 +1904,7 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             Registro de restaurante
         </td>
         <td>
-            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+            Como propietario de restaurante, quiero registrar mi restaurante en el sistema para se parte de la plataforma y dar la posibilidad de ayudar a los usuarios.
         </td>
         <td>
             5
@@ -1916,10 +1918,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             16
         </td>
         <td>
-            Calificación y comentarios de experiencia
+            Calificación de la experiencia
         </td>
         <td>
-            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+            Como usuario, quiero verificar la valoración del tour para ver si mi experiencia puede ser satisfactoria.
         </td>
         <td>
             2
@@ -2086,10 +2088,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             12
         </td>
         <td>
-            Comunicación con soporte
+            Lista de reservas realizadas
         </td>
         <td>
-            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+            Como usuario, quiero verificar toda la lista de reservas realizadas para resolver mi duda sobre las compras que he realizado.
         </td>
         <td>
             3
@@ -2120,10 +2122,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             09
         </td>
         <td>
-            Filtros de búsqueda de tour gastronómico
+            Información de pago de tour gastronómico
         </td>
         <td>
-            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+            Como cliente, quiero saber más información acerca del costo del tour, para planificar mi presupuesto de viaje adecuadamente.
         </td>
         <td>
             2
@@ -2134,8 +2136,7 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
 
 <br><br>
 
-Link del Trello:
-https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+Link del Trello: https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
 
 # Capítulo IV: Product Design
 
@@ -2453,7 +2454,7 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/DiagramaClases.png" alt="Imagen del diagrama de clases" width="900"></td>
+<td><img src="Images/Diagrama de clases.png" alt="Imagen del diagrama de clases" width="1300"></td>
 
 ### 4.7.2. Class Dictionary
 
@@ -2714,45 +2715,6 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
   </tr>
   </table>
 
-  <table>
-    <td colspan= "3" align="center">TastyTourSystem</td>
-<tr>
-    <td>void</td>
-    <td>vistaInicioSesion()</td>
-    <td>Pantalla de inicio de sesión</td>
-  </tr>
-    <tr>
-    <td>void</td>
-    <td>vistaPerfilUsuario()</td>
-    <td>Pantalla del perfil del usuario</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaTours()</td>
-    <td>Pantalla de la lista de tours disponibles</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaPlanSuscripcion</td>
-    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaSoporte()</td>
-    <td>Pantalla de el el soporte de nuestra plataforma</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaGuía()</td>
-    <td>Pantalla de la guía</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaNovedades()</td>
-    <td>Pantalla de las novedades de la plataforma</td>
-  </tr>
-</table>
-
 <table>
     <td colspan= "3" align="center">Restaurante</td>
   <tr>
@@ -2773,70 +2735,70 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 </table>
 
 <table>
-    <td colspan= "3" align="center">VisitaMercado</td>
-  <tr>
-    <td>int</td>
-    <td>idMercado</td>
-    <td>Identificador</td>
-  </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Restaurantes</td>
-  <tr>
-    <td>int</td>
-    <td>idRestaurant</td>
-    <td>Identificador</td>
-  </tr>
-</table>
-
-<table>
     <td colspan= "3" align="center">Clases</td>
   <tr>
     <td>int</td>
     <td>idClass</td>
     <td>Identificador</td>
   </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Soporte</td>
-<tr>
-    <td>string</td>
-    <td>titulo</td>
-    <td>Nombre del asunto</td>
-  </tr>
   <tr>
     <td>string</td>
-    <td>email</td>
-    <td>Correo del usuario</td>
-  </tr>
-  <tr>
-    <td>string</td>
-    <td>mensaje</td>
-    <td>Mensaje del usuario</td>
+    <td>tituloClase</td>
+    <td>Titulo de la clase</td>
   </tr>
   <tr>
     <td>int</td>
-    <td>phoneEmpresa</td>
-    <td>Vista del número telefonico de la empresa</td>
+    <td>duración</td>
+    <td>Duración de la clase</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Instructor</td>
+  <tr>
+    <td>int</td>
+    <td>idInstructor</td>
+    <td>Identificador</td>
   </tr>
   <tr>
     <td>string</td>
-    <td>emailEmpresa</td>
-    <td>vista del email de la empresa</td>
+    <td>firstName</td>
+    <td>Nombre del instructor</td>
   </tr>
   <tr>
-    <td>void</td>
-    <td>enviarEmail()</td>
-    <td>Función que hará el usuario al enviar su correo a TasteTeam</td>
-  </tr><tr>
-    <td>void</td>
-    <td>contactos()</td>
-    <td>Lista de contactos de TasteTeam</td>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del instructor</td>
   </tr>
-
-  </table>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Valoración del instructor</td>
+  </tr>
+</table>
+<table>
+    <td colspan= "3" align="center">Reserva</td>
+  <tr>
+    <td>int</td>
+    <td>idReserva</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>nombreTour</td>
+    <td>Nombre del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Duración del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>precio</td>
+    <td>Precio del tour</td>
+  </tr>
+</table>
 
 ## 4.8. Database Design
 
@@ -2943,7 +2905,9 @@ URL del repositorio del Report en GitHub: https://github.com/SI729-2401-WS53-Gru
 
 URL del repositorio del Landing Page en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
-URL del repositorio del Frontend en Github: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
+URL del repositorio del Frontend en Github: https://github.com/SI729-2401-WS53-Grupo-4/front-end.git
+
+URL del repositorio del Backend en Github: https://github.com/SI729-2401-WS53-Grupo-4/platform/tree/develop
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -3430,9 +3394,9 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
             <b>Review Summary</b>
         </td>
         <td>
-            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
+            De acuerdo a la definición de nuestro proyecto y objetivo, se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
             </br></br>
-            El Frontend se implementó parcialmente.  
+            El Frontend se implementó exitosamente.  
         </td>
     </tr>
     <tr align="left">
@@ -3785,66 +3749,65 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 ## Login
 
-<td><img src="Images/homepage2.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Login.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Register
 
-<td><img src="Images/homepage.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Register.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Home
 
-<td><img src="Images/homepage3.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Home.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Profile
 
-<td><img src="Images/profilepage.png" alt="Imagen de pagina profile" width="1500"></td>
+<td><img src="Images/Profile.png" alt="Imagen de pagina profile" width="1500"></td>
 
 ## Plan de suscripción
 
-<td><img src="Images/suscripcionpage.png" alt="Imagen de pagina profile" width="1500"></td>
+<td><img src="Images/Suscription.png" alt="Imagen de pagina profile" width="1500"></td>
 
 ## Tour Home
 
-<td><img src="Images/Tourpage.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tour.png" alt="Imagen de pagina tours" width="1500"></td>
 
-## Tour Payment
-
-<td><img src="Images/Tourpage2.png" alt="Imagen de pagina tours" width="1500"></td>
-
-<td><img src="Images/Tourpage3.png" alt="Imagen de pagina tours" width="1500"></td>
-
-<td><img src="Images/Tourpage4.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tour2.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Tour Info
 
-<td><img src="Images/Tourpage5.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourinfo.png" alt="Imagen de pagina tours" width="1500"></td>
 
-<td><img src="Images/Tourpage6.png" alt="Imagen de pagina tours" width="1500"></td>
+## Tour Process Payment
 
-<td><img src="Images/Tourpage7.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourprocess.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Tour Payment
+
+<td><img src="Images/tourpayment.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Tour Confirmation
 
-<td><img src="Images/Tourpage8.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourconfirm.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Booking
+
+<td><img src="Images/reservas.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Restaurant
 
-<td><img src="Images/restaurant-page.png" alt="Imagen de pagina restaurante" width="1500"></td>
+<td><img src="Images/Restaurants.png" alt="Imagen de pagina restaurante" width="1500"></td>
 
-<td><img src="Images/restaurant-page2.png" alt="Imagen de pagina restaurante" width="1500"></td>
+<td><img src="Images/Restaurants2.png" alt="Imagen de pagina restaurante" width="1500"></td>
 
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
-**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
-**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
-**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
+**Link de el Frontend**: https://tastetourproyect.web.app </td>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
+Para el desarrollo del FrontEnd, se utilizaron las siguientes texnologías:
 
 - HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
 - CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
@@ -3890,7 +3853,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
             <b>Date</b>
         </td>
         <td>
-            22/04/24         
+            21/05/24         
         </td>
     </tr>
        <tr align="left">
@@ -3906,7 +3869,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
             <b>Location</b>
         </td>
         <td>
-            Modalidad remota por Discord      
+            Reuniones por WhatsApp y universidad      
         </td>
     </tr>
      </tr>
@@ -3933,22 +3896,22 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
       </tr>
        <tr align="left">
         <td>
-            <b>Sprint n - 2</b>
+            <b>Sprint n - 3</b>
             <b>Review Summary</b>
         </td>
         <td>
-            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
+            Se definen las bases del proyecto con los features establecidos y bounded context para cada integrante, centradas en el desarrollo del BackEnd para la plataforma TasteTour.
             </br></br>
-            El Frontend se implementó parcialmente.  
+            Cada integrante avanzará con su propio backend, para luego enlazarlo 
         </td>
     </tr>
     <tr align="left">
         <td>
-            <b>Sprint n - 2</b>
+            <b>Sprint n - 3</b>
             <b>Retrospective Summary</b>
         </td>
         <td>
-        Se logró mantener una comunicación entre los integrantes del equipo gracias al uso de plataformas como Discord y Whatsapp. Sin embargo, se debe mejorar el aspecto de la organización y el aspecto del frontend, para terminar las próximas tareas sin estar al límite del deathline.
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, no hay un avance con respecto a la implementación del frontend junto con la backend, pero se tiene la base para poder implementarlo en la entrega final.
         </td>
     </tr>
      <tr align="left">
@@ -3958,7 +3921,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
     </tr>
       <tr align="left">
         <td>
-            <b>Sprint 2 Velocity</b>
+            <b>Sprint 3 Velocity</b>
         </td>
         <td>
             7
@@ -4293,10 +4256,6 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
-**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
-**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
-**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
@@ -4394,7 +4353,7 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 
 - Link del repositorio del landing page: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
-- Link del repositorio del frontend: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
+- Link del repositorio del frontend: https://github.com/SI729-2401-WS53-Grupo-4/front-end.git
 
 - Link del Trello:
 https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
@@ -4405,14 +4364,8 @@ https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE010
 
 - Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
 
-- Link de la landing page desployada: https://landing-page-three-theta.vercel.app
+- Link de la landing page deployada: https://landing-page-three-theta.vercel.app
 
 - Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
 
-- Link de el Frontend (Tour-Page):https://tour-page-202019577.web.app/tour-list
-
-- Link de el Frontend (Restaurant-page):https://restaurant-page-20211c273.web.app
-
-- Link de el Frontend (Profile-page):https://profile-page-20231b547.web.app/profile-inputs
-
-- Link de el Frontend (Home-page): https://home-page-202014249-77533.web.app
+- Link de el Frontend deployado: https://tastetourproyect.web.app
