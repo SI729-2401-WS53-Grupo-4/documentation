@@ -23,7 +23,7 @@
 | :------------------------------- | :--------: |
 | Aliaga Pimentel, George Arturo   | U20211c273 |
 | Chirinos Arevalo, Daniel Rodrigo | U202019577 |
-| Vittorio Marcelo Eduardo Espinoza| U202120448 |
+| Vittorio Marcelo Eduardo Espinoza| u20231b547 |
 | Sagastegui Rodriguez, Luis Jesus | U202014249 |
 
 </div>
@@ -4384,14 +4384,13 @@ Resumen de la entrevista:
 - **Profesor:** Naldo Reupo-Musayon Gastulo
 - **Auditores:**
   - Daniel Rodrigo Chirinos Arevalo
-  - George Aliaga 
-  - Vittorio Eduardo
+  - Aliaga Pimentel, George Arturo
+  - Vittorio Marcelo Eduardo Espinoza
 - **Clientes:**
-  - Nelson Elías Serrano Ircañaupa
-  - Carlos Andres Rojas Ccama
-  - Jhan Clinton Antonio Salazar
-  - Luis Enrique Aquije Quiroga
-  - Leonel Alfaro Cumba
+  - Fabian Solis Perez
+  - Luis Alejandro Thomburne
+  - Adrian Zapata Mongrut
+  - Karla Guillen
 - **Aplicación a Evaluar:** TasteTour
 
 ## Descripción:
