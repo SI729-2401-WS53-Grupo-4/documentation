@@ -180,7 +180,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <td><b>Conclusiones</b></td>
 </tr>
 <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td><b>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</b></td>
     <td>TB1<br>
     <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
@@ -257,8 +257,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 
 </tr>
 <tr>
-<td><b>
-Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+<td><b>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</b></td>
 <td> TB1<br>
 <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
@@ -3326,6 +3325,8 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 
 ### 5.2.1. Sprint 2
 
+Para este sprint, se realizará toda la presentación del FrontEnd, junto con los componentes explicados en clase y entre otras cosas más, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente y por ultimo, el objetivo de este sprint es conseguir realizar el prototipado de nuestro FrontEnd funcional. 
+
 #### 5.2.1.1. Sprint Planning 2
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
@@ -3530,6 +3531,8 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
     <td>Done</td>
   </tr>
 </table>
+
+**Link del Trello para el Product BackLog**
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -4270,7 +4273,7 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Frontend. En dicho repositorio, el equipo ha creado diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza. Por ejemplo, la rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Backend. En dicho repositorio, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
 
@@ -4314,7 +4317,181 @@ A continuación se mostrarán las preguntas de acuerdo a nuestra plataforma.
 - ¿Que recomendaciones nos daría para mejorar la plataforma? (Para ambos)
 
 #### 5.3.2. Registro de Entrevistas
-#### 5.3.3. Evauluaciones según heurísticas
+
+<b>Entrevista 1</b><br/>
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Cliente**
+
+Resumen de la entrevista:
+
+<b>Entrevista 2</b><br/>
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Dueño de un Restaurante**
+
+Resumen de la entrevista:
+
+<b>Entrevista 3</b><br/>
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Dueño de un Restaurante**
+
+
+Resumen de la entrevista:
+
+<b>Entrevista 4</b><br/>
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation4.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Cliente**
+
+Resumen de la entrevista:
+
+
+<br/>
+
+**Video de validaciones en entrevistas**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+# Evaluación Heurística de FitShirt
+
+## Información General
+
+- **Carrera:** Ingeniería de Software
+- **Curso:** Desarrollo de Aplicaciones de Open Source
+- **Sección:** WX53
+- **Profesor:** Naldo Reupo-Musayon Gastulo
+- **Auditores:**
+  - Daniel Rodrigo Chirinos Arevalo
+  - George Aliaga 
+  - Vittorio Eduardo
+- **Clientes:**
+  - Nelson Elías Serrano Ircañaupa
+  - Carlos Andres Rojas Ccama
+  - Jhan Clinton Antonio Salazar
+  - Luis Enrique Aquije Quiroga
+  - Leonel Alfaro Cumba
+- **Aplicación a Evaluar:** TasteTour
+
+## Descripción:
+
+TasteTour es una aplicación de reserva de tours de restaurantes de todo el Perú
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Iniciar sesión
+3. Diseño de la página
+4. Ver tours e información
+5. Realizar reserva de tours
+6. Ver y editar tours reservados
+7. Visualización de restaurantes
+8. Edición de perfil de usuario
+9. Consistencia y coherencia de la interfaz
+
+## Tareas No Incluidas en Esta Versión de la Evaluación
+
+1. Recuperar contraseña en caso de olvido
+2. Cerrar Sesión
+3. Adquirir suscripción Premium 
+4. Soporte de múltiples idiomas
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## Problemas Encontrados y Descripción Detallada
+
+| Problema | Severidad | Heurística/Principio Violado |
+|----------|-----------|------------------------------|
+| Falta de botón de “Inicio” que sea claro | 2 | Visibility of system status: Reconocimiento antes que recuerdo |
+| Diseño demasiado simple en la página de inicio | 3 | Aesthetic and Minimalist Design |
+| Inconsistencia del lenguaje en la interfaz | 3 | Consistency and Standards |
+| Diseño simple y falta de información en el apartado de restaurantes | 3 | Aesthetic and Minimalist Design |
+| Imposibilidad de seleccionar tiempo/horario en la reserva de tours | 4 | Usability: Control y Libertad del Usuario |
+
+### Descripción Detallada de Cada Problema
+
+**Problema #1**
+Falta de botón de “Inicio” que sea claro
+- **Severidad:** 2
+- **Problema:** La página web no tiene un botón de "Inicio" visible en el toolbar. Aunque el logo lleva a la página de inicio, no está claramente indicado que se pueda hacer clic en él para esta funcionalidad. Esto hace que los usuarios no puedan reconocer fácilmente cómo volver a la página de inicio, lo que puede causar confusión y aumentar la carga cognitiva al obligarlos a recordar o descubrir por ensayo y error esta característica.
+- **Recomendación:** Incluir un botón o enlace claramente etiquetado como "Inicio" en el toolbar para proporcionar una indicación clara y visible de cómo los usuarios pueden volver a la página de inicio.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 1.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #2**
+Diseño demasiado simple en la página de inicio
+- **Severidad:** 3
+- **Problema:** La página de inicio presenta un diseño demasiado simple. Aunque tiene imágenes atractivas de los tours, carece de elementos que guíen al usuario y mejoren la experiencia de navegación. No hay llamados a la acción claros ni detalles adicionales sobre los tours.
+- **Recomendación:** Añadir íconos o gráficos que representen los diferentes tours y sus características, mejorando la atractividad visual y la comprensión rápida de las opciones disponibles.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 2.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #3**
+Incosistencia del lenguaje en la interfaz
+- **Severidad:** 3
+- **Problema:** La página web presenta una mezcla de idiomas en su contenido, con algunos elementos en español y otros en inglés. Esto puede causar confusión en los usuarios, especialmente en aquellos que no son bilingües, y reduce la profesionalidad percibida del sitio.
+- **Recomendación:** Definir un idioma principal para la interfaz y realizar una revisión completa para asegurar que todos los elementos sean consistentes. Implementar una solución de internacionalización para soportar múltiples idiomas de manera coherente.
+- **Heurística/Principio Violado:** Consistency and Standards
+
+**Image del Problema**
+<td><img src="Images/Heuristica 3.png" alt="Imagen de la Heuristica" width="900"></td>
+
+<td><img src="Images/Heuristica 4.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #4**
+Diseño simple y falta de información en el apartado de restaurantes
+- **Severidad:** 3
+- **Problema:** El apartado de restaurantes muestra únicamente una foto del restaurante/plato, nombre del restaurante, una breve descripción y un botón para visitar. El diseño es demasiado simple y no proporciona suficiente información o elementos interactivos para atraer al usuario.
+- **Recomendación:** Añadir más información relevante (descripción detallada, valoraciones, etiquetas de comida), elementos visuales atractivos (galería de imágenes, videos), y características interactivas (botón de reserva, mapa integrado). Asegurarse de que el diseño sea coherente con el resto de la aplicación y accesible para todos los usuarios.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 5.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #5**
+Imposibilidad de seleccionar tiempo/horario en la reserva de tours
+- **Severidad:** 4
+- **Problema:** En el proceso de reserva de tours, existen dos opciones para seleccionar el tiempo/horario, pero ninguna de ellas permite ser seleccionada. Como resultado, el sistema salta directamente a la parte de pago sin permitir al usuario elegir un horario.
+- **Recomendación:** Implementar validaciones que verifiquen que un horario ha sido seleccionado antes de permitir al usuario continuar al siguiente paso.
+- **Heurística/Principio Violado:** Usability - Control y Libertad del Usuario.
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 6.png" alt="Imagen de la Heuristica" width="900"></td>
+
 
 ### 5.4. Video About-the-Product
 
