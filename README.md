@@ -40,6 +40,7 @@
 | :-----: | :---: | :---: | :-------------------------- |
 |    TB1     |   08/04    |   Todo el team    |     Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (User persona, User story, Product Backlog, Impact Mapping, entre otros) y se implementó la landing page. |
 |    TP     |   28/04    |   Todo el team    |     Se corrigieron las observaciones dadas por el profesor y se realizó el frontend de acuerdo a los user stories establecidos. |
+|    TB2     |   09/06    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza  |     Se corrigieron las observaciones dadas por el profesor del trabajo parcial, tambien se realizó el avance de componentes de la Backend, dividiendolo en base a bounded context. |
 
 </div>
 
@@ -146,15 +147,24 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-   - [5.2.1. Sprint 2](#521-sprint-2)
-    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   - [5.2.3. Sprint 3](#521-sprint-2)
+    - [5.2.3.1. Sprint Planning 2](#5211-sprint-planning-2)
+    - [5.2.3.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -3803,6 +3813,10 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 <td><img src="Images/Restaurants2.png" alt="Imagen de pagina restaurante" width="1500"></td>
 
 
+## Link del Funcionamiento del FrontEnd:
+
+**Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Edtvdpe9WrBNut3_p3WXBQcBnRgq56zIeE8riBUOF5P73Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S3SvNa
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -4320,6 +4334,8 @@ A continuación se mostrarán las preguntas de acuerdo a nuestra plataforma.
 
 <b>Entrevista 1</b><br/>
 
+**Nombre del entrevistado:** Fabian Solis Perez
+
 Evidencia de la reunión:
 
 <div align="center">
@@ -4330,7 +4346,12 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
+Fabián Solís Pérez, un estudiante de gastronomía con experiencia en cocina, proporcionó comentarios detallados sobre la plataforma TasteTour durante su interacción con la página. Elogió el nombre y la presentación general del sitio, pero sugirió mejoras en la parte visual, especialmente en la descripción de los tours. Recomendó ajustar la redacción para mayor claridad y coherencia, así como mejorar la selección de imágenes para representar cada destino de manera más efectiva. También señaló aspectos positivos, como la concisión de la información en la sección de reservas y la utilidad de la sección de restaurantes. En general, consideró que la plataforma tiene un buen comienzo pero necesita algunos ajustes para mejorar la experiencia del usuario y cumplir completamente con sus objetivos.
+
+
 <b>Entrevista 2</b><br/>
+
+**Nombre del entrevistado:** Adrían Zapata
 
 Evidencia de la reunión:
 
@@ -4342,7 +4363,12 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
+Adrián Zapata, el dueño de un restaurante, proporcionó una valiosa retroalimentación sobre la plataforma TasteTour durante la entrevista. Comenzó sugiriendo mejoras visuales, como fondos dinámicos y botones informativos en cada parte del tour para brindar detalles sobre las regiones visitadas. Además, recomendó agregar opciones de calendario para facilitar la selección de fechas de reserva y tarifas variables según la demanda. Zapata destacó la importancia de la retroalimentación crítica de los usuarios y propuso mejoras en la accesibilidad, la funcionalidad móvil y la visualización de información relevante para dueños de restaurantes. En general, consideró que la plataforma tiene un gran potencial, pero sugirió pulir algunos aspectos para mejorar la experiencia tanto para los clientes como para los propietarios de restaurantes.
+
+
 <b>Entrevista 3</b><br/>
+
+**Nombre del entrevistado:** Carla Guillen
 
 Evidencia de la reunión:
 
@@ -4355,7 +4381,11 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
+Carla Guillén, dueña del restaurante Mar Azul, compartió sus impresiones sobre la plataforma TasteTour durante la entrevista. Consideró que la plataforma es fácil de usar y apreció la calidad visual de las fotos. Opinó que la plataforma es intuitiva para los usuarios y destacó la elección de colores cálidos. Sugirió destacar a los chefs y proporcionar información sobre cómo llegar a los restaurantes. Valoró positivamente el prototipo del proyecto y creyó que cumplirá con su objetivo. Recomendó tener una versión móvil de la plataforma y expresó su disposición a recomendar su uso. Finalmente, sugirió agregar información sobre ubicación y rutas para llegar a los puntos de interés gastronómico.
+
 <b>Entrevista 4</b><br/>
+
+**Nombre del entrevistado:** Luis Alejandro Thomburne
 
 Evidencia de la reunión:
 
@@ -4367,10 +4397,12 @@ Evidencia de la reunión:
 
 Resumen de la entrevista:
 
+Durante la entrevista, Luis Alejandro Thomburne Vidales expresó sus impresiones sobre la plataforma TasteTour. Aunque encontró la propuesta interesante, hizo algunas observaciones sobre la información proporcionada en la plataforma. Sugirió que se incluyan más detalles sobre los mercados locales a visitar y las recetas que se aprenderán. Además, señaló que la intuitividad de la plataforma podría mejorarse, especialmente en la navegación entre diferentes tipos de tours. Respecto a los colores utilizados en la plataforma, sugirió algunos ajustes para mejorar la experiencia visual. Estuvo de acuerdo en que la plataforma debería tener una versión para dispositivos móviles y expresó su disposición a recomendar su uso a amigos y familiares interesados en explorar la gastronomía peruana.
+
 
 <br/>
 
-**Video de validaciones en entrevistas**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p
+**Video de validaciones en entrevistas**: <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p"> Click para ver entrevistas </a>
 
 #### 5.3.3. Evaluaciones según heurísticas
 
@@ -4381,7 +4413,7 @@ Resumen de la entrevista:
 - **Carrera:** Ingeniería de Software
 - **Curso:** Desarrollo de Aplicaciones de Open Source
 - **Sección:** WX53
-- **Profesor:** Naldo Reupo-Musayon Gastulo
+- **Profesor:** Juan Antonio Flores Moroco
 - **Auditores:**
   - Daniel Rodrigo Chirinos Arevalo
   - Aliaga Pimentel, George Arturo
@@ -4494,6 +4526,10 @@ Imposibilidad de seleccionar tiempo/horario en la reserva de tours
 
 ### 5.4. Video About-the-Product
 
+<td><img src="Images/AboutTheProduct.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Link del About the Product**: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQWZmBKMRvRKgCzOgrhD8DgBJZzJFZDzULgb5YboBJ41Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N3O5Hp">Click para ir al Link</a>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -4506,6 +4542,7 @@ Imposibilidad de seleccionar tiempo/horario en la reserva de tours
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
 - Se definió el frontend de la plataforma
 - Se avanzó el backend de nuestro proyecto
+- Hemos identificado los componentes que se utilizan en la backend y en el frontend, fue una tarea dificil pero a la vez un reto que se puede superar.
 
 <br><br>
 
@@ -4542,6 +4579,10 @@ https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE010
 
 - Link de la landing page deployada: https://landing-page-three-theta.vercel.app
 
+- Link del funcionamiento del FrontEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Edtvdpe9WrBNut3_p3WXBQcBnRgq56zIeE8riBUOF5P73Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S3SvNa
+
 - Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
 
 - Link de el Frontend deployado: https://tastetourproyect.web.app
+  
+- Link About the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQWZmBKMRvRKgCzOgrhD8DgBJZzJFZDzULgb5YboBJ41Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N3O5Hp
