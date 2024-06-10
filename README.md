@@ -4195,6 +4195,38 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     <td>Vittorio Eduardo</td>
     <td>In-process</td>
   </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Crear command para realizar la aplicación del restaurante a tour</td>
+    <td>4</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Crear command para realizar la aplicación del restaurante a tour</td>
+    <td>4</td>
+    <td>GeorgeAliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Implementarlo en el FrontEnd</td>
+    <td>5</td>
+    <td>Daniel Chirinos</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Implementarlo en el FrontEnd</td>
+    <td>5</td>
+    <td>George Aliaga</td>
+    <td>In-process</td>
+  </tr>
 </table>
 
 **Link del Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
@@ -4212,7 +4244,7 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
         <th>Time ago</th>
     </tr>
     <tr>
-        <td rowspan=19>Frontend</td>
+        <td rowspan=19>BackEnd</td>
         <td>master</td>
         <td>752bc1b</td>
         <td>Daniel Chirinos</td>
@@ -4220,95 +4252,179 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
         <td>26/04/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>923e5d2</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>8207f86</td>
         <td>Daniel Chirinos</td>
-        <td>Updated Tour feature</td>
-        <td>26/04/2024</td>
+        <td>added aggregates</td>
+        <td>31/05/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>5a76843</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>1ac8c7d</td>
         <td>Daniel Chirinos</td>
-        <td>Updated Feature/tour-implementation</td>
-        <td>26/04/2024</td>
+        <td>Updated boundedContextTour</td>
+        <td>01/06/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>bbf4116</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>3f8a04c</td>
         <td>Daniel Chirinos</td>
-        <td>Updated Feature/tour-implementation</td>
-        <td>26/04/2024</td>
+        <td>add folders</td>
+        <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>ffba3fd</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>508b91b</td>
         <td>Daniel Chirinos</td>
-        <td>updated feature/tour-implementation</td>
-        <td>29/04/2024</td>
+        <td>Added new valueObjects</td>
+        <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>4b8ab1a</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>e364d0a</td>
         <td>Daniel Chirinos</td>
-        <td>added tourpayment on feature/tour-implementation</td>
-        <td>29/04/2024</td>
+        <td>Backend Works partially</td>
+        <td>02/06/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>99ebd1e</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>9405327</td>
         <td>Daniel Chirinos</td>
-        <td>updated feature/tour-implementation</td>
-        <td>30/04/2024</td>
+        <td>Backend working (tour)</td>
+        <td>03/06/2024</td>
     </tr>
     <tr>
-        <td>feature/tour-implementation</td>
-        <td>d2012fe</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>a7e1e7e</td>
         <td>Daniel Chirinos</td>
-        <td>added environments feature/tour-implementation</td>
-        <td>30/04/2024</td>
+        <td>Backed Tour working</td>
+        <td>03/06/2024</td>
     </tr>
     <tr>
-        <td>feature/restaurantes-implementation</td>
-        <td>b84bb82</td>
+        <td>feature/tour-boundedcontext</td>
+        <td>1c0b5a3</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour controller modify</td>
+        <td>07/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>fbfc2d8</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour boundedcontext updated</td>
+        <td>07/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>431e328</td>
+        <td>Daniel Chirinos</td>
+        <td>Added PutMapping endpoint</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>2c7e28f</td>
+        <td>Daniel Chirinos</td>
+        <td>modify mapping requests</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>7895e07</td>
         <td>George Aliaga</td>
-        <td>Updated feature/restaurant-implementation</td>
-        <td>28/04/2024</td>
+        <td>Administrator aggregate</td>
+        <td>30/05/2024</td>
     </tr>
     <tr>
-        <td>feature/restaurantes-implementation</td>
-        <td>8e6a20a</td>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>bb2faa4</td>
         <td>George Aliaga</td>
-        <td>page/restaurant-list</td>
-        <td>29/04/2024</td>
+        <td>AdministratorID valueobject added</td>
+        <td>30/05/2024</td>
     </tr>
     <tr>
-        <td>feature/restaurantes-implementation</td>
-        <td>ce8c695</td>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>21a41a0</td>
         <td>George Aliaga</td>
-        <td>updated restaurant-list</td>
-        <td>30/04/2024</td>
+        <td>Reservation and Review entities created</td>
+        <td>31/05/2024</td>
     </tr>
     <tr>
-        <td>feature/profile-implementation</td>
-        <td>8e6a20a</td>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>6ab452c</td>
+        <td>George Aliaga</td>
+        <td>Commands added</td>
+        <td>31/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>0986408</td>
+        <td>George Aliaga</td>
+        <td>Modified Entities, Queries and Added Services</td>
+        <td>09/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>9b16b66</td>
+        <td>George Aliaga</td>
+        <td>Added Restaurant controller</td>
+        <td>09/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>4a215a4</td>
         <td>Vittorio Eduardo</td>
-        <td>Updated feature/profile-implementation</td>
-        <td>28/04/2024</td>
+        <td>Updated boundedcontext</td>
+        <td>30/05/2024</td>
     </tr>
     <tr>
-        <td>feature/profile-implementation</td>
-        <td>1c959a4</td>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>f2653e5</td>
         <td>Vittorio Eduardo</td>
-        <td>Updated feature/profile-implementation</td>
-        <td>29/04/2024</td>
+        <td>added commands</td>
+        <td>31/05/2024</td>
     </tr>
     <tr>
-        <td>feature/home-implementation</td>
-        <td>7510cd6</td>
-        <td>Luis Sagastegui</td>
-        <td>Update-feature/home-implementation</td>
-        <td>30/04/2024</td>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>9b23ba2</td>
+        <td>Vittorio Eduardo</td>
+        <td>added queries</td>
+        <td>01/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>968bda3</td>
+        <td>Vittorio Eduardo</td>
+        <td>updated boundedcontext</td>
+        <td>02/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>ec000bc</td>
+        <td>Vittorio Eduardo</td>
+        <td>Backend User working</td>
+        <td>06/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>095a792</td>
+        <td>Vittorio Eduardo</td>
+        <td>User boundedcontext updated</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ff32ae7</td>
+        <td>Daniel Chirinos</td>
+        <td>Merge remote-tracking branch 'origin/feature/restaurant-boundedcontext' into develop</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1858fb8</td>
+        <td>Daniel Chirinos</td>
+        <td>AddRestaurantInTour Implemented</td>
+        <td>09/06/2024</td>
     </tr>
     
 </table>
