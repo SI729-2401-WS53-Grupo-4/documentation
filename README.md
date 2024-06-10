@@ -3676,81 +3676,109 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     </tr>
     <tr>
         <td rowspan=19>SI729-2401-WS53-testing</td>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
         <td>5445ac3</td>
         <td>US-05</td>
         <td>Feature: Pago seguro de reserva de tour</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
         <td>5b2255e</td>
         <td>US-06</td>
         <td>Feature: Visualización de paquetes de tours disponibles</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
         <td>0e585aa</td>
         <td>US-07</td>
         <td>Feature: Información detallada del tour</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
         <td>5e2e62d</td>
         <td>US-09</td>
         <td>Feature: Filtros de búsqueda de tour gastronómico</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
         <td>6bfb147</td>
         <td>US-11</td>
         <td>Feature: Elección de horarios de tour</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/home-implementation</td>
-        <td>5323a7d</td>
-        <td>Luis Jesus</td>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>474210e</td>
+        <td>US-18</td>
         <td>home-html</td>
-        <td>29/04/2024</td>
+        <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/about-us-implementation</td>
-        <td>0cc3d07</td>
-        <td>Daniel Chirinos</td>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>7ddfffb</td>
+        <td>US-17</td>
         <td>added about-us</td>
-        <td>29/04/2024</td>
+        <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>develop</td>
-        <td>1cc0193</td>
-        <td>Daniel Chirinos</td>
-        <td>Merge</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>9a5e172</td>
+        <td>US-13</td>
+        <td>Create US-13</td>
+        <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/tours-implementation</td>
-        <td>42011dd</td>
-        <td>George Aliaga</td>
-        <td>Added feature/tours</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>b785bdf</td>
+        <td>US-14</td>
+        <td>Create US-14</td>
+        <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/contact-implementation</td>
-        <td>acd839c</td>
-        <td>Vittorio Eduardo</td>
-        <td>added index.html</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-Vittorio-Eduardo</td>
+        <td>45d7e28</td>
+        <td>US-03</td>
+        <td>US-03</td>
+        <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/contact-implementation</td>
-        <td>30cfddb</td>
-        <td>Vittorio Eduardo</td>
-        <td>added styles.css</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-Vittorio-Eduardo</td>
+        <td>ab0e769</td>
+        <td>US-10</td>
+        <td>US-10</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>4c14876</td>
+        <td>US-01</td>
+        <td>US-01</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>0e84863</td>
+        <td>US-02</td>
+        <td>US-02</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>31ce549</td>
+        <td>US-08</td>
+        <td>US-08</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>27de741</td>
+        <td>US-18</td>
+        <td>US-18</td>
+        <td>14/05/2024</td>
     </tr>
     
 </table>
@@ -3830,6 +3858,28 @@ En este item, se va a presentar las pantallas realizadas por el equipo, cada pan
 **Link de el Frontend**: https://tastetourproyect.web.app </td>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
 
 Para el desarrollo del FrontEnd, se utilizaron las siguientes texnologías:
 
@@ -4610,6 +4660,50 @@ Durante este sprint, se realizó el avance de la documentación de Web Services.
 | /Api/TasteTour/restaurants  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|``{ "id": 1, "name": "..."`|  
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+<td><img src="Images/OpenApiEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+
+<td><img src="Images/DocEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+<td><img src="Images/DocEvidence2.png" alt="Imagen del deployment" width="1500"></td>
+
 
 Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
 
