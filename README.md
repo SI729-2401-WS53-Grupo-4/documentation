@@ -4637,6 +4637,7 @@ En este item, se va a presentar las interacciones con cada endpoint establecido 
 
 **Link de la ejecución:** <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm"> Click para ir al video de ejecución </a>
 
+**Link para ejecutar el Swagger:** http://localhost:8080/swagger-ui/index.html
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
