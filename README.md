@@ -4586,6 +4586,24 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 14 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+| Endpoint         | Acción      | Verbo HTTP | Sintaxis de Llamada        | Parámetros                       | Ejemplo de Response             | 
+|------------------|-------------|------------|----------------------------|----------------------------------|----------------------------------|
+| /Api/TasteTour/Tour/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`| `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Tour with given id successfully deleted " }`      | 
+| /Api/TasteTour/Tour/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|`{ "id": 1, "titleTour": "..."`|
+| /Api/TasteTour/User/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `firstName`, `lastName`, `password`, `location`,`birthdate`,`email`,`phone`| `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "User with given id successfully deleted " }`      | 
+| /Api/TasteTour/User/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User  | Obtener    | GET     | `/api/v1/users/{id}`|`name`, `location`, `time`, `description`|`{ "id": 1, "name": "..."`|
+| /Api/TasteTour/restaurants/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Restaurant with given id successfully deleted " }`      | 
+| /Api/TasteTour/restaurants/create  | Agregar  | POST        | `/api/v1/users/{id}`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|``{ "id": 1, "name": "..."`|  
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
