@@ -4270,6 +4270,78 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+## User Bounded Context
+
+**GET**
+
+<td><img src="Images/GetUser.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetUserId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2User.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2User.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/Delete1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Delete2User.png" alt="Imagen del insights" width="1500"></td>
+
+## Restaurant Bounded Context
+
+**GET**
+
+<td><img src="Images/GetRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetRestaurantId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Restaurant.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Restaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE**
+
+<td><img src="Images/DeleteRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+## Tour Bounded Context
+
+**GET**
+
+<td><img src="Images/GetTour.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetTourId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/DeleteTour.png" alt="Imagen del insights" width="1500"></td>
+
+**Link de la ejecución:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm
+
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -4289,11 +4361,11 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 
 Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Backend. En dicho repositorio, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
-<td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/GitflowBackend1.png" alt="Imagen del insights" width="1500"></td>
 
 **Contribuciones del equipo**
 
-<td><img src="Images/Insights 3.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/TeamCollabBackend.png" alt="Imagen del insights" width="1500"></td>
 
 <br><br>
 
@@ -4398,7 +4470,7 @@ Evidencia de la reunión:
 Resumen de la entrevista:
 
 Durante la entrevista, Luis Alejandro Thomburne Vidales expresó sus impresiones sobre la plataforma TasteTour. Aunque encontró la propuesta interesante, hizo algunas observaciones sobre la información proporcionada en la plataforma. Sugirió que se incluyan más detalles sobre los mercados locales a visitar y las recetas que se aprenderán. Además, señaló que la intuitividad de la plataforma podría mejorarse, especialmente en la navegación entre diferentes tipos de tours. Respecto a los colores utilizados en la plataforma, sugirió algunos ajustes para mejorar la experiencia visual. Estuvo de acuerdo en que la plataforma debería tener una versión para dispositivos móviles y expresó su disposición a recomendar su uso a amigos y familiares interesados en explorar la gastronomía peruana.
-
+   
 
 <br/>
 
