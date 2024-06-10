@@ -3755,15 +3755,17 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     
 </table>
 
-Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
+**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
 
-Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
+**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
 
-Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
+**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
 
-Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
+**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las pantallas realizadas por el equipo, cada pantalla está conectada y tiene sus propias funcionalidades, se realizó un video para mostrar la funcionalidad que realiza el FrontEnd.
 
 ## Login
 
@@ -4501,15 +4503,17 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     
 </table>
 
-Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos-Backend
+**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos-Backend
 
-Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga-Backend
+**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga-Backend
 
-Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo-Backend
+**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo-Backend
 
-Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui-Backend
+**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui-Backend
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto, se mostrarán los Bounded Context realizado por cada integrante del equipo. Además, se presentará un video explicando cada función que realiza los endpoints.
 
 ## User Bounded Context
 
