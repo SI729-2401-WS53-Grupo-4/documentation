@@ -23,7 +23,7 @@
 | :------------------------------- | :--------: |
 | Aliaga Pimentel, George Arturo   | U20211c273 |
 | Chirinos Arevalo, Daniel Rodrigo | U202019577 |
-| Vittorio Marcelo Eduardo Espinoza| U202120448 |
+| Vittorio Marcelo Eduardo Espinoza| u20231b547 |
 | Sagastegui Rodriguez, Luis Jesus | U202014249 |
 
 </div>
@@ -40,6 +40,7 @@
 | :-----: | :---: | :---: | :-------------------------- |
 |    TB1     |   08/04    |   Todo el team    |     Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (User persona, User story, Product Backlog, Impact Mapping, entre otros) y se implementó la landing page. |
 |    TP     |   28/04    |   Todo el team    |     Se corrigieron las observaciones dadas por el profesor y se realizó el frontend de acuerdo a los user stories establecidos. |
+|    TB2     |   09/06    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza  |     Se corrigieron las observaciones dadas por el profesor del trabajo parcial, tambien se realizó el avance de componentes de la Backend, dividiendolo en base a bounded context. |
 
 </div>
 
@@ -146,15 +147,29 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-   - [5.2.1. Sprint 2](#521-sprint-2)
-    - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+   - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+   - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+    - [5.4 Video About-the-Product](#54-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -180,7 +195,7 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <td><b>Conclusiones</b></td>
 </tr>
 <tr>
-    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td><b>Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</b></td>
     <td>TB1<br>
     <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
@@ -225,25 +240,45 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
     - Realicé las correciones dadas por el docente, se pudo mejorar los User stories.<br/>    
     <br>
+    TB2<br>
+    <b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el tour-bounded-context.<br/>
+        <br>
+    <b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el restaurant-bounded-context.<br/>
+        <br>
+    <br>
+    <b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+        - Realicé mis tareas asignadas<br/>
+    <br>
+    <b>Vittorio Marcelo Eduardo Espinoza</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el user-bounded-context.<br/>
+        <br>
     <td>TB1<br>
     Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
-    <br>
-    TP<br>
-    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega
+    <br>TP<br>
+    Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega<br>
+    <br>TB2<br>
+    Se corrigieron varios artefactos que se pedían en la entrega pasada y tambien se realizó el avance de nuestro backend.
     </td>
-    
+    </td>
 
 </tr>
 <tr>
-<td><b>
-Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+<td><b>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.</b></td>
 <td> TB1<br>
 <b>Chirinos Arevalo, Daniel Rodrigo</b>
         <br>
         -Desarrollé la hypothesis y canvas del Lean UX de acuerdo a nuestro problema.<br/>
         -Realicé el diagrama de clases, base de datos y el Domain-Driven Sotfware Arquitecture de acuerdo a la plataforma realizada.<br/>
         -Desarrollé algunos user stories y user personas de acuerdo a nuestros entrevistados.<br/>
-        -Desarrollé los Mock-ups y los user goals<br/>
         -Desarrollé los Mock-ups y los user goals<br/>
         <br><br>
 <b>Aliaga Pimentel, George Arturo</b>
@@ -272,7 +307,22 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
-    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>    
+    - Realicé el apartado de profile, esta pantalla mostrará los datos de perfil de usuario, a su vez, tendrá la posibilidad de modificar su profile en cualquier momento, tambien podrá añadir un metodo de pago en su cuenta, y tambien podrá comprar el plan de suscripción.<br/>
+<br> TB2<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Realicé mi avance de el backend de tours, la cual sirve para que cuando el usuario confirme su compra de su reserva de tour, se pueda almacenar en la base de datos.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+    -Realicé mi avance de el backend de restaurante, esta parte de mi avance sirve para que cuando el dueño quiera registrar su restaurante, automaticamente ingrese su restaurante en la base de datos.
+    <br><br>
+<b>Sagastegui Rodriguez, Luis Jesus</b>
+    <br>
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>         
 
 </td>
     <td>TB1
@@ -280,7 +330,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     Se identificó una oportunidad de negocio a partir de una problemática actual. A partir de ello, se comenzó a desarrollar una solución de software aplicando los conocimientos aprendidos en los diferentes cursos.
     <br><br>
     TP<br>
-    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.
+    Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.<br>
+    TB2<br>
+    Se realizó el avance de la programación interna de una pagina web de acuerdo a nuestros user stories.
     </td>
 </tr>
 </table>
@@ -1118,7 +1170,7 @@ Entonces el sistema mostrará las actividades, ubicación, restaurantes, instruc
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Vista General
         </td>
     </tr>
     <tr align="left">
@@ -1181,13 +1233,13 @@ Entonces el sistema lo redirigirá a la pantalla home y mostrará las pestañas 
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Filtros de búsqueda de tour gastronómico
+            Información de pago de tour gastronómico
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+            Como cliente, quiero saber más información acerca del costo del tour, para planificar mi presupuesto de viaje adecuadamente.
         </td>
     </tr>
     <tr align="left">
@@ -1322,13 +1374,13 @@ Entonces el sistema mostrará la información del tour junto con los horarios.<b
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Comunicación con soporte
+            Lista de reservas realizadas
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+            Como usuario, quiero verificar toda la lista de reservas realizadas para resolver mi duda sobre las compras que he realizado.
         </td>
     </tr>
     <tr align="left">
@@ -1336,10 +1388,11 @@ Entonces el sistema mostrará la información del tour junto con los horarios.<b
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Soporte de TasteTeam <br/>
-Dado que el usuario quiere contactase con el soporte de TasteTeam<br/>
-Cuando el usuario ingrese al apartado de "Soporte" y complete los datos de su consulta<br/>
-Entonces el sistema enviará el mensaje al equipo de soporte<br/>
+<b>Scenario 1:</b> Ver lista de reservas <br/>
+Dado que el usuario quiere verificar sus reservas<br/>
+Cuando el usuario ingrese a su perfil de usuario<br/>
+Y presiona al botón de "Ver reservas"<br/>
+Entonces el sistema redirigirá al usuario a la pantalla de reservas<br/>
 
  </td>
 </tr>
@@ -1375,7 +1428,7 @@ Entonces el sistema enviará el mensaje al equipo de soporte<br/>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+            Como propietario de restaurante, quiero registrar mi restaurante en el sistema para se parte de la plataforma y dar la posibilidad de ayudar a los usuarios.
         </td>
     </tr>
     <tr align="left">
@@ -1510,13 +1563,13 @@ Entonces el sistema mostrará una lista con todos los tours accedidos, así como
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Calificación y comentarios de experiencia
+            Calificación de la experiencia
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+            Como usuario, quiero verificar la valoración del tour para ver si mi experiencia puede ser satisfactoria.
         </td>
     </tr>
     <tr align="left">
@@ -1524,10 +1577,10 @@ Entonces el sistema mostrará una lista con todos los tours accedidos, así como
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Comentarios y calificación <br/>
-Dado que el usuario quiere dejar su valoración de las actividades de tour<br/>
-Cuando el usuario termine de realizar sus actividades en el tour<br/>
-Entonces el sistema le pedirá al usuario que valore el viaje<br/>
+<b>Scenario 1:</b> Calificación <br/>
+Dado que el usuario quiere verificar la valoración del tour<br/>
+Cuando el usuario vaya a la pantalla de tours<br/>
+Entonces el sistema mostrará la calificación de cada tour mostrado<br/>
 
  </td>
 </tr>
@@ -1604,13 +1657,13 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Título US</b>
         </td>
         <td colspan=2>
-            Visualización de restaurantes favoritos
+            Ruta de la pagina oficial de restaurante
         </td>
     </tr>
     <tr align="left">
         <td colspan=4>
             <b>Descripción:</b></br>
-            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
+            Como dueño de restaurante, quiero que el usuario pueda redirigirse a nuestra plataforma de nuestro restaurante para que pueda verificar todo lo que tenemos.
         </td>
     </tr>
     <tr align="left">
@@ -1618,10 +1671,11 @@ Entonces el usuario revisar todos los restaurantes disponibles en la zona del us
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Visualizar favoritos <br/>
-Dado de que el usuario desea verificar el restaurante favorito que eligió<br/>
-Cuando el usuario ingresa a la vista de "Restaurantes" y le da como favorito al restaurante<br/>
-Entonces el sistema guardará el restaurante favorito en la lista de favoritos. <br/>
+<b>Scenario 1:</b> Visualizar pagina oficial <br/>
+Dado de que el usuario desea que otros usuarios visiten su pagina del restaurante<br/>
+Cuando el usuario ingrese a la vista de "Restaurantes"<br/>
+Y le da al boton de "Visitar"<br/>
+Entonces el sistema redirigirá al usuario a un url externo de la pagina del restaurante. <br/>
 
  </td>
 </tr>
@@ -1682,7 +1736,7 @@ Entonces su reserva de tour habra sido cancelada exitosamente<br/>
             <b>Epic</b>
         </td>
         <td colspan=2>
-            Novedades
+            Visualización de reserva de tour
         </td>
     </tr>
     <tr align="left">
@@ -1712,7 +1766,7 @@ Entonces su reserva de tour habra sido cancelada exitosamente<br/>
             <b>Criterio de Aceptación:</b>
             <br/>
 
-<b>Scenario 1:</b> Notificacion de recomendacion <br/>
+<b>Scenario 1:</b> Recomendaciones <br/>
 Dado que el usuario quiere que la plataforma le notifique recomendaciones personalizadas de restaurantes<br/>
 Cuando el usuario ingrese al apartado de notificaciones y habilite la opcion "Recibir recomendaciones de tours" <br/>
 Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus preferencias<br/>
@@ -1776,10 +1830,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             18
         </td>
         <td>
-            Visualización de restaurantes favoritos
+            Ruta de la pagina oficial de restaurante
         </td>
         <td>
-            Como usuario, quiero verificar que el restaurante favorito que he elegido, esté en la lista de favoritos; para poder revisar la información del restaurante más tarde.
+            Como dueño de restaurante, quiero que el usuario pueda redirigirse a nuestra plataforma de nuestro restaurante para que pueda verificar todo lo que tenemos.
         </td>
         <td>
             3
@@ -1864,7 +1918,7 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             Registro de restaurante
         </td>
         <td>
-            Como propietario de resturante, quiero registrar mi restaurante en el sistema para poder empezar a utilizar las funciones relacionadas a este
+            Como propietario de restaurante, quiero registrar mi restaurante en el sistema para se parte de la plataforma y dar la posibilidad de ayudar a los usuarios.
         </td>
         <td>
             5
@@ -1878,10 +1932,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             16
         </td>
         <td>
-            Calificación y comentarios de experiencia
+            Calificación de la experiencia
         </td>
         <td>
-            Como usuario, quiero tener la opción de calificar y dejar comentarios sobre mi experiencia del tour para ayudar a otros usuarios en sus decisiones.
+            Como usuario, quiero verificar la valoración del tour para ver si mi experiencia puede ser satisfactoria.
         </td>
         <td>
             2
@@ -2048,10 +2102,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             12
         </td>
         <td>
-            Comunicación con soporte
+            Lista de reservas realizadas
         </td>
         <td>
-            Como usuario, quiero poder comunicarme fácilmente con el equipo de soporte de TasteTeam para resolver cualquier duda o problema durante mi experiencia de viaje.
+            Como usuario, quiero verificar toda la lista de reservas realizadas para resolver mi duda sobre las compras que he realizado.
         </td>
         <td>
             3
@@ -2082,10 +2136,10 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
             09
         </td>
         <td>
-            Filtros de búsqueda de tour gastronómico
+            Información de pago de tour gastronómico
         </td>
         <td>
-            Como cliente, quiero realizar búsquedas de tours a traves de filtros específicos, para poder encontrar tours que se adapten a mis intereses específicos.
+            Como cliente, quiero saber más información acerca del costo del tour, para planificar mi presupuesto de viaje adecuadamente.
         </td>
         <td>
             2
@@ -2096,8 +2150,7 @@ Entonces el usuario recibira notificaciones de recomendaciones de acuerdo a sus 
 
 <br><br>
 
-Link del Trello:
-https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+Link del Trello: https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
 
 # Capítulo IV: Product Design
 
@@ -2415,7 +2468,7 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/DiagramaClases.png" alt="Imagen del diagrama de clases" width="900"></td>
+<td><img src="Images/Diagrama de clases.png" alt="Imagen del diagrama de clases" width="1300"></td>
 
 ### 4.7.2. Class Dictionary
 
@@ -2676,45 +2729,6 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
   </tr>
   </table>
 
-  <table>
-    <td colspan= "3" align="center">TastyTourSystem</td>
-<tr>
-    <td>void</td>
-    <td>vistaInicioSesion()</td>
-    <td>Pantalla de inicio de sesión</td>
-  </tr>
-    <tr>
-    <td>void</td>
-    <td>vistaPerfilUsuario()</td>
-    <td>Pantalla del perfil del usuario</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaTours()</td>
-    <td>Pantalla de la lista de tours disponibles</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaPlanSuscripcion</td>
-    <td>Pantalla de el metodo de pago para el plan de suscripción</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaSoporte()</td>
-    <td>Pantalla de el el soporte de nuestra plataforma</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaGuía()</td>
-    <td>Pantalla de la guía</td>
-  </tr>
-  <tr>
-    <td>void</td>
-    <td>vistaNovedades()</td>
-    <td>Pantalla de las novedades de la plataforma</td>
-  </tr>
-</table>
-
 <table>
     <td colspan= "3" align="center">Restaurante</td>
   <tr>
@@ -2735,70 +2749,70 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 </table>
 
 <table>
-    <td colspan= "3" align="center">VisitaMercado</td>
-  <tr>
-    <td>int</td>
-    <td>idMercado</td>
-    <td>Identificador</td>
-  </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Restaurantes</td>
-  <tr>
-    <td>int</td>
-    <td>idRestaurant</td>
-    <td>Identificador</td>
-  </tr>
-</table>
-
-<table>
     <td colspan= "3" align="center">Clases</td>
   <tr>
     <td>int</td>
     <td>idClass</td>
     <td>Identificador</td>
   </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Soporte</td>
-<tr>
-    <td>string</td>
-    <td>titulo</td>
-    <td>Nombre del asunto</td>
-  </tr>
   <tr>
     <td>string</td>
-    <td>email</td>
-    <td>Correo del usuario</td>
-  </tr>
-  <tr>
-    <td>string</td>
-    <td>mensaje</td>
-    <td>Mensaje del usuario</td>
+    <td>tituloClase</td>
+    <td>Titulo de la clase</td>
   </tr>
   <tr>
     <td>int</td>
-    <td>phoneEmpresa</td>
-    <td>Vista del número telefonico de la empresa</td>
+    <td>duración</td>
+    <td>Duración de la clase</td>
+  </tr>
+</table>
+
+<table>
+    <td colspan= "3" align="center">Instructor</td>
+  <tr>
+    <td>int</td>
+    <td>idInstructor</td>
+    <td>Identificador</td>
   </tr>
   <tr>
     <td>string</td>
-    <td>emailEmpresa</td>
-    <td>vista del email de la empresa</td>
+    <td>firstName</td>
+    <td>Nombre del instructor</td>
   </tr>
   <tr>
-    <td>void</td>
-    <td>enviarEmail()</td>
-    <td>Función que hará el usuario al enviar su correo a TasteTeam</td>
-  </tr><tr>
-    <td>void</td>
-    <td>contactos()</td>
-    <td>Lista de contactos de TasteTeam</td>
+    <td>string</td>
+    <td>lastName</td>
+    <td>Apellido del instructor</td>
   </tr>
-
-  </table>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Valoración del instructor</td>
+  </tr>
+</table>
+<table>
+    <td colspan= "3" align="center">Reserva</td>
+  <tr>
+    <td>int</td>
+    <td>idReserva</td>
+    <td>Identificador</td>
+  </tr>
+  <tr>
+    <td>string</td>
+    <td>nombreTour</td>
+    <td>Nombre del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>duración</td>
+    <td>Duración del tour</td>
+  </tr>
+  <tr>
+    <td>int</td>
+    <td>precio</td>
+    <td>Precio del tour</td>
+  </tr>
+</table>
 
 ## 4.8. Database Design
 
@@ -2905,7 +2919,9 @@ URL del repositorio del Report en GitHub: https://github.com/SI729-2401-WS53-Gru
 
 URL del repositorio del Landing Page en GitHub: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
-URL del repositorio del Frontend en Github: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
+URL del repositorio del Frontend en Github: https://github.com/SI729-2401-WS53-Grupo-4/front-end.git
+
+URL del repositorio del Backend en Github: https://github.com/SI729-2401-WS53-Grupo-4/platform/tree/develop
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -3324,6 +3340,8 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 
 ### 5.2.1. Sprint 2
 
+Para este sprint, se realizará toda la presentación del FrontEnd, junto con los componentes explicados en clase y entre otras cosas más, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente y por ultimo, el objetivo de este sprint es conseguir realizar el prototipado de nuestro FrontEnd funcional. 
+
 #### 5.2.1.1. Sprint Planning 2
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
@@ -3392,9 +3410,9 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
             <b>Review Summary</b>
         </td>
         <td>
-            Se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
+            De acuerdo a la definición de nuestro proyecto y objetivo, se definieron las bases del proyecto con historias de usuario centradas en el desarrollo del Frontend y la lógica de funcionamiento de la plataforma TasteTour.
             </br></br>
-            El Frontend se implementó parcialmente.  
+            El Frontend se implementó exitosamente.  
         </td>
     </tr>
     <tr align="left">
@@ -3416,7 +3434,7 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            7
+            69
         </td>
     </tr>
        <tr align="left">
@@ -3424,7 +3442,7 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
             <b>Sum of Story Points</b>
         </td>
         <td>
-            15
+            69
         </td>
     </tr>
 </table>
@@ -3456,10 +3474,10 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
     <td>In-Process</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours</td>
     <td>Pantalla de confirmación</td>
-    <td>0.2</td>
+    <td>4</td>
     <td>Daniel Chirinos</td>
     <td>Done</td>
   </tr>
@@ -3491,7 +3509,7 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
     <td>US01</td>
     <td>Creación de cuenta</td>
     <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
-    <td>7.5</td>
+    <td>4</td>
     <td>Luis Sagastegui</td>
     <td>In-process</td>
   </tr>
@@ -3528,6 +3546,8 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
     <td>Done</td>
   </tr>
 </table>
+
+**Link del Trello para el Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -3645,72 +3665,223 @@ Hubieron problemas a la hora de realizar un _merge_ en los features, por lo tant
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-En el siguiente punto se realizaron las pruebas de nuestras paginas.
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=19>SI729-2401-WS53-testing</td>
+        <td>feature/tb2-Daniel-Chirinos</td>
+        <td>5445ac3</td>
+        <td>US-05</td>
+        <td>Feature: Pago seguro de reserva de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos</td>
+        <td>5b2255e</td>
+        <td>US-06</td>
+        <td>Feature: Visualización de paquetes de tours disponibles</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos</td>
+        <td>0e585aa</td>
+        <td>US-07</td>
+        <td>Feature: Información detallada del tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos</td>
+        <td>5e2e62d</td>
+        <td>US-09</td>
+        <td>Feature: Filtros de búsqueda de tour gastronómico</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos</td>
+        <td>6bfb147</td>
+        <td>US-11</td>
+        <td>Feature: Elección de horarios de tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>474210e</td>
+        <td>US-18</td>
+        <td>home-html</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>7ddfffb</td>
+        <td>US-17</td>
+        <td>added about-us</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>9a5e172</td>
+        <td>US-13</td>
+        <td>Create US-13</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga</td>
+        <td>b785bdf</td>
+        <td>US-14</td>
+        <td>Create US-14</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo</td>
+        <td>45d7e28</td>
+        <td>US-03</td>
+        <td>US-03</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo</td>
+        <td>ab0e769</td>
+        <td>US-10</td>
+        <td>US-10</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>4c14876</td>
+        <td>US-01</td>
+        <td>US-01</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>0e84863</td>
+        <td>US-02</td>
+        <td>US-02</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>31ce549</td>
+        <td>US-08</td>
+        <td>US-08</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui</td>
+        <td>27de741</td>
+        <td>US-18</td>
+        <td>US-18</td>
+        <td>14/05/2024</td>
+    </tr>
+    
+</table>
+
+**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
+
+**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
+
+**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
+
+**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+En este item, se va a presentar las pantallas realizadas por el equipo, cada pantalla está conectada y tiene sus propias funcionalidades, se realizó un video para mostrar la funcionalidad que realiza el FrontEnd.
+
 ## Login
 
-<td><img src="Images/homepage2.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Login.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Register
 
-<td><img src="Images/homepage.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Register.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Home
 
-<td><img src="Images/homepage3.png" alt="Imagen de pagina home" width="1500"></td>
+<td><img src="Images/Home.png" alt="Imagen de pagina home" width="1500"></td>
 
 ## Profile
 
-<td><img src="Images/profilepage.png" alt="Imagen de pagina profile" width="1500"></td>
+<td><img src="Images/Profile.png" alt="Imagen de pagina profile" width="1500"></td>
 
 ## Plan de suscripción
 
-<td><img src="Images/suscripcionpage.png" alt="Imagen de pagina profile" width="1500"></td>
+<td><img src="Images/Suscription.png" alt="Imagen de pagina profile" width="1500"></td>
 
 ## Tour Home
 
-<td><img src="Images/Tourpage.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tour.png" alt="Imagen de pagina tours" width="1500"></td>
 
-## Tour Payment
-
-<td><img src="Images/Tourpage2.png" alt="Imagen de pagina tours" width="1500"></td>
-
-<td><img src="Images/Tourpage3.png" alt="Imagen de pagina tours" width="1500"></td>
-
-<td><img src="Images/Tourpage4.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tour2.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Tour Info
 
-<td><img src="Images/Tourpage5.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourinfo.png" alt="Imagen de pagina tours" width="1500"></td>
 
-<td><img src="Images/Tourpage6.png" alt="Imagen de pagina tours" width="1500"></td>
+## Tour Process Payment
 
-<td><img src="Images/Tourpage7.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourprocess.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Tour Payment
+
+<td><img src="Images/tourpayment.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Tour Confirmation
 
-<td><img src="Images/Tourpage8.png" alt="Imagen de pagina tours" width="1500"></td>
+<td><img src="Images/tourconfirm.png" alt="Imagen de pagina tours" width="1500"></td>
+
+## Booking
+
+<td><img src="Images/reservas.png" alt="Imagen de pagina tours" width="1500"></td>
 
 ## Restaurant
 
-<td><img src="Images/restaurant-page.png" alt="Imagen de pagina restaurante" width="1500"></td>
+<td><img src="Images/Restaurants.png" alt="Imagen de pagina restaurante" width="1500"></td>
 
-<td><img src="Images/restaurant-page2.png" alt="Imagen de pagina restaurante" width="1500"></td>
+<td><img src="Images/Restaurants2.png" alt="Imagen de pagina restaurante" width="1500"></td>
 
+
+## Link del Funcionamiento del FrontEnd:
+
+**Link**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Edtvdpe9WrBNut3_p3WXBQcBnRgq56zIeE8riBUOF5P73Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S3SvNa
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-**Link de el Frontend (Tour-Page)**:https://tour-page-202019577.web.app/tour-list </td>
-**Link de el Frontend (Restaurant-page)**:https://restaurant-page-20211c273.web.app </td>
-**Link de el Frontend (Profile-page)**:https://profile-page-20231b547.web.app/profile-inputs </td>
-**Link de el Frontend (Home-page)**: https://home-page-202014249-77533.web.app </td>
+**Link de el Frontend**: https://tastetourproyect.web.app </td>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Para el desarrollo de la Landing page, se utilizaron las siguientes texnologías:
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+Para el desarrollo del FrontEnd, se utilizaron las siguientes texnologías:
 
 - HTML: Lenguaje de marcado para crear la estructura de una página web. Define la organización del contenido (encabezados, párrafos, imágenes, etc.).
 - CSS: Lenguaje de estilo para darle forma y diseño a las páginas web. Controla la apariencia del contenido (colores, tipografías, fondos, etc.).
@@ -3733,6 +3904,1064 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 
 <br><br>
 
+### 5.2.3. Sprint 3
+
+Para este sprint, se realizará toda la configuración del Backend, configurando todo lo aprendido en clase, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente, para luego integrarlo todo en una rama develop. El objetivo de este sprint es conseguir realizar la configuración necesaria para que nuestro FrontEnd sea funcional junto con la Backend. 
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 3</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            21/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por WhatsApp y universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de TasteTeam     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Sagastegui Rodriguez, Luis Jesus <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se definen las bases del proyecto con los features establecidos y bounded context para cada integrante, centradas en el desarrollo del BackEnd para la plataforma TasteTour.
+            </br></br>
+            Cada integrante avanzará con su propio backend, para luego enlazarlo 
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, no hay un avance con respecto a la implementación del frontend junto con la backend, pero se tiene la base para poder implementarlo en la entrega final.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 3 Velocity</b>
+        </td>
+        <td>
+            30
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            26
+        </td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+<table  align="left" border="1" width="100%">
+      <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 3</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
+    <td>0.2</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
+    <td>0.2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
+    <td>0.2</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Crear command para realizar la aplicación del restaurante a tour</td>
+    <td>4</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Crear command para realizar la aplicación del restaurante a tour</td>
+    <td>4</td>
+    <td>GeorgeAliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Implementarlo en el FrontEnd</td>
+    <td>5</td>
+    <td>Daniel Chirinos</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Implementarlo en el FrontEnd</td>
+    <td>5</td>
+    <td>George Aliaga</td>
+    <td>In-process</td>
+  </tr>
+</table>
+
+**Link del Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>BackEnd</td>
+        <td>master</td>
+        <td>752bc1b</td>
+        <td>Daniel Chirinos</td>
+        <td>initial commit</td>
+        <td>26/04/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>8207f86</td>
+        <td>Daniel Chirinos</td>
+        <td>added aggregates</td>
+        <td>31/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>1ac8c7d</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated boundedContextTour</td>
+        <td>01/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>3f8a04c</td>
+        <td>Daniel Chirinos</td>
+        <td>add folders</td>
+        <td>02/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>508b91b</td>
+        <td>Daniel Chirinos</td>
+        <td>Added new valueObjects</td>
+        <td>02/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>e364d0a</td>
+        <td>Daniel Chirinos</td>
+        <td>Backend Works partially</td>
+        <td>02/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>9405327</td>
+        <td>Daniel Chirinos</td>
+        <td>Backend working (tour)</td>
+        <td>03/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>a7e1e7e</td>
+        <td>Daniel Chirinos</td>
+        <td>Backed Tour working</td>
+        <td>03/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>1c0b5a3</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour controller modify</td>
+        <td>07/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>fbfc2d8</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour boundedcontext updated</td>
+        <td>07/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>431e328</td>
+        <td>Daniel Chirinos</td>
+        <td>Added PutMapping endpoint</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tour-boundedcontext</td>
+        <td>2c7e28f</td>
+        <td>Daniel Chirinos</td>
+        <td>modify mapping requests</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>7895e07</td>
+        <td>George Aliaga</td>
+        <td>Administrator aggregate</td>
+        <td>30/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>bb2faa4</td>
+        <td>George Aliaga</td>
+        <td>AdministratorID valueobject added</td>
+        <td>30/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>21a41a0</td>
+        <td>George Aliaga</td>
+        <td>Reservation and Review entities created</td>
+        <td>31/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>6ab452c</td>
+        <td>George Aliaga</td>
+        <td>Commands added</td>
+        <td>31/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>0986408</td>
+        <td>George Aliaga</td>
+        <td>Modified Entities, Queries and Added Services</td>
+        <td>09/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>9b16b66</td>
+        <td>George Aliaga</td>
+        <td>Added Restaurant controller</td>
+        <td>09/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>4a215a4</td>
+        <td>Vittorio Eduardo</td>
+        <td>Updated boundedcontext</td>
+        <td>30/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>f2653e5</td>
+        <td>Vittorio Eduardo</td>
+        <td>added commands</td>
+        <td>31/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>9b23ba2</td>
+        <td>Vittorio Eduardo</td>
+        <td>added queries</td>
+        <td>01/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>968bda3</td>
+        <td>Vittorio Eduardo</td>
+        <td>updated boundedcontext</td>
+        <td>02/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>ec000bc</td>
+        <td>Vittorio Eduardo</td>
+        <td>Backend User working</td>
+        <td>06/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/restaurant-boundedcontext</td>
+        <td>095a792</td>
+        <td>Vittorio Eduardo</td>
+        <td>User boundedcontext updated</td>
+        <td>08/06/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>ff32ae7</td>
+        <td>Daniel Chirinos</td>
+        <td>Merge remote-tracking branch 'origin/feature/restaurant-boundedcontext' into develop</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>develop</td>
+        <td>1858fb8</td>
+        <td>Daniel Chirinos</td>
+        <td>AddRestaurantInTour Implemented</td>
+        <td>09/06/2024</td>
+    </tr>
+    
+</table>
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=19>SI729-2401-WS53-testing</td>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>3967005</td>
+        <td>US-05-Back</td>
+        <td>Feature: Pago seguro de reserva de tour</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>d1314d2</td>
+        <td>US-06-Back</td>
+        <td>Feature: Visualización de paquetes de tours disponibles</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>22a67f6</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga-Backend</td>
+        <td>0e585aa</td>
+        <td>US-07</td>
+        <td>Feature: Información detallada del tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga-Backend</td>
+        <td>2d2092c</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui-Backend</td>
+        <td>5983044</td>
+        <td>US-10-Back</td>
+        <td>Feature: Plan de suscripción</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>cee23e9</td>
+        <td>US-03-Back</td>
+        <td>Feature: Edición de perfil</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>c249399</td>
+        <td>US-01-Back</td>
+        <td>Feature: Creación de cuenta</td>
+        <td>09/06/2024</td>
+    </tr>
+    
+    
+</table>
+
+**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos-Backend
+
+**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga-Backend
+
+**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo-Backend
+
+**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui-Backend
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto, se mostrarán los Bounded Context realizado por cada integrante del equipo. Además, se presentará un video explicando cada función que realiza los endpoints.
+
+## User Bounded Context
+
+**GET**
+
+<td><img src="Images/GetUser.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetUserId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2User.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2User.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/Delete1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Delete2User.png" alt="Imagen del insights" width="1500"></td>
+
+## Restaurant Bounded Context
+
+**GET**
+
+<td><img src="Images/GetRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetRestaurantId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Restaurant.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Restaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE**
+
+<td><img src="Images/DeleteRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+## Tour Bounded Context
+
+**GET**
+
+<td><img src="Images/GetTour.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetTourId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/DeleteTour.png" alt="Imagen del insights" width="1500"></td>
+
+**Link de la ejecución:** <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm"> Click para ir al video de ejecución </a>
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 14 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+| Endpoint         | Acción      | Verbo HTTP | Sintaxis de Llamada        | Parámetros                       | Ejemplo de Response             | 
+|------------------|-------------|------------|----------------------------|----------------------------------|----------------------------------|
+| /Api/TasteTour/Tour/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`| `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Tour with given id successfully deleted " }`      | 
+| /Api/TasteTour/Tour/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|`{ "id": 1, "titleTour": "..."`|
+| /Api/TasteTour/User/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `firstName`, `lastName`, `password`, `location`,`birthdate`,`email`,`phone`| `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "User with given id successfully deleted " }`      | 
+| /Api/TasteTour/User/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User  | Obtener    | GET     | `/api/v1/users/{id}`|`name`, `location`, `time`, `description`|`{ "id": 1, "name": "..."`|
+| /Api/TasteTour/restaurants/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Restaurant with given id successfully deleted " }`      | 
+| /Api/TasteTour/restaurants/create  | Agregar  | POST        | `/api/v1/users/{id}`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|``{ "id": 1, "name": "..."`|  
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+<td><img src="Images/OpenApiEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+
+<td><img src="Images/DocEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+<td><img src="Images/DocEvidence2.png" alt="Imagen del deployment" width="1500"></td>
+
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- Sprintboot: Herramienta que nos sirvió para el desarrollo de la Backend
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+**Observación:** Para esta entrega, no se realizó la implementación del FrontEnd con Backend, por lo tanto no se tiene la pagina deployada con dichas implementaciones.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Backend. En dicho repositorio, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+<td><img src="Images/GitflowBackend1.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/GitflowBackend2.png" alt="Imagen del insights" width="1500"></td>
+
+**Contribuciones del equipo**
+
+<td><img src="Images/TeamCollabBackend.png" alt="Imagen del insights" width="1500"></td>
+
+<br><br>
+
+### 5.3. Validation Interviews
+#### 5.3.1. Diseño de Entrevistas
+
+A continuación se mostrarán las preguntas de acuerdo a nuestra plataforma.
+
+*Se explicará de nuevo acerca de nuestro proyecto y el funcionamiento de cada componente* 
+
+*El usuario tiene que interactuar con la plataforma, una vez terminado de interactuar y explicar, vienen las preguntas* 
+
+- ¿Que tal le ha parecido la plataforma?
+  
+- ¿La plataforma se ve atractiva o hay algo que se deba cambiar?
+  
+- ¿Usted cree que la plataforma es intuitiva para el usuario general?
+  
+- ¿Usted que opina acerca de los colores elegidos en la plataforma?
+  
+- ¿Que información adicional le gustaría que se destaque en nuestra plataforma?
+  
+- ¿Que aspectos importantes deberian estar en nuestra plataforma para usted como dueño de restaurante? (Para el dueño de restaurante)
+  
+- ¿Usted como usuario, le agrada el prototipo de nuestro proyecto?
+  
+- ¿Usted como dueño, le agrada el prototipo de nuestro proyecto? (Para el dueño de restaurante)
+  
+- ¿Cree usted de que la plataforma cumpla con el objetivo? 
+  
+- ¿Usted cree que esta plataforma deba tener una versión para moviles?
+  
+- ¿Recomendaría el uso de la plataforma? (Para ambos)
+  
+- ¿Que recomendaciones nos daría para mejorar la plataforma? (Para ambos)
+
+#### 5.3.2. Registro de Entrevistas
+
+<b>Entrevista 1</b><br/>
+
+**Nombre del entrevistado:** Fabian Solis Perez
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation1.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Cliente**
+
+Resumen de la entrevista:
+
+Fabián Solís Pérez, un estudiante de gastronomía con experiencia en cocina, proporcionó comentarios detallados sobre la plataforma TasteTour durante su interacción con la página. Elogió el nombre y la presentación general del sitio, pero sugirió mejoras en la parte visual, especialmente en la descripción de los tours. Recomendó ajustar la redacción para mayor claridad y coherencia, así como mejorar la selección de imágenes para representar cada destino de manera más efectiva. También señaló aspectos positivos, como la concisión de la información en la sección de reservas y la utilidad de la sección de restaurantes. En general, consideró que la plataforma tiene un buen comienzo pero necesita algunos ajustes para mejorar la experiencia del usuario y cumplir completamente con sus objetivos.
+
+
+<b>Entrevista 2</b><br/>
+
+**Nombre del entrevistado:** Adrían Zapata
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation2.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Dueño de un Restaurante**
+
+Resumen de la entrevista:
+
+Adrián Zapata, el dueño de un restaurante, proporcionó una valiosa retroalimentación sobre la plataforma TasteTour durante la entrevista. Comenzó sugiriendo mejoras visuales, como fondos dinámicos y botones informativos en cada parte del tour para brindar detalles sobre las regiones visitadas. Además, recomendó agregar opciones de calendario para facilitar la selección de fechas de reserva y tarifas variables según la demanda. Zapata destacó la importancia de la retroalimentación crítica de los usuarios y propuso mejoras en la accesibilidad, la funcionalidad móvil y la visualización de información relevante para dueños de restaurantes. En general, consideró que la plataforma tiene un gran potencial, pero sugirió pulir algunos aspectos para mejorar la experiencia tanto para los clientes como para los propietarios de restaurantes.
+
+
+<b>Entrevista 3</b><br/>
+
+**Nombre del entrevistado:** Carla Guillen
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation3.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Dueño de un Restaurante**
+
+
+Resumen de la entrevista:
+
+Carla Guillén, dueña del restaurante Mar Azul, compartió sus impresiones sobre la plataforma TasteTour durante la entrevista. Consideró que la plataforma es fácil de usar y apreció la calidad visual de las fotos. Opinó que la plataforma es intuitiva para los usuarios y destacó la elección de colores cálidos. Sugirió destacar a los chefs y proporcionar información sobre cómo llegar a los restaurantes. Valoró positivamente el prototipo del proyecto y creyó que cumplirá con su objetivo. Recomendó tener una versión móvil de la plataforma y expresó su disposición a recomendar su uso. Finalmente, sugirió agregar información sobre ubicación y rutas para llegar a los puntos de interés gastronómico.
+
+<b>Entrevista 4</b><br/>
+
+**Nombre del entrevistado:** Luis Alejandro Thomburne
+
+Evidencia de la reunión:
+
+<div align="center">
+    <img src="Images/EntrevistaValidation4.png" style="margin: 10px 0;" width="80%"/>
+</div>
+
+**Segmento Objetivo: Cliente**
+
+Resumen de la entrevista:
+
+Durante la entrevista, Luis Alejandro Thomburne Vidales expresó sus impresiones sobre la plataforma TasteTour. Aunque encontró la propuesta interesante, hizo algunas observaciones sobre la información proporcionada en la plataforma. Sugirió que se incluyan más detalles sobre los mercados locales a visitar y las recetas que se aprenderán. Además, señaló que la intuitividad de la plataforma podría mejorarse, especialmente en la navegación entre diferentes tipos de tours. Respecto a los colores utilizados en la plataforma, sugirió algunos ajustes para mejorar la experiencia visual. Estuvo de acuerdo en que la plataforma debería tener una versión para dispositivos móviles y expresó su disposición a recomendar su uso a amigos y familiares interesados en explorar la gastronomía peruana.
+   
+
+<br/>
+
+**Video de validaciones en entrevistas**: <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p"> Click para ver entrevistas </a>
+
+#### 5.3.3. Evaluaciones según heurísticas
+
+# Evaluación Heurística de FitShirt
+
+## Información General
+
+- **Carrera:** Ingeniería de Software
+- **Curso:** Desarrollo de Aplicaciones de Open Source
+- **Sección:** WX53
+- **Profesor:** Juan Antonio Flores Moroco
+- **Auditores:**
+  - Daniel Rodrigo Chirinos Arevalo
+  - Aliaga Pimentel, George Arturo
+  - Vittorio Marcelo Eduardo Espinoza
+- **Clientes:**
+  - Fabian Solis Perez
+  - Luis Alejandro Thomburne
+  - Adrian Zapata Mongrut
+  - Karla Guillen
+- **Aplicación a Evaluar:** TasteTour
+
+## Descripción:
+
+TasteTour es una aplicación de reserva de tours de restaurantes de todo el Perú
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Iniciar sesión
+3. Diseño de la página
+4. Ver tours e información
+5. Realizar reserva de tours
+6. Ver y editar tours reservados
+7. Visualización de restaurantes
+8. Edición de perfil de usuario
+9. Consistencia y coherencia de la interfaz
+
+## Tareas No Incluidas en Esta Versión de la Evaluación
+
+1. Recuperar contraseña en caso de olvido
+2. Cerrar Sesión
+3. Adquirir suscripción Premium 
+4. Soporte de múltiples idiomas
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## Problemas Encontrados y Descripción Detallada
+
+| Problema | Severidad | Heurística/Principio Violado |
+|----------|-----------|------------------------------|
+| Falta de botón de “Inicio” que sea claro | 2 | Visibility of system status: Reconocimiento antes que recuerdo |
+| Diseño demasiado simple en la página de inicio | 3 | Aesthetic and Minimalist Design |
+| Inconsistencia del lenguaje en la interfaz | 3 | Consistency and Standards |
+| Diseño simple y falta de información en el apartado de restaurantes | 3 | Aesthetic and Minimalist Design |
+| Imposibilidad de seleccionar tiempo/horario en la reserva de tours | 4 | Usability: Control y Libertad del Usuario |
+
+### Descripción Detallada de Cada Problema
+
+**Problema #1**
+Falta de botón de “Inicio” que sea claro
+- **Severidad:** 2
+- **Problema:** La página web no tiene un botón de "Inicio" visible en el toolbar. Aunque el logo lleva a la página de inicio, no está claramente indicado que se pueda hacer clic en él para esta funcionalidad. Esto hace que los usuarios no puedan reconocer fácilmente cómo volver a la página de inicio, lo que puede causar confusión y aumentar la carga cognitiva al obligarlos a recordar o descubrir por ensayo y error esta característica.
+- **Recomendación:** Incluir un botón o enlace claramente etiquetado como "Inicio" en el toolbar para proporcionar una indicación clara y visible de cómo los usuarios pueden volver a la página de inicio.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 1.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #2**
+Diseño demasiado simple en la página de inicio
+- **Severidad:** 3
+- **Problema:** La página de inicio presenta un diseño demasiado simple. Aunque tiene imágenes atractivas de los tours, carece de elementos que guíen al usuario y mejoren la experiencia de navegación. No hay llamados a la acción claros ni detalles adicionales sobre los tours.
+- **Recomendación:** Añadir íconos o gráficos que representen los diferentes tours y sus características, mejorando la atractividad visual y la comprensión rápida de las opciones disponibles.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 2.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #3**
+Incosistencia del lenguaje en la interfaz
+- **Severidad:** 3
+- **Problema:** La página web presenta una mezcla de idiomas en su contenido, con algunos elementos en español y otros en inglés. Esto puede causar confusión en los usuarios, especialmente en aquellos que no son bilingües, y reduce la profesionalidad percibida del sitio.
+- **Recomendación:** Definir un idioma principal para la interfaz y realizar una revisión completa para asegurar que todos los elementos sean consistentes. Implementar una solución de internacionalización para soportar múltiples idiomas de manera coherente.
+- **Heurística/Principio Violado:** Consistency and Standards
+
+**Image del Problema**
+<td><img src="Images/Heuristica 3.png" alt="Imagen de la Heuristica" width="900"></td>
+
+<td><img src="Images/Heuristica 4.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #4**
+Diseño simple y falta de información en el apartado de restaurantes
+- **Severidad:** 3
+- **Problema:** El apartado de restaurantes muestra únicamente una foto del restaurante/plato, nombre del restaurante, una breve descripción y un botón para visitar. El diseño es demasiado simple y no proporciona suficiente información o elementos interactivos para atraer al usuario.
+- **Recomendación:** Añadir más información relevante (descripción detallada, valoraciones, etiquetas de comida), elementos visuales atractivos (galería de imágenes, videos), y características interactivas (botón de reserva, mapa integrado). Asegurarse de que el diseño sea coherente con el resto de la aplicación y accesible para todos los usuarios.
+- **Heurística/Principio Violado:** Aesthetic and Minimalist Design
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 5.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Problema #5**
+Imposibilidad de seleccionar tiempo/horario en la reserva de tours
+- **Severidad:** 4
+- **Problema:** En el proceso de reserva de tours, existen dos opciones para seleccionar el tiempo/horario, pero ninguna de ellas permite ser seleccionada. Como resultado, el sistema salta directamente a la parte de pago sin permitir al usuario elegir un horario.
+- **Recomendación:** Implementar validaciones que verifiquen que un horario ha sido seleccionado antes de permitir al usuario continuar al siguiente paso.
+- **Heurística/Principio Violado:** Usability - Control y Libertad del Usuario.
+
+**Imagen del Problema**
+<td><img src="Images/Heuristica 6.png" alt="Imagen de la Heuristica" width="900"></td>
+
+
+### 5.4. Video About-the-Product
+
+<td><img src="Images/AboutTheProduct.png" alt="Imagen de la Heuristica" width="900"></td>
+
+**Link del About the Product**: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQWZmBKMRvRKgCzOgrhD8DgBJZzJFZDzULgb5YboBJ41Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N3O5Hp">Click para ir al Link</a>
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -3743,7 +4972,9 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 - Se han creado diferentes user stories para las funcionalidades que los usuarios necesitados.
 - Git y GitHub permitió un exitoso flujo de trabajo, impulsando la gestión de versiones y la colaboración a nuevos niveles. Con ello, se logró un control preciso del código fuente, colaboración fluída y calidad garantizada.
 - Se ha definido la arquitectura del software y de alto nivel, así como la estructura de información gracias al correcto desarrollo del diagrama de clases, diagrama de base datos y el modelo C4.
-- Se avanzó y definió el frontend de la plataforma
+- Se definió el frontend de la plataforma
+- Se avanzó el backend de nuestro proyecto
+- Hemos identificado los componentes que se utilizan en la backend y en el frontend, fue una tarea dificil pero a la vez un reto que se puede superar.
 
 <br><br>
 
@@ -3767,7 +4998,7 @@ Tune, N. (2015, 15 de agosto). _Domain-Driven Architecture Diagrams_. Recuperado
 
 - Link del repositorio del landing page: https://github.com/SI729-2401-WS53-Grupo-4/landing-page
 
-- Link del repositorio del frontend: https://github.com/SI729-2401-WS53-Grupo-4/FrontEnd
+- Link del repositorio del frontend: https://github.com/SI729-2401-WS53-Grupo-4/front-end.git
 
 - Link del Trello:
 https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE0107/tasteteam
@@ -3778,14 +5009,12 @@ https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE010
 
 - Link del video de prototipado: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/ETMlP3C_4ppFqKuoWxAq8QsBht3Ch-RxvZJ0J2SeZ2drlg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aP0jmd
 
-- Link de la landing page desployada: https://landing-page-three-theta.vercel.app
+- Link de la landing page deployada: https://landing-page-three-theta.vercel.app
+
+- Link del funcionamiento del FrontEnd: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/Edtvdpe9WrBNut3_p3WXBQcBnRgq56zIeE8riBUOF5P73Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S3SvNa
 
 - Link del Figma del landing page: https://www.figma.com/file/gPPGWDul4DorFs4ZzoNLo7/Untitled?type=design&node-id=0%3A1&mode=design&t=F1TOKGyI0XnOS7ef-1
 
-- Link de el Frontend (Tour-Page):https://tour-page-202019577.web.app/tour-list
-
-- Link de el Frontend (Restaurant-page):https://restaurant-page-20211c273.web.app
-
-- Link de el Frontend (Profile-page):https://profile-page-20231b547.web.app/profile-inputs
-
-- Link de el Frontend (Home-page): https://home-page-202014249-77533.web.app
+- Link de el Frontend deployado: https://tastetourproyect.web.app
+  
+- Link About the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQWZmBKMRvRKgCzOgrhD8DgBJZzJFZDzULgb5YboBJ41Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N3O5Hp
