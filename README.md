@@ -4351,6 +4351,7 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 Se creó una organización en Github con el nombre de la StartUp. Luego, se creó un repositorio para la Backend. En dicho repositorio, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` se empleó únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
 
 <td><img src="Images/GitflowBackend1.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/GitflowBackend2.png" alt="Imagen del insights" width="1500"></td>
 
 **Contribuciones del equipo**
 
