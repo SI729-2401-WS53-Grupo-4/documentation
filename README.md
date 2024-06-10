@@ -4059,6 +4059,8 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
   </tr>
 </table>
 
+**Link del Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -4186,92 +4188,72 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
     </tr>
     <tr>
         <td rowspan=19>SI729-2401-WS53-testing</td>
-        <td>feature/DanielChirinos-TB2</td>
-        <td>5445ac3</td>
-        <td>US-05</td>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>3967005</td>
+        <td>US-05-Back</td>
         <td>Feature: Pago seguro de reserva de tour</td>
-        <td>14/05/2024</td>
+        <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
-        <td>5b2255e</td>
-        <td>US-06</td>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>d1314d2</td>
+        <td>US-06-Back</td>
         <td>Feature: Visualización de paquetes de tours disponibles</td>
-        <td>14/05/2024</td>
+        <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>22a67f6</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga-Backend</td>
         <td>0e585aa</td>
         <td>US-07</td>
         <td>Feature: Información detallada del tour</td>
         <td>14/05/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
-        <td>5e2e62d</td>
-        <td>US-09</td>
-        <td>Feature: Filtros de búsqueda de tour gastronómico</td>
-        <td>14/05/2024</td>
+        <td>feature/tb2-George-Aliaga-Backend</td>
+        <td>2d2092c</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>feature/DanielChirinos-TB2</td>
-        <td>6bfb147</td>
-        <td>US-11</td>
-        <td>Feature: Elección de horarios de tour</td>
-        <td>14/05/2024</td>
+        <td>feature/tb2-Luis-Sagastegui-Backend</td>
+        <td>5983044</td>
+        <td>US-10-Back</td>
+        <td>Feature: Plan de suscripción</td>
+        <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>feature/home-implementation</td>
-        <td>5323a7d</td>
-        <td>Luis Jesus</td>
-        <td>home-html</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>cee23e9</td>
+        <td>US-03-Back</td>
+        <td>Feature: Edición de perfil</td>
+        <td>09/06/2024</td>
     </tr>
     <tr>
-        <td>feature/about-us-implementation</td>
-        <td>0cc3d07</td>
-        <td>Daniel Chirinos</td>
-        <td>added about-us</td>
-        <td>29/04/2024</td>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>c249399</td>
+        <td>US-01-Back</td>
+        <td>Feature: Creación de cuenta</td>
+        <td>09/06/2024</td>
     </tr>
-    <tr>
-        <td>develop</td>
-        <td>1cc0193</td>
-        <td>Daniel Chirinos</td>
-        <td>Merge</td>
-        <td>29/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/tours-implementation</td>
-        <td>42011dd</td>
-        <td>George Aliaga</td>
-        <td>Added feature/tours</td>
-        <td>29/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/contact-implementation</td>
-        <td>acd839c</td>
-        <td>Vittorio Eduardo</td>
-        <td>added index.html</td>
-        <td>29/04/2024</td>
-    </tr>
-    <tr>
-        <td>feature/contact-implementation</td>
-        <td>30cfddb</td>
-        <td>Vittorio Eduardo</td>
-        <td>added styles.css</td>
-        <td>29/04/2024</td>
-    </tr>
+    
     
 </table>
 
-Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
+Feature de Daniel Chirinos: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos-Backend
 
-Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
+Feature de George Aliaga: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga-Backend
 
-Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
+Feature de Vittorio Eduardo: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo-Backend
 
-Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
+Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui-Backend
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
