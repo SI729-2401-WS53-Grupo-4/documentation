@@ -148,23 +148,28 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
    - [5.2.2. Sprint 2](#522-sprint-2)
-    - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-   - [5.2.3. Sprint 3](#521-sprint-2)
-    - [5.2.3.1. Sprint Planning 2](#5211-sprint-planning-2)
-    - [5.2.3.2. Sprint Backlog 2](#5212-sprint-backlog-2)
-    - [5.2.3.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-    - [5.2.3.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
-    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-    - [5.2.3.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+   - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
+    - [5.4 Video About-the-Product](#54-about-the-product)
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -3429,7 +3434,7 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
             <b>Sprint 2 Velocity</b>
         </td>
         <td>
-            7
+            69
         </td>
     </tr>
        <tr align="left">
@@ -3437,7 +3442,7 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
             <b>Sum of Story Points</b>
         </td>
         <td>
-            15
+            69
         </td>
     </tr>
 </table>
@@ -3941,7 +3946,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
             <b>Sprint 3 Velocity</b>
         </td>
         <td>
-            7
+            30
         </td>
     </tr>
        <tr align="left">
@@ -3949,7 +3954,7 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
             <b>Sum of Story Points</b>
         </td>
         <td>
-            15
+            26
         </td>
     </tr>
 </table>
@@ -4340,7 +4345,7 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 <td><img src="Images/DeleteTour.png" alt="Imagen del insights" width="1500"></td>
 
-**Link de la ejecución:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm
+**Link de la ejecución:** <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm"> Click para ir al video de ejecución </a>
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -4350,12 +4355,14 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 
 Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
 
-- Sprintboot:
-- MySqlWorkbench:
+- Sprintboot: Herramienta que nos sirvió para el desarrollo de la Backend
+- MySqlWorkbench: 
 - Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
 - GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
 
 Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+**Observación:** Para esta entrega, no se realizó la implementación del FrontEnd con Backend, por lo tanto no se tiene la pagina deployada con dichas implementaciones.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
