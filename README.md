@@ -3474,10 +3474,10 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     <td>In-Process</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>US14</td>
+    <td>Aplicar restaurante en tours</td>
     <td>Pantalla de confirmación</td>
-    <td>0.2</td>
+    <td>4</td>
     <td>Daniel Chirinos</td>
     <td>Done</td>
   </tr>
@@ -3509,7 +3509,7 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     <td>US01</td>
     <td>Creación de cuenta</td>
     <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
-    <td>7.5</td>
+    <td>4</td>
     <td>Luis Sagastegui</td>
     <td>In-process</td>
   </tr>
@@ -3547,7 +3547,7 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
   </tr>
 </table>
 
-**Link del Trello para el Product BackLog**
+**Link del Trello para el Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
@@ -3854,6 +3854,8 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 
 ### 5.2.3. Sprint 3
 
+Para este sprint, se realizará toda la configuración del Backend, configurando todo lo aprendido en clase, para la organización de este sprint, se utilizó GitHub para el manejo del proyecto, usando ramas para que cada integrante pueda subir su parte correspondiente, para luego integrarlo todo en una rama develop. El objetivo de este sprint es conseguir realizar la configuración necesaria para que nuestro FrontEnd sea funcional junto con la Backend. 
+
 #### 5.2.3.1. Sprint Planning 3
 
 <table align="center"  border="1" width="90%" style="text-align:center;">
@@ -3978,84 +3980,220 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
     <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
   </tr>
   <tr>
-    <td>US05</td>
-    <td>Pago de reserva de tour</td>
-    <td>Pantalla de pago</td>
-    <td>3.5</td>
-    <td>Daniel Chirinos</td>
-    <td>In-Process</td>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Pantalla de confirmación</td>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
     <td>0.2</td>
-    <td>Daniel Chirinos</td>
+    <td>George Aliaga</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US07</td>
-    <td>Ver información del tour</td>
-    <td>Crear pantalla de información y programarlo para redirigirlo</td>
-    <td>4.5</td>
-    <td>Daniel Chirinos</td>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>George Aliaga</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Pantalla de precio</td>
-    <td>Crear pantalla de precio y programarlo para redirigirlo, tambien hacer otra redirección para el de pantalla de pago</td>
-    <td>4.6</td>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>In-process</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
     <td>Daniel Chirinos</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US06</td>
-    <td>Visualización de tours disponibles</td>
-    <td>Crear la pantalla de tours y estructurarlo de acuerdo a nuestro Web Applications</td>
-    <td>4.6</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
     <td>Daniel Chirinos</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US01</td>
-    <td>Creación de cuenta</td>
-    <td>Crear la pantalla de registro y realizar un autenticador y redigir a la pantalla de home</td>
-    <td>7.5</td>
-    <td>Luis Sagastegui</td>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
+    <td>0.2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
     <td>In-process</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Login</td>
-    <td>Crear la pantalla de login, realizar un autenticador y redigir a la pantalla de home</td>
-    <td>4.5</td>
-    <td>Luis Sagastegui</td>
-    <td>Done</td>
-  </tr>  
-  <tr>
-    <td></td>
-    <td>Vista de Home</td>
-    <td>Crear la pantalla de home mostrando el toolbar con las rutas requeridas y mostrando la descripcion de los tours.</td>
-    <td>3.5</td>
-    <td>Luis Sagastegui</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US10</td>
-    <td>Plan de suscripción</td>
-    <td>Crear la pantalla de plan de suscripción</td>
-    <td>4.5</td>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Configurar el Application.properties</td>
+    <td>0.3</td>
     <td>Vittorio Eduardo</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>US17</td>
-    <td>Restaurante visualizado</td>
-    <td>Crear la pantalla de restaurante</td>
-    <td>5.5</td>
-    <td>George Aliaga</td>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Entities</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
     <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Aggregates del bounded context de restaurante</td>
+    <td>0.2</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear y definir los ValueObjects</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Commands</td>
+    <td>0.3</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Queries</td>
+    <td>0.3</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear los Services</td>
+    <td>2</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Crear el Controller</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Implementarlo al FrontEnd</td>
+    <td>1</td>
+    <td>Vittorio Eduardo</td>
+    <td>In-process</td>
   </tr>
 </table>
 
@@ -4338,7 +4476,7 @@ Feature de Luis Sagastegui: https://github.com/SI729-2401-WS53-Grupo-4/SI729-240
 Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
 
 - Sprintboot: Herramienta que nos sirvió para el desarrollo de la Backend
-- MySqlWorkbench: 
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
 - Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
 - GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
 
