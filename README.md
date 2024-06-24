@@ -4730,6 +4730,404 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 
 <br><br>
 
+### 5.2.4. Sprint 4
+
+Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend, integrando todo lo aprendido en clase. La organización del proyecto continuará utilizando GitHub, empleando ramas para que cada integrante pueda subir y refinar su parte correspondiente. Una vez completadas y revisadas, estas partes se integrarán en la rama develop. El objetivo principal de este sprint es asegurarnos de que todas las configuraciones necesarias estén optimizadas para que nuestro FrontEnd funcione de manera efectiva junto con el Backend, garantizando así una entrega final de alta calidad.
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            21/05/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por WhatsApp y universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de TasteTeam     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 4</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se mejoran los features establecidos y bounded context para cada integrante, centrados en el desarrollo del BackEnd para la plataforma TasteTour. Nos enfocamos en optimizar estos features y en implementar completamente el Backend con el FrontEnd. 
+            </br></br>
+            Cada integrante realiza las correciones y mejoras correspondientes con su propio backend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, se tiene lista la implementación del frontend con el backend para esta entrega final.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            30
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            26
+        </td>
+    </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+<table  align="left" border="1" width="100%">
+      <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Edición de perfil-Back</td>
+    <td>Llamar el endpoint y realizar un PUT en la pagina "Profile"</td>
+    <td>4</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Agregar la clase DebitCard</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Llamar al endpoint de DebitCard</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Realizar la funcionalidad de guardar los cambios del usuario para DebitCard</td>
+    <td>4</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Llamar al endpoint restaurant e implementarlo en la pagina "Restaurantes"</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Crear un formulario para agregar más restaurantes</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>US14 </td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Llamar el endpoint de Booking e implementarlo en la pagina "Reservas"</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   <td>US14 </td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Realizar la funcionalidad de reservar un tour y guardarlo en la lista de reservas</td>
+    <td>6</td>
+    <td>Daniel Chirinos</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Implementar el iam y que funcione</td>
+    <td>4</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Implementar y Aplicar seguridad en el frontend</td>
+    <td>4</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Llamar el endpoint de tours e implementarlo en la pagina "Tours"</td>
+    <td>6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Crear un formulario para agregar más tours</td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>In process</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Pago seguro de reserva de tour-Back</td>
+    <td></td>
+    <td>1</td>
+    <td>Daniel Chirinos</td>
+    <td>In process</td>
+  </tr>
+
+</table>
+
+**Link del Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+###  5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las interacciones con cada endpoint establecido para el proyecto, se mostrarán los Bounded Context realizado por cada integrante del equipo. Además, se presentará un video explicando cada función que realiza los endpoints.
+
+## User Bounded Context
+
+**GET**
+
+<td><img src="Images/GetUser.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetUserId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2User.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2User.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/Delete1User.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Delete2User.png" alt="Imagen del insights" width="1500"></td>
+
+## Restaurant Bounded Context
+
+**GET**
+
+<td><img src="Images/GetRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetRestaurantId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Restaurant.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Restaurant.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE**
+
+<td><img src="Images/DeleteRestaurant.png" alt="Imagen del insights" width="1500"></td>
+
+## Tour Bounded Context
+
+**GET**
+
+<td><img src="Images/GetTour.png" alt="Imagen del insights" width="1500"></td>
+
+**GET por Id**
+
+<td><img src="Images/GetTourId.png" alt="Imagen del insights" width="1500"></td>
+
+**POST**
+
+<td><img src="Images/Post1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Post2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+
+**PUT por Id**
+
+<td><img src="Images/Put1Tour.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/Put2Tour.png" alt="Imagen del insights" width="1500"></td>
+
+**DELETE por Id**
+
+<td><img src="Images/DeleteTour.png" alt="Imagen del insights" width="1500"></td>
+
+**Link de la ejecución:** <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EToZVTq0vnVDkFaF7a_u6GIBRBvo5lWnPjODepERLH--vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=5bFZGm"> Click para ir al video de ejecución </a>
+
+**Link para ejecutar el Swagger:** http://localhost:8080/swagger-ui/index.html
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 14 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+| Endpoint         | Acción      | Verbo HTTP | Sintaxis de Llamada        | Parámetros                       | Ejemplo de Response             | 
+|------------------|-------------|------------|----------------------------|----------------------------------|----------------------------------|
+| /Api/TasteTour/Tour/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`| `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Tour with given id successfully deleted " }`      | 
+| /Api/TasteTour/Tour/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|`{ "id": 1, "titleTour": "..."`|
+| /Api/TasteTour/User/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `firstName`, `lastName`, `password`, `location`,`birthdate`,`email`,`phone`| `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "User with given id successfully deleted " }`      | 
+| /Api/TasteTour/User/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User  | Obtener    | GET     | `/api/v1/users/{id}`|`name`, `location`, `time`, `description`|`{ "id": 1, "name": "..."`|
+| /Api/TasteTour/restaurants/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Restaurant with given id successfully deleted " }`      | 
+| /Api/TasteTour/restaurants/create  | Agregar  | POST        | `/api/v1/users/{id}`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|``{ "id": 1, "name": "..."`|  
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+<td><img src="Images/OpenApiEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+
+<td><img src="Images/DocEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+<td><img src="Images/DocEvidence2.png" alt="Imagen del deployment" width="1500"></td>
+
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- Sprintboot: Herramienta que nos sirvió para el desarrollo de la Backend
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+**Observación:** Para esta entrega, no se realizó la implementación del FrontEnd con Backend, por lo tanto no se tiene la pagina deployada con dichas implementaciones.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 
