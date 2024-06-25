@@ -4859,10 +4859,10 @@ En esta sección se especifican los detalles del Sprint Final, que es una lista 
     <td>Daniel Chirinos</td>
     <td>Done</td>
   </tr>
-  <tr>
-   <td>US04</td>
+    <tr>
+    <td>US04</td>
     <td>Ingreso de datos de tarjeta-Back</td>
-    <td>Llamar al endpoint de DebitCard</td>
+    <td>Llamar el endpoint de DebitCard</td>
     <td>2</td>
     <td>Daniel Chirinos</td>
     <td>Done</td>
@@ -4884,14 +4884,6 @@ En esta sección se especifican los detalles del Sprint Final, que es una lista 
     <td>Done</td>
   </tr>
   <tr>
-    <td>US13</td>
-    <td>Registro de restaurante-Back</td>
-    <td>Crear un formulario para agregar más restaurantes</td>
-    <td>1</td>
-    <td>George Aliaga</td>
-    <td>In process</td>
-  </tr>
-  <tr>
     <td>US14 </td>
     <td>Aplicar restaurante en tours-Back</td>
     <td>Llamar el endpoint de Booking e implementarlo en la pagina "Reservas"</td>
@@ -4905,20 +4897,12 @@ En esta sección se especifican los detalles del Sprint Final, que es una lista 
     <td>Realizar la funcionalidad de reservar un tour y guardarlo en la lista de reservas</td>
     <td>6</td>
     <td>Daniel Chirinos</td>
-    <td>In process</td>
-  </tr>
-  <tr>
-    <td>US01</td>
-    <td>Creación de cuenta-Back</td>
-    <td>Implementar el iam y que funcione</td>
-    <td>4</td>
-    <td>Vittorio Eduardo</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US01</td>
     <td>Creación de cuenta-Back</td>
-    <td>Implementar y Aplicar seguridad en el frontend</td>
+    <td>Agregar un usuario y mostrarlo en el frontend</td>
     <td>4</td>
     <td>Vittorio Eduardo</td>
     <td>Done</td>
@@ -4932,20 +4916,12 @@ En esta sección se especifican los detalles del Sprint Final, que es una lista 
     <td>Done</td>
   </tr>
   <tr>
-    <td>US06</td>
-    <td>Visualización de paquetes de tours disponibles-Back</td>
-    <td>Crear un formulario para agregar más tours</td>
-    <td>1</td>
-    <td>Daniel Chirinos</td>
-    <td>In process</td>
-  </tr>
-  <tr>
     <td>US05</td>
     <td>Pago seguro de reserva de tour-Back</td>
-    <td></td>
-    <td>1</td>
+    <td>Agregar una reserva en la lista de reserva</td>
+    <td>6</td>
     <td>Daniel Chirinos</td>
-    <td>In process</td>
+    <td>Done</td>
   </tr>
 
 </table>
