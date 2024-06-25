@@ -2446,7 +2446,7 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/Diagrama de clases.png" alt="Imagen del diagrama de clases" width="1300"></td>
+<td><img src="Images/DiagramaFinal.png" alt="Imagen del diagrama de clases" width="1300"></td>
 
 ### 4.7.2. Class Dictionary
 
@@ -2612,20 +2612,6 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
     <td>void</td>
     <td>pago()</td>
     <td>Realizar el pago con la tarjeta de debito</td>
-  </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Reseña</td>
-<tr>
-    <td>int</td>
-    <td>valoración</td>
-    <td>Calificación del tour</td>
-  </tr>
-  <tr>
-    <td>string</td>
-    <td>comentario</td>
-    <td>Comentario del tour</td>
   </tr>
 </table>
 
@@ -4000,6 +3986,8 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 
 En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
 
+<td><img src="Images/TrelloImage.png" alt="Imagen del insights" width="1500"></td>
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -4825,6 +4813,8 @@ Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend,
 #### 5.2.4.2. Sprint Backlog 4
 
 En esta sección se especifican los detalles del Sprint Final, que es una lista de tareas y actividades completadas para concluir el proyecto. El Sprint Final abarca todas las acciones necesarias para asegurar que el producto cumple con los requisitos establecidos y está listo para ser entregado o desplegado.
+
+<td><img src="Images/TrelloImage.png" alt="Imagen del insights" width="1500"></td>
 
 <table  align="left" border="1" width="100%">
       <tr>
