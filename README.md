@@ -3191,6 +3191,8 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+En esta sección se presentan los commits realizados en el repositorio de GitHub, donde se puede observar el trabajo colaborativo de cada integrante del equipo en el desarrollo de la Landing Page. A continuación, se detallan las contribuciones individuales en diversas ramas del proyecto, incluyendo las implementaciones de las funcionalidades principales y las integraciones necesarias para el despliegue final del producto.
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -3447,7 +3449,10 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -3551,6 +3556,8 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+En esta sección se presentan los registros detallados del desarrollo del frontend del proyecto, organizados en una tabla que muestra las ramas relevantes, los identificadores de commit, los autores responsables, los mensajes asociados a cada cambio y las fechas de cada contribución.
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -3664,6 +3671,8 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -3855,6 +3864,8 @@ En este item, se va a presentar las pantallas realizadas por el equipo, cada pan
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
+A continuación, se proporciona el enlace al frontend del proyecto, donde se puede visualizar la implementación final y funcional de todas las características desarrolladas durante el Sprint:
+
 **Link de el Frontend**: https://tastetourproyect.web.app </td>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
@@ -4014,6 +4025,9 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -4286,6 +4300,8 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -4482,6 +4498,8 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -4755,7 +4773,7 @@ Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend,
             <b>Date</b>
         </td>
         <td>
-            21/05/24         
+            15/06/24         
         </td>
     </tr>
        <tr align="left">
@@ -4839,6 +4857,9 @@ Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend,
 </table>
 
 #### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Final, que es una lista de tareas y actividades completadas para concluir el proyecto. El Sprint Final abarca todas las acciones necesarias para asegurar que el producto cumple con los requisitos establecidos y está listo para ser entregado o desplegado.
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -4967,7 +4988,11 @@ Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend,
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+
+
 ###  5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
