@@ -5040,6 +5040,9 @@ En esta sección se detalla el trabajo realizado en los repositorios de GitHub c
     
 </table>
 
+**Link del repositorio frontend:** https://github.com/SI729-2401-WS53-Grupo-4/front-end
+**Link del repositorio backend:** https://github.com/SI729-2401-WS53-Grupo-4/platform/tree/main
+
 ###  5.2.4.4. Testing Suite Evidence for Sprint Review
 
 En este Item se realizó un repositorio de todos los user stories posibles que se han implementado en el frontend y backend.
@@ -5110,7 +5113,6 @@ En este Item se realizó un repositorio de todos los user stories posibles que s
         <td>Feature: Creación de cuenta</td>
         <td>09/06/2024</td>
     </tr>
-    
     
 </table>
 
@@ -5230,6 +5232,34 @@ Igualmente, para el correcto control de versiones y el adecuado desarrollo de la
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+Se creó una organización en Github con el nombre de la StartUp. Luego, se crearon repositorios para la Backend y frontend. En dichos repositorios, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` y `main` se emplearon únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+## GitFlow Frontend
+
+<td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
+
+**Nota:** Repositorio antiguo
+
+<td><img src="Images/Insights Front.png" alt="Imagen del insights" width="1500"></td>
+
+**Nota:** La razón por la cual se ve con pocas ramas es porque se tuvo que volver a crear un repositorio con todos los archivos de un repositorio anterior.
+
+## GitFlow Frontend
+
+<td><img src="Images/InsightsBack1.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/InsightsBack2.png" alt="Imagen del insights" width="1500"></td>
+
+# Contribuciones del equipo
+
+## Team collab Frontend
+
+<td><img src="Images/TeamCollabFront.png" alt="Imagen del insights" width="1500"></td>
+
+## Team collab Backend
+
+<td><img src="Images/TeamCollabBackend2.png" alt="Imagen del insights" width="1500"></td>
+
+<br><br>
 
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
