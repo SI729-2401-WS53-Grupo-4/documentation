@@ -255,12 +255,26 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Realicé mis tareas asignadas en el horario correspondiente<br/>
         - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el user-bounded-context.<br/>
         <br>
+        <br>TF<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>   
     <td>TB1<br>
     Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
     <br>TP<br>
     Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega<br>
     <br>TB2<br>
     Se corrigieron varios artefactos que se pedían en la entrega pasada y tambien se realizó el avance de nuestro backend.
+    <br>TF<br>
+    Se concluye el proyecto de TasteTour. Implementando la backend y el Frontend funcionales.
     </td>
     </td>
 
@@ -305,7 +319,19 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
-    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>         
+    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>
+    <br> TF<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Realicé la implementación de la backend con front y corregí algunas observaciones del profesor.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        -Corregí algunas observaciones del profesor y ayudé con la implementación de la backend con front.<br/>
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+        -Corregí algunas observaciones del profesor y ayudé con la implementación de la backend con front.<br/>        
 
 </td>
     <td>TB1
@@ -316,9 +342,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.<br>
     TB2<br>
     Se realizó el avance de la programación interna de una pagina web de acuerdo a nuestros user stories.
+    <br>TF<br>
+    Se concluye el proyecto de TasteTour. Gracias a la comunicación del equipo, el proyecto tastetour se pudo completar, faltaron cosas que corregir pero se logró como equipo.
     </td>
-    TF<br>
-    Se concluye el proyecto de TasteTour. Implementando la backend y el Frontend funcionales.
     </td>
 </tr>
 </table>
