@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"> TB2 Report </h1>
+<h1 align="center"> TF Report </h1>
 
 <h3 align="center"> Desarrollo de Aplicaciones Open Source - WS53 </h3>
 
@@ -24,7 +24,6 @@
 | Aliaga Pimentel, George Arturo   | U20211c273 |
 | Chirinos Arevalo, Daniel Rodrigo | U202019577 |
 | Vittorio Marcelo Eduardo Espinoza| u20231b547 |
-| Sagastegui Rodriguez, Luis Jesus | U202014249 |
 
 </div>
 
@@ -38,9 +37,10 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | :-------------------------- |
-|    TB1     |   08/04    |   Todo el team    |     Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (User persona, User story, Product Backlog, Impact Mapping, entre otros) y se implementó la landing page. |
-|    TP     |   28/04    |   Todo el team    |     Se corrigieron las observaciones dadas por el profesor y se realizó el frontend de acuerdo a los user stories establecidos. |
+|    TB1     |   08/04    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza    |     Se estableció la solución propuesta, se realizó un análisis Lean UX, se definió el segmento objetivo y se recopilaron los requisitos necesarios para desarrollar las herramientas necesarias (User persona, User story, Product Backlog, Impact Mapping, entre otros) y se implementó la landing page. |
+|    TP     |   28/04    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza    |     Se corrigieron las observaciones dadas por el profesor y se realizó el frontend de acuerdo a los user stories establecidos. |
 |    TB2     |   09/06    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza  |     Se corrigieron las observaciones dadas por el profesor del trabajo parcial, tambien se realizó el avance de componentes de la Backend, dividiendolo en base a bounded context. |
+|    TF     |   25/06    |   Aliaga Pimentel George Arturo, Chirinos Arevalo Daniel Rodrigo, Vittorio Marcelo Eduardo Espinoza  |     Se finaliza el proyecto final con todos los artefactos deseados. |
 
 </div>
 
@@ -48,7 +48,7 @@
 
 # Project Report Collaboration Insights
 
-<td><img src="Images/Insights.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/InsightsCollab.png" alt="Imagen del insights" width="1500"></td>
 
 # Contenido
 
@@ -165,11 +165,21 @@
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
     - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-segun-heuristicas)
     - [5.4 Video About-the-Product](#54-about-the-product)
+
 
 ### [Conclusiones](#conclusiones-1)
 
@@ -207,13 +217,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
        - Realicé mis tareas asignadas en el horario correspondiente<br/>
         - Realicé la parte de Problem Statements, Lean UX assumptions, User Personas, User Journey Mapping, Empathy Mapping,  As-Is-Scenario Mapping, To-Be Scenario Mapping e Impact Mapping, como tambien aporté con ideas para el trabajo.<br/>
     <br>
-    <b>Sagastegui Rodriguez, Luis Jesus</b>
-    <br>
-      - Realice mis tareas asignadas en el horario correspondiente.<br/>
-      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
-      - Realice mis tareas asignadas en el horario correspondiente.<br/>
-      - Realice los Style Guidelines correspondientes teniendo en cuenta cada parte requerida, tambien los Web Style Guidelines y el Information Architecture.<br/>
-    <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
     - Realicé mis tareas asignadas en el horario correspondiente<br/>
@@ -229,11 +232,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
        - Realicé mis tareas asignadas en el horario correspondiente<br/>
         - Realicé las correciones dadas por el docente, se pudo mejorar y agregar el NeedFiding, el Lean UX y agregar el landing page correctamente.<br/>
-    <br>
-    <b>Sagastegui Rodriguez, Luis Jesus</b>
-    <br>
-      - Realice mis tareas asignadas en el horario correspondiente.<br/>
-      - Realicé las correciones dadas por el docente, se pudo agregar correctamente el landing page y los puntos importantes del cap 4<br/>
     <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
@@ -252,21 +250,31 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
         - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el restaurant-bounded-context.<br/>
         <br>
     <br>
-    <b>Sagastegui Rodriguez, Luis Jesus</b>
-    <br>
-        - Realicé mis tareas asignadas<br/>
-    <br>
     <b>Vittorio Marcelo Eduardo Espinoza</b>
     <br>
         - Realicé mis tareas asignadas en el horario correspondiente<br/>
         - Realicé las correciones dadas por el docente, se pudo integrar todo el frontend, a su vez tambien avancé con mi parte del backend el user-bounded-context.<br/>
         <br>
+        <br>TF<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>
+    <br><br>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
+    <br>
+        - Realicé mis tareas asignadas en el horario correspondiente<br/>   
     <td>TB1<br>
     Se logró desarrollar la Landing page en base a las reuniones colaborativas y practicas que se tuvieron. Además, se consiguió implementarlo mediante la comprensión de metodología GitFlow.<br>
     <br>TP<br>
     Se logró desarrollar el frontend en base a las reuniones colaborativas y practicas que se tuvieron. Además se consiguió corregir todas las observaciones dadas en la primera entrega<br>
     <br>TB2<br>
     Se corrigieron varios artefactos que se pedían en la entrega pasada y tambien se realizó el avance de nuestro backend.
+    <br>TF<br>
+    Se concluye el proyecto de TasteTour. Implementando la backend y el Frontend funcionales.
     </td>
     </td>
 
@@ -285,10 +293,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     - Realicé la parte de Problem Statements, Lean UX assumptions, y los esquemas de User Personas, User Journey Mapping, Empathy Mapping,  As-Is-Scenario Mapping, To-Be Scenario Mapping e Impact Mapping, de acuerdo a la información de obtenida con las entrevistas realizadas.
     <br><br>
-<b>Sagastegui Rodriguez, Luis Jesus</b>
-    <br>
-    - Realice los Style Guidelines tratando de obtener un aplicativo llamativo para cualquier usuario y que vaya acorde con nuestra propuesta. De igual manera, realice el Information Architecture teniendo en cuenta el sistema de organizacion que tendra nuestro aplicativo.
-    <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
     -Realize las partes de Segmentos objetivo, User Task Matrix, User Stories, Product Backlog y el Trello de acuerdo a nuestras historias de usuario realizadas<br/>    
@@ -300,10 +304,6 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
 <b>Aliaga Pimentel, George Arturo</b>
     <br>
     - Desarrollé el apartado de Restaurantes y favoritos, esta pantalla sirve para que los usuarios puedan verificar los restaurantes que existen en el país. A su vez, el usuario podrá guardar en sus favoritos, un restaurante que le haya interesado dandole al boton de la estrella.
-    <br><br>
-<b>Sagastegui Rodriguez, Luis Jesus</b>
-    <br>
-    - Realicé el apartado Login, Register y Home, el login y el register se utilizarán con un autenticador la cual hará que revise si el usuario realmente está registrado, a su vez, realicé el Home la cual muestra todos los apartados que contiene la pagina web.
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
@@ -317,12 +317,21 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     <br>
     -Realicé mi avance de el backend de restaurante, esta parte de mi avance sirve para que cuando el dueño quiera registrar su restaurante, automaticamente ingrese su restaurante en la base de datos.
     <br><br>
-<b>Sagastegui Rodriguez, Luis Jesus</b>
+<b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
+    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>
+    <br> TF<br>
+<b>Chirinos Arevalo, Daniel Rodrigo</b>
+        <br>
+        -Realicé la implementación de la backend con front y corregí algunas observaciones del profesor.<br/>
+        <br><br>
+<b>Aliaga Pimentel, George Arturo</b>
+    <br>
+        -Corregí algunas observaciones del profesor y ayudé con la implementación de la backend con front.<br/>
     <br><br>
 <b>Vittorio Marcelo, Eduardo Espinoza</b>
     <br>
-    -Realicé mi avance de el backend de user, sirve para poder verificar la cantidad de usuarios que tenemos en la plataforma, dicha cantidad y nuevos registros se ingresarán en la base de datos.<br/>         
+        -Corregí algunas observaciones del profesor y ayudé con la implementación de la backend con front.<br/>        
 
 </td>
     <td>TB1
@@ -333,6 +342,9 @@ Conoce al menos un sector empresarial o dominio de aplicación de soluciones de 
     Se identificó las partes de una pagina web, tambien se pudo realizar todo el frontend de acuerdo a nuestra problematica y user stories.<br>
     TB2<br>
     Se realizó el avance de la programación interna de una pagina web de acuerdo a nuestros user stories.
+    <br>TF<br>
+    Se concluye el proyecto de TasteTour. Gracias a la comunicación del equipo, el proyecto tastetour se pudo completar, faltaron cosas que corregir pero se logró como equipo.
+    </td>
     </td>
 </tr>
 </table>
@@ -379,14 +391,6 @@ Ser la plataforma líder en el desarrollo de soluciones tecnológicas que empode
  <tr>
    <td><img src= "Images/FotoVittorio.jpg" alt= "Imagen del integrante Vittorio" width="700"></td> 
    <td>Me llamo Vittorio Marcelo Eduardo Espinoza y soy un estudiante de la UPC que estudia la carrera de Ingeniería de Software. Soy una persona solidaria, calmada, honesta y en la cual se puede confiar. Me esforzaré en ayudar a mi equipo en todo lo que pueda para que entre todos podamos terminarlo de manera adecuada y satisfactoria.
-   </td>
-    </tr>
-</table>
-
-<table>
- <tr>
-   <td><img src= "Images/FotoJesus.png" alt= "Imagen del integrante Jesus" width="900"></td> 
-   <td> Actualmente estoy estudiando la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Desde muy corta edad me interesaba todo lo relacionado a los avances tecnológicos. Tengo conocimientos en programación web (JS, HTML, Angular, Vue, TS, etc)  . Me considero un estudiante con mucha persistencia, por lo que nunca me rindo hasta cumplir con mis objetivos. Y siempre quiero aprender algo nuevo cada día.
    </td>
     </tr>
 </table>
@@ -2468,7 +2472,7 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
 
 ### 4.7.1. Class Diagrams
 
-<td><img src="Images/Diagrama de clases.png" alt="Imagen del diagrama de clases" width="1300"></td>
+<td><img src="Images/DiagramaFinal.png" alt="Imagen del diagrama de clases" width="1300"></td>
 
 ### 4.7.2. Class Dictionary
 
@@ -2634,20 +2638,6 @@ Si el usuario inicia sesión con su cuenta, llegará a la página principal de l
     <td>void</td>
     <td>pago()</td>
     <td>Realizar el pago con la tarjeta de debito</td>
-  </tr>
-</table>
-
-<table>
-    <td colspan= "3" align="center">Reseña</td>
-<tr>
-    <td>int</td>
-    <td>valoración</td>
-    <td>Calificación del tour</td>
-  </tr>
-  <tr>
-    <td>string</td>
-    <td>comentario</td>
-    <td>Comentario del tour</td>
   </tr>
 </table>
 
@@ -3191,6 +3181,8 @@ En esta sección se especifican los detalles del Sprint Backlog, que es una list
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+En esta sección se presentan los commits realizados en el repositorio de GitHub, donde se puede observar el trabajo colaborativo de cada integrante del equipo en el desarrollo de la Landing Page. A continuación, se detallan las contribuciones individuales en diversas ramas del proyecto, incluyendo las implementaciones de las funcionalidades principales y las integraciones necesarias para el despliegue final del producto.
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -3447,7 +3439,10 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     </tr>
 </table>
 
-#### 5.2.1.2. Sprint Backlog 2
+#### 5.2.2.2. Sprint Backlog 2
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -3551,6 +3546,8 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
+
+En esta sección se presentan los registros detallados del desarrollo del frontend del proyecto, organizados en una tabla que muestra las ramas relevantes, los identificadores de commit, los autores responsables, los mensajes asociados a cada cambio y las fechas de cada contribución.
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -3664,6 +3661,8 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+
 
 <table  align="left" border="1" width="100%">
     <tr>
@@ -3783,13 +3782,7 @@ Para este sprint, se realizará toda la presentación del FrontEnd, junto con lo
     
 </table>
 
-**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos
-
-**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga
-
-**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo
-
-**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui
+**Link del Repositorio de los testings:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -3854,6 +3847,8 @@ En este item, se va a presentar las pantallas realizadas por el equipo, cada pan
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se proporciona el enlace al frontend del proyecto, donde se puede visualizar la implementación final y funcional de todas las características desarrolladas durante el Sprint:
 
 **Link de el Frontend**: https://tastetourproyect.web.app </td>
 
@@ -4014,6 +4009,11 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3
+
+En esta sección se especifican los detalles del Sprint Backlog, que es una lista de tareas que se han realizado para completar el Sprint.
+
+<td><img src="Images/TrelloImage.png" alt="Imagen del insights" width="1500"></td>
+
 <table  align="left" border="1" width="100%">
       <tr>
        <td colspan="1"><b>Sprint #</b></td>
@@ -4286,6 +4286,8 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+En esta sección se detalla el trabajo realizado en el repositorio de GitHub correspondiente al backend del proyecto. A través de los commits, se puede observar cómo cada integrante del equipo ha contribuido al desarrollo de diversas funcionalidades y mejoras.
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -4483,6 +4485,8 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+
+
 <table  align="left" border="1" width="100%">
     <tr>
         <th>Repository</th>
@@ -4553,13 +4557,7 @@ Para este sprint, se realizará toda la configuración del Backend, configurando
     
 </table>
 
-**Feature de Daniel Chirinos:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Daniel-Chirinos-Backend
-
-**Feature de George Aliaga:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-George-Aliaga-Backend
-
-**Feature de Vittorio Eduardo:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Vittorio-Eduardo-Backend
-
-**Feature de Luis Sagastegui:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing/tree/feature/tb2-Luis-Sagastegui-Backend
+**Link del Repositorio de los testings:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing.
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -4730,6 +4728,531 @@ Se creó una organización en Github con el nombre de la StartUp. Luego, se cre�
 
 <br><br>
 
+### 5.2.4. Sprint 4
+
+Para este sprint final, nos enfocaremos en pulir todos los aspectos del Backend, integrando todo lo aprendido en clase. La organización del proyecto continuará utilizando GitHub, empleando ramas para que cada integrante pueda subir y refinar su parte correspondiente. Una vez completadas y revisadas, estas partes se integrarán en la rama develop. El objetivo principal de este sprint es asegurarnos de que todas las configuraciones necesarias estén optimizadas para que nuestro FrontEnd funcione de manera efectiva junto con el Backend, garantizando así una entrega final de alta calidad.
+
+#### 5.2.4.1. Sprint Planning 4
+
+<table align="center"  border="1" width="90%" style="text-align:center;">
+    <tr align="left">
+        <td>
+            <b>Sprint #</b>
+        </td>
+        <td>
+            <b>Sprint 4</b>           
+        </td>
+    </tr>
+    <tr align="left">
+        <td colspan="2">
+            <b>Sprint Planning Background</b>
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Date</b>
+        </td>
+        <td>
+            15/06/24         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Time</b>
+        </td>
+        <td>
+            16:00         
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Location</b>
+        </td>
+        <td>
+            Reuniones por WhatsApp y universidad      
+        </td>
+    </tr>
+     </tr>
+       <tr align="left">
+        <td>
+            <b>Prepared By</b>
+        </td>
+        <td>
+            Integrantes de TasteTeam     
+        </td>
+    </tr>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Attendess (to planning meeting)</b>
+        </td>
+        <td>
+            - Aliaga Pimentel, George Arturo <br/>
+            - Chirinos Arevalo, Daniel Rodrigo <br/>
+            - Eduardo Espinoza, Vittorio Marcelo <br/>    
+        </td>
+    </tr>
+      </tr>
+       <tr align="left">
+        <td>
+            <b>Sprint n - 4</b>
+            <b>Review Summary</b>
+        </td>
+        <td>
+            Se mejoran los features establecidos y bounded context para cada integrante, centrados en el desarrollo del BackEnd para la plataforma TasteTour. Nos enfocamos en optimizar estos features y en implementar completamente el Backend con el FrontEnd. 
+            </br></br>
+            Cada integrante realiza las correciones y mejoras correspondientes con su propio backend.
+        </td>
+    </tr>
+    <tr align="left">
+        <td>
+            <b>Sprint n - 3</b>
+            <b>Retrospective Summary</b>
+        </td>
+        <td>
+        Se mantuvo una comunicación para la repartición de las partes asignadas. Cada uno pudo entregar sus partes a tiempo, se tiene lista la implementación del frontend con el backend para esta entrega final.
+        </td>
+    </tr>
+     <tr align="left">
+        <td colspan="2">
+            <b>Sprint Goal & User Stories</b>
+        </td>
+    </tr>
+      <tr align="left">
+        <td>
+            <b>Sprint 4 Velocity</b>
+        </td>
+        <td>
+            30
+        </td>
+    </tr>
+       <tr align="left">
+        <td>
+            <b>Sum of Story Points</b>
+        </td>
+        <td>
+            26
+        </td>
+    </tr>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+En esta sección se especifican los detalles del Sprint Final, que es una lista de tareas y actividades completadas para concluir el proyecto. El Sprint Final abarca todas las acciones necesarias para asegurar que el producto cumple con los requisitos establecidos y está listo para ser entregado o desplegado.
+
+<td><img src="Images/TrelloImage.png" alt="Imagen del insights" width="1500"></td>
+
+<table  align="left" border="1" width="100%">
+      <tr>
+       <td colspan="1"><b>Sprint #</b></td>
+       <td colspan="7"><b>Sprint 4</b></td>
+     </tr>
+     <tr>
+       <td colspan="2"><b>User Story</b></td>
+       <td colspan="6"><b>Work-Item / Task</b></td>
+     </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Description</b></td>
+    <td><b>Estimation(Hours)</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Edición de perfil-Back</td>
+    <td>Llamar el endpoint y realizar un PUT en la pagina "Profile"</td>
+    <td>4</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Agregar la clase DebitCard</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Llamar el endpoint de DebitCard</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   <td>US04</td>
+    <td>Ingreso de datos de tarjeta-Back</td>
+    <td>Realizar la funcionalidad de guardar los cambios del usuario para DebitCard</td>
+    <td>4</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Registro de restaurante-Back</td>
+    <td>Llamar al endpoint restaurant e implementarlo en la pagina "Restaurantes"</td>
+    <td>1</td>
+    <td>George Aliaga</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14 </td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Llamar el endpoint de Booking e implementarlo en la pagina "Reservas"</td>
+    <td>2</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+   <td>US14 </td>
+    <td>Aplicar restaurante en tours-Back</td>
+    <td>Realizar la funcionalidad de reservar un tour y guardarlo en la lista de reservas</td>
+    <td>6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Creación de cuenta-Back</td>
+    <td>Agregar un usuario y mostrarlo en el frontend</td>
+    <td>4</td>
+    <td>Vittorio Eduardo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td>Visualización de paquetes de tours disponibles-Back</td>
+    <td>Llamar el endpoint de tours e implementarlo en la pagina "Tours"</td>
+    <td>6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Pago seguro de reserva de tour-Back</td>
+    <td>Agregar una reserva en la lista de reserva</td>
+    <td>6</td>
+    <td>Daniel Chirinos</td>
+    <td>Done</td>
+  </tr>
+
+</table>
+
+**Link del Product BackLog:** https://trello.com/invite/b/1HaugFLW/ATTIb3260691bed57c0891f2356a69aebb1bE91FB540/si729-2401-ws53-grupo-04
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+En esta sección se detalla el trabajo realizado en los repositorios de GitHub correspondientes al backend y frontend del proyecto final.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Author</th>
+        <th>Message</th>
+        <th>Time ago</th>
+    </tr>
+    <tr>
+        <td rowspan=19>BackEnd</td>
+        <td>main</td>
+        <td>a7333a0</td>
+        <td>Daniel Chirinos</td>
+        <td>Update backend</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>8e67f33</td>
+        <td>Daniel Chirinos</td>
+        <td>Restaurant backend updated</td>
+        <td>23/04/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>e419406</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated Develop</td>
+        <td>24/04/2024</td>
+    </tr>
+    <tr>
+        <td>main</td>
+        <td>72c246c</td>
+        <td>Daniel Chirinos</td>
+        <td>Final Version</td>
+        <td>25/04/2024</td>
+    </tr>
+    <tr>
+        <td rowspan=19>FrontEnd</td>
+        <td>master</td>
+        <td>0c77e7a</td>
+        <td>Daniel Chirinos</td>
+        <td>backend user implemented</td>
+        <td>23/06/2024</td>
+    </tr>
+    <tr>
+        <td>master</td>
+        <td>e7954cf</td>
+        <td>Daniel Chirinos</td>
+        <td>Restaurant backend implemented</td>
+        <td>23/06/2024</td>
+    </tr>
+    <tr>
+        <td>master</td>
+        <td>e7171bb</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour backend works partially</td>
+        <td>23/06/2024</td>
+    </tr>
+    <tr>
+        <td>master</td>
+        <td>d6e45f5</td>
+        <td>Daniel Chirinos</td>
+        <td>Updated branch</td>
+        <td>24/06/2024</td>
+    </tr>
+    <tr>
+        <td>master</td>
+        <td>9e4be46</td>
+        <td>Daniel Chirinos</td>
+        <td>Tour backend works</td>
+        <td>24/06/2024</td>
+    </tr>
+    <tr>
+        <td>master</td>
+        <td>b2f2285</td>
+        <td>Daniel Chirinos</td>
+        <td>Final version</td>
+        <td>25/06/2024</td>
+    </tr>
+    
+</table>
+
+**Link del repositorio frontend:** https://github.com/SI729-2401-WS53-Grupo-4/front-end
+**Link del repositorio backend:** https://github.com/SI729-2401-WS53-Grupo-4/platform/tree/main
+
+###  5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En este Item se realizó un repositorio de todos los user stories posibles que se han implementado en el frontend y backend.
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=19>SI729-2401-WS53-testing</td>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>3967005</td>
+        <td>US-05-Back</td>
+        <td>Feature: Pago seguro de reserva de tour</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>d1314d2</td>
+        <td>US-06-Back</td>
+        <td>Feature: Visualización de paquetes de tours disponibles</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Daniel-Chirinos-Backend</td>
+        <td>22a67f6</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga-Backend</td>
+        <td>0e585aa</td>
+        <td>US-07</td>
+        <td>Feature: Información detallada del tour</td>
+        <td>14/05/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-George-Aliaga-Backend</td>
+        <td>2d2092c</td>
+        <td>US-14-Back</td>
+        <td>Feature: Aplicar restaurante en tours</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Luis-Sagastegui-Backend</td>
+        <td>5983044</td>
+        <td>US-10-Back</td>
+        <td>Feature: Plan de suscripción</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>cee23e9</td>
+        <td>US-03-Back</td>
+        <td>Feature: Edición de perfil</td>
+        <td>09/06/2024</td>
+    </tr>
+    <tr>
+        <td>feature/tb2-Vittorio-Eduardo-Backend</td>
+        <td>c249399</td>
+        <td>US-01-Back</td>
+        <td>Feature: Creación de cuenta</td>
+        <td>09/06/2024</td>
+    </tr>
+    
+</table>
+
+
+**Link del Repositorio de los testings:** https://github.com/SI729-2401-WS53-Grupo-4/SI729-2401-WS53-testing.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este item, se va a presentar las pruebas de todas las funcionalidades que se pudieron implementar en el frontend.
+
+## Restaurante
+
+<td><img src="Images/ExecutionRestaurantBack.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionRestaurantBack2.png" alt="Imagen del execution" width="1500"></td>
+
+## Tours
+
+<td><img src="Images/ExecutionToursBack.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionToursBack2.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionToursBack3.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionToursBack4.png" alt="Imagen del execution" width="1500"></td>
+
+## Profile
+
+<td><img src="Images/ExecutionUserBack2.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionUserBack.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionMethodBack2.png" alt="Imagen del execution" width="1500"></td>
+<td><img src="Images/ExecutionMethodBack.png" alt="Imagen del execution" width="1500"></td>
+
+
+**Link del video de ejecución:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EeNmI-DXUIBOiYEsytcYEVABcuhgXdIsmO0t3oSDsv11GQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OEzlo7
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se realizó el avance de la documentación de Web Services. Se documentaron un total de 14 endopoints utilizando Swagger OpenApi, lo que mejora la claridad y la accesibilidad de nuestra API para los desarrolladores. 
+
+| Endpoint         | Acción      | Verbo HTTP | Sintaxis de Llamada        | Parámetros                       | Ejemplo de Response             | 
+|------------------|-------------|------------|----------------------------|----------------------------------|----------------------------------|
+| /Api/TasteTour/Tour/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`| `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Tour with given id successfully deleted " }`      | 
+| /Api/TasteTour/Tour/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/Tour  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|`{ "id": 1, "titleTour": "..."`|
+| /Api/TasteTour/User/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `firstName`, `lastName`, `password`, `location`,`birthdate`,`email`,`phone`| `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}     | Modificar      | PUT        | `/api/v1/users`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "User with given id successfully deleted " }`      | 
+| /Api/TasteTour/User/create  | Agregar  | POST        | `/api/v1/users/{id}`| `titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId` | `{ "id": 1, "firstName": "..."`| 
+| /Api/TasteTour/User  | Obtener    | GET     | `/api/v1/users/{id}`|`name`, `location`, `time`, `description`|`{ "id": 1, "name": "..."`|
+| /Api/TasteTour/restaurants/{id}    | Obtener por Id      | GET      | `/api/v1/users`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants/{id}   | Eliminar     | DELETE        | `/api/v1/users/{id}`| `id` | `{ "message": "Restaurant with given id successfully deleted " }`      | 
+| /Api/TasteTour/restaurants/create  | Agregar  | POST        | `/api/v1/users/{id}`| `name`, `location`, `time`, `description`| `{ "id": 1, "name": "..."`| 
+| /Api/TasteTour/restaurants  | Obtener    | GET     | `/api/v1/users/{id}`|`titleTour`, `description`, `instructor`, `rating`,`capacity`,`duration`,`date`,`price`,`restauranteId`|``{ "id": 1, "name": "..."`|  
+| /Api/TasteTour/booking/{id}  | Obtener por Id   | GET     | `/api/v1/booking/{id}`|`titleTour`, `imageTour`, `duration`, `minPrice`|``{ "id": 1, "titleTour": "..."`| 
+| /Api/TasteTour/debitCard/{id}    | Obtener por Id      | GET      | `/api/v1/debitCard`|`numCard`, `cvv`, `date`, `name`|`{ "id": 1, "numCard": "..."`|
+| /Api/TasteTour/debitCard/{id}     | Modificar      | PUT        | `/api/v1/debitCard`|`numCard`, `cvv`, `date`, `name`|`{ "id": 1, "numCard": "..."`|
+| /Api/TasteTour/debitCard/{id}   | Eliminar     | DELETE        | `/api/v1/debitCard/{id}`| `id` | `{ "message": "DebitCard with given id successfully deleted " }`      | 
+| /Api/TasteTour/debitCard/create  | Agregar  | POST        | `/api/v1/debitCard/{id}`|`numCard`, `cvv`, `date`, `name`|`{ "id": 1, "numCard": "..."`|
+| /Api/TasteTour/debitCard  | Obtener    | GET     | `/api/v1/debitCard/{id}`|`numCard`, `cvv`, `date`, `name`|`{ "id": 1, "numCard": "..."`|
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+## Creación de Cuentas y Configuración de Recursos en Proveedores de Servicios en la Nube
+
+# Firebase
+
+Para el despliegue de nuestra aplicación web, utilizamos Firebase. Firebase nos proporciona una plataforma robusta para alojar y gestionar nuestra aplicación, ofreciendo una variedad de servicios que facilitan el desarrollo y el despliegue.
+
+**Creación de cuenta en Firebase:** Inicialmente, se creó una cuenta en Firebase para acceder a los servicios necesarios.
+
+**Configuración del proyecto en Firebase:** Dentro de Firebase, se configuró un proyecto para la aplicación, asegurándonos de conectar correctamente los recursos necesarios, como la base de datos y el alojamiento.
+
+<td><img src="Images/FirebaseEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+# Vercel
+
+Para nuestra landing page, utilizamos Vercel, una plataforma conocida por su facilidad de uso y su capacidad para manejar despliegues rápidos y eficientes de aplicaciones web.
+
+**Creación de cuenta en Vercel:** Se creó una cuenta en Vercel para gestionar el despliegue de la landing page.
+
+**Configuración y despliegue del proyecto:** Se configuró el proyecto en Vercel, asegurando que todos los archivos y recursos necesarios estuvieran correctamente integrados.
+
+
+<td><img src="Images/VercelEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+
+# Configuración de Proyectos de Desarrollo para Integración y Automatización de Deployment
+
+Para el desarrollo y la gestión del código, utilizamos IntelliJ IDEA, que nos proporcionó un entorno de desarrollo integrado (IDE) robusto para manejar nuestro proyecto de API RESTful.
+
+**Configuración del proyecto en IntelliJ:** El proyecto se configuró en IntelliJ, incluyendo la integración con herramientas como Spring Boot y Swagger UI.
+
+**Automatización del deployment:** Se configuraron scripts y herramientas para automatizar el proceso de despliegue, permitiendo un flujo de trabajo más eficiente y menos propenso a errores.
+
+<td><img src="Images/OpenApiEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+Swagger UI se utilizó para documentar y probar nuestra API, facilitando la visualización y el testing de los endpoints implementados.
+
+**Integración con Swagger UI:** Dentro del proyecto en IntelliJ, se integró Swagger UI para proporcionar una interfaz visual que permite probar los endpoints de la API de manera interactiva.
+
+
+<td><img src="Images/DocEvidence.png" alt="Imagen del deployment" width="1500"></td>
+
+<td><img src="Images/DocEvidence2.png" alt="Imagen del deployment" width="1500"></td>
+
+
+Para el desarrollo de la Backend, se utilizaron las siguientes texnologías:
+
+- Sprintboot: Herramienta que nos sirvió para el desarrollo de la Backend
+- MySqlWorkbench: Gestión de base de datos que nos sirvió para verificar si las tablas o el funcionamiento dentro de las mismas, es la correcta.
+- Git: Sistema de control de versiones para gestionar el desarrollo de software. Permite realizar un seguimiento de los cambios en el código y colaborar con otros. Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page
+- GitHub: Plataforma online para alojar repositorios Git. Permite compartir código, colaborar en proyectos y acceder a una gran comunidad de desarrolladores. Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
+Igualmente, para el correcto control de versiones y el adecuado desarrollo de la backend, se empleó la metodología de trabajo GitFlow Workflow. Es un método para gestionar el desarrollo de software con Git. Define roles y ramas específicas para cada etapa del proceso, como desarrollo, pruebas y lanzamiento. Esto ayuda a organizar el código, facilita la colaboración y reduce el riesgo de errores.
+
+**Observación:** Para este trabajo final se realizó la implementación del frontend y backend, pero no se hizo el deploy de la backend, se trabajó todo en local.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Se creó una organización en Github con el nombre de la StartUp. Luego, se crearon repositorios para la Backend y frontend. En dichos repositorios, se crearon diferentes ramas (branchs) para diferenciar el tipo de trabajo que se realiza, en este caso, cada integrante tiene un bounded context a realizar. La rama `master` y `main` se emplearon únicamente para el despliegue final de la aplicación; `develop`, para hacer _merge_ con demás ramas incluída la `master`; `feature`, para implementar alguna funcionalidad. De esta manera se protege el código funcional y se diferencia de features en desarrollo por los miembros. Después de la creación de cada rama, uno o más usuario pueden acceder a esta y realizar cambios y guardarlos como commits.
+
+## GitFlow Frontend
+
+<td><img src="Images/Insights 4.png" alt="Imagen del insights" width="1500"></td>
+
+**Nota:** Repositorio antiguo
+
+<td><img src="Images/Insights Front.png" alt="Imagen del insights" width="1500"></td>
+
+**Nota:** La razón por la cual se ve con pocas ramas es porque se tuvo que volver a crear un repositorio con todos los archivos de un repositorio anterior.
+
+## GitFlow Frontend
+
+<td><img src="Images/InsightsBack1.png" alt="Imagen del insights" width="1500"></td>
+<td><img src="Images/InsightsBack2.png" alt="Imagen del insights" width="1500"></td>
+
+# Contribuciones del equipo
+
+## Team collab Frontend
+
+<td><img src="Images/TeamCollabFront.png" alt="Imagen del insights" width="1500"></td>
+
+## Team collab Backend
+
+<td><img src="Images/TeamCollabBackend2.png" alt="Imagen del insights" width="1500"></td>
+
+<br><br>
+
 ### 5.3. Validation Interviews
 #### 5.3.1. Diseño de Entrevistas
 
@@ -4835,7 +5358,7 @@ Durante la entrevista, Luis Alejandro Thomburne Vidales expresó sus impresiones
 
 <br/>
 
-**Video de validaciones en entrevistas**: <a href= "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p"> Click para ver entrevistas </a>
+**Video de validaciones en entrevistas**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EfolxRY0KUNPlAvSQI-3CKkBa0VkBTEdsy7IhWrYIHPikA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3UjH8p"
 
 #### 5.3.3. Evaluaciones según heurísticas
 
@@ -4976,6 +5499,7 @@ Imposibilidad de seleccionar tiempo/horario en la reserva de tours
 - Se definió el frontend de la plataforma
 - Se avanzó el backend de nuestro proyecto
 - Hemos identificado los componentes que se utilizan en la backend y en el frontend, fue una tarea dificil pero a la vez un reto que se puede superar.
+- Finalizamos el proyecto de TasteTour.
 
 <br><br>
 
@@ -5019,3 +5543,5 @@ https://trello.com/invite/b/dCIYLzmf/ATTIaf5b354d3f661eaeb891831705abcacc74EE010
 - Link de el Frontend deployado: https://tastetourproyect.web.app
   
 - Link About the product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EQWZmBKMRvRKgCzOgrhD8DgBJZzJFZDzULgb5YboBJ41Hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N3O5Hp
+  
+- Link del About the team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202019577_upc_edu_pe/EbWraXGY8xtNv4WV-3VJ_qsBfq3FUSHf5iV0g0FGyHtrGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=9itgGW
